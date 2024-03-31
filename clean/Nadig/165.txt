@@ -1,0 +1,335 @@
+	hi laughs 
+	oh you wanna talk to Lance okay here 
+	adjokay nhere 
+	MOD OBJ PUNCT
+	it's for you 
+	say hello 
+	say hello 
+	xxx 
+	hello 
+	sit down so I can see you 
+	PUNCT
+	thankyou 
+	hello 
+	hello are you there 
+	hi what are you doing to me Lance laughs 
+	proobjme npropLance 
+	PUNCT
+	okay bye 
+	press th press off 
+	press off 
+	turn it off 
+	look 
+	okay you gonna dial 
+	dial the numbers 
+	di di di di di di di brr brr 
+	hello 
+	hello 
+	laughs is it for me 
+	is it for me 
+	eh eh 
+	is it for me 
+	no 
+	beep	is it for her 
+	what's her name 
+	Sophie 
+	her name's Sophie 
+	dahring dahring hello 
+	dahring you better answer 
+	say hello 
+	hello 
+	hi how are you 
+	xxx 
+	yes is it Nana 
+	on the phone 
+	are you pressing the buttons 
+	your turn 
+	hello  hello  hello 
+	oh it's Lance's okay 
+	-um 
+	eidai	oh she wants her bottle 
+	look she just woke up 
+	she wants her bottle 
+	are you gonna give her  her bottle 
+	nbottle 
+	hm 
+	like that 
+	xxx dodo	can you go to sleep 
+	she's drinking her milk 
+	you gonna give her  her bottle now 
+	advtemnow 
+	yeah she wants her milk eh 
+	she wants her bottle mm sips 
+	she's having her milk 
+	okay oh she's done 
+	thankyou 
+	and more  more milk more bottle 
+	dodeh	dodo	c'est	what about this baby 
+	this baby's smaller 
+	does she want a bottle too 
+	is it a girl or a boy 
+	PUNCT
+	little boy in pink in purple 
+	PUNCT
+	huh 
+	yeah what's wh what happened to her eye 
+	prepto detpossher neye 
+	POBJ PUNCT
+	it's open 
+	oh she woke up 
+	see her eyes open when she sits up 
+	advup 
+	PUNCT
+	she's awake 
+	maybe she's hungry 
+	you wanna feed her 
+	eats here you could do it 
+	here you take that one I'll take this one 
+	prosubImodwill vtake detdemthis proindefone 
+	ROOT DET OBJ PUNCT
+	yeah that's right she's hungry 
+	adjhungry 
+	what about baby this baby 
+	eats what are they eating breakfast 
+	nvbreaknfast 
+	oatmeal 
+	eats mhm we hafta feed the babies huh 
+	nbaby-PL cohuh 
+	COM PUNCT
+	laughs oh she fell down 
+	hey laughs 
+	laughs 
+	she fell down 
+	well maybe she wants something to drink ready 
+	prepto ndrink cmcm adjready 
+	ENUM PUNCT
+	I'm gonna you wanna pour it 
+	vwantinfto vpour properit 
+	COMP OBJ PUNCT
+	can you pour it 
+	look like this tchou tchou 
+	okay yeah  yeah oh here let's put it in the middle 
+	properit prepin detartthe nmiddle 
+	JCT DET POBJ PUNCT
+	if you need more you pour it okay 
+	cookay 
+	PUNCT
+	mm stir it 
+	uhoh 
+	oh it fell down 
+	here let's move it okay 
+	uhoh 
+	oh 
+	laughs ah 
+	laughs oh she fell down 
+	what about the truck is the truck hungry 
+	detartthe ntruck adjhungry 
+	POSTMOD PUNCT
+	eats the truck needs gas 
+	xxx 
+	eats yeah nice truck 
+	xxx a dump truck 
+	what is the truck gonna carry a block 
+	vcarry cmcm detarta nblock 
+	DET OBJ PUNCT
+	can you pick up another block 
+	and the spoon 
+	what about this spoon 
+	that one too 
+	where's he gonna bring it over here 
+	properit cmcm prepover nhere 
+	JCT POBJ PUNCT
+	are you gonna put that in there too 
+	prodemthat prepin nthere advtoo 
+	JCT PUNCT
+	oh it's starting to be a lot in your truck 
+	nlot prepin detpossyour ntruck 
+	NJCT DET POBJ PUNCT
+	let's see puh puh puh puh puh puh puh puh puh 
+	uhoh 
+	oh no they fell out 
+	let's put them in please 
+	there 
+	okay ready 
+	doo doo doo doo doo doo doo doo 
+	doo doo doo 
+	oh dump it out dump 
+	dump it out pewch 
+	everything out 
+	come get more 
+	here 
+	eh 
+	oh 
+	pile it up 
+	eh  
+	laughs 
+	dah 
+	boom	uhoh I get to sneeze 
+	my nose 
+	oh you're piling it up 
+	bah 
+	boom	sneezes sneezes 
+	laughs where did it go 
+	where's the truck 
+	I don't see it 
+	xxx 
+	where's the truck 
+	is he picking up blocks 
+	buoh 
+	woah look at the pile there 
+	is it gonna fall 
+	it's not falling 
+	oh it fell 
+	here can you put this one too 
+	advtoo 
+	okay 
+	oh 
+	ohmygoodness it fell 
+	here what about these ones 
+	are these too much 
+	or can they fit 
+	engine 
+	lemme see 
+	wow you piled that up 
+	laughs oh 
+	buoh 
+	y go get it 
+	go get it and bring it back 
+	thankyou 
+	oh thanks 
+	look what if we put the yellow round ones on top of the blue ones 
+	adjyellow adjround none-PL advon ntop prepof detartthe
+	nblue proindefone-PL 
+	OBJ JCT MOD NJCT DET POBJ COBJ
+	PUNCT
+	buoh 
+	boom	put the yellow on top of the blue 
+	nblue 
+	PUNCT
+	thanks 
+	and the orange on the block on top of the yellow 
+	prepon ntop prepof detartthe nyellow 
+	NJCT DET POBJ PUNCT
+	eh -uh 
+	woah it's starting to get tall 
+	laughs 
+	laughs boom	boom	oh you made it fall 
+	laughs 
+	laughs 
+	boom	boom	vlike prodemthis 
+	OBJ PUNCT
+	will it be stronger 
+	will it be stronger 
+	where's the other blocks 
+	in the truck 
+	oh the trucks cleaning th over it all fell down 
+	properit advall vfallPAST advdown 
+	ROOT JCT PUNCT
+	thankyou 
+	which one first 
+	this one 
+	ehuhai	this one 
+	ahzay	two yellow 
+	-uh 
+	laughs oh it fell 
+	she wants her bo bottle 
+	laughs her eye keeps closing eh 
+	maybe she's half asleep 
+	laughs hm 
+	mm mm 
+	yeah she wants her bottle 
+	sips 
+	sips ah 
+	here can you  can you fill up my cup 
+	pour it in  pour it in tch 
+	thankyou this cup too 
+	laughs 
+	here so you can stir it 
+	bu 
+	uhoh here it spilled 
+	maybe the baby's hungry again 
+	look you're opening her eye huh 
+	cohuh 
+	oh I see her toes 
+	I see your toes 
+	her toes are just little  little 
+	screams 
+	xxx little baby toes 
+	I hear your brother whoops 
+	oh here's the plates 
+	dehdehda	oh yes 
+	mhm 
+	you wanna put this in the truck 
+	detartthe ntruck 
+	PUNCT
+	engine 
+	woah xxx red truck 
+	dump truck 
+	is he going fast 
+	or is he going slow 
+	hm 
+	engine 
+	yeah oh right into the cup 
+	it's her cup 
+	is she hungry 
+	uhoh 
+	does she wanna sit up 
+	her eye will open if she sits up see 
+	prepup cmcm vsee 
+	LP ENUM PUNCT
+	open close open closed 
+	sitting up open 
+	grunts 
+	yeah she has something on her eye 
+	detpossher neye 
+	do you w what is it 
+	what is it 
+	is it glue that makes it do that 
+	prodemthat 
+	PUNCT
+	this one's stuck 
+	usually both of them open and close 
+	vclose 
+	PUNCT
+	it's stuck open 
+	like me look 
+	look at me 
+	open close 
+	where's your eyes 
+	you wanna open stand her up 
+	PUNCT
+	see 
+	you just hafta put her upright 
+	adjupright 
+	hm huh 
+	yes is that her truck 
+	can she ride in the truck 
+	eh can I see can she get in 
+	yoohoo laughs 
+	laughs 
+	she fell 
+	woohoo 
+	laughs 
+	laughs it's fun eh 
+	she's riding in a truck 
+	yeehaw 
+	laughs 
+	laughs ah dump 
+	she fell 
+	the dump truck dumped her out 
+	here 
+	she wants to do it again 
+	laughs 
+	whee 
+	laughs 
+	laughs wah 
+	laughs 
+	no he's gonna go 
+	laughs 
+	put her in  put her in 
+	laughs screams 
+	laughs xxx 
+	oh engine put her in 
+	okay ready set engine boom	laughs engine 
+	you hafta hold her in eh 
+	look at her big tummy 

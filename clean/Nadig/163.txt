@@ -1,0 +1,224 @@
+	Seeley look 
+	hello 
+	hello 
+	na call Grandma 
+	call Grandma 
+	boy that 
+	it's a horse 
+	xxx 
+	call Grandma 
+	hello 
+	who you calling 
+	xxx 
+	lemme see 
+	oh it's a horse neigh	haha 
+	no neigh	hello 
+	is anyone there  is anyone there 
+	come here 
+	Seeley come here 
+	let's play with the blocks 
+	wanna build something 
+	xxx 
+	hm 
+	what do you think you wanna build something 
+	vbuild proindefsomething 
+	OBJ PUNCT
+	oo oo it's a ba 
+	hm 
+	Seeley 
+	oo oo it's a ba 
+	it's a horse  horse 
+	awk 
+	two 
+	two 
+	three 
+	ah let's 
+	uhoh 
+	one 
+	one 
+	two 
+	uhoh 
+	ehoh 
+	one two 
+	da ee 
+	three  three  three 
+	xxx 
+	oh it's gonna fall  it's gonna fall it's going to fall 
+	properitauxbeS partgo-PRESP prepto nfall 
+	COMP JCT POBJ PUNCT
+	it's too high 
+	gasps uhoh 
+	uhoh ready 
+	one how many yellow b how many yellow do we have 
+	qnmany nyellow moddo prosubwe vhave 
+	SUBJ AUX SUBJ ROOT PUNCT
+	xxx 
+	xxx 
+	xxx 
+	one 
+	two 
+	gasps uhoh fell down 
+	uhoh it fell down 
+	xxx 
+	hm 
+	eh eh eh do 
+	what 
+	you want me to help 
+	yeah 
+	let's put it here 
+	you wanna stack those up 
+	gasps uhoh 
+	uhoh it fell 
+	gasps uhoh 
+	look  look 
+	xxx 
+	it's a ba  it's a ba 
+	come here look 
+	it's a ba 
+	it's a horse  horse 
+	neigh	hm 
+	hm 
+	can I call someone  can I call someone 
+	no 
+	can I use the phone 
+	no 
+	gasps please 
+	please can I use the phone 
+	no  no 
+	okay come here  come here 
+	Seeley come here 
+	hey Seeley come here and we'll play with the blocks 
+	vplay prepwith detartthe nblock-PL 
+	JCT DET POBJ PUNCT
+	xxx 
+	what do you wanna do 
+	you want me build something 
+	xxx 
+	hello can I talk to Seeley 
+	whines 
+	you want it 
+	hello 
+	who's on the phone 
+	who's there 
+	is there a horse on the phone 
+	a horsie 
+	are you talking to the horsie 
+	nhorse-DIM 
+	eh 
+	hm 
+	xxx 
+	no it's a horsie 
+	xxx 
+	you're doing hideandseek 
+	one two three 
+	there it is gasps 
+	you were hiding it hm 
+	two three  two three two t 
+	one two three 
+	one two three 
+	come here let's play with the blocks 
+	nblock-PL 
+	PUNCT
+	xxx 
+	do you wanna count the orange blocks 
+	nblock-PL 
+	PUNCT
+	one two three 
+	and the blue ones too 
+	one two three 
+	three blue ones 
+	want some help 
+	want me to help you 
+	here look 
+	let's make a xxx tower 
+	you like the phone huh 
+	hm 
+	wah woah 
+	do you wanna have some tea 
+	no xxx dink 
+	do you have some tea 
+	no 
+	you wanna pour some tea 
+	no 
+	no tea 
+	pour some tea for Mommy 
+	no 
+	no tea 
+	here pour some tea 
+	no xxx 
+	can we have some tea 
+	I'm thirsty eat 
+	can I have some 
+	baba	that's the baba	who's that for 
+	-uh no this is the tea 
+	the tea goes blow blow 
+	would you like some eat 
+	blow 
+	here 
+	whoosh whoosh 
+	would you like some 
+	-uh don't drink out of there 
+	no  no 
+	here this is your cup 
+	this is the cup for tea 
+	uhhuh 
+	oh 
+	eat 
+	you wanna stir your tea too 
+	xxx 
+	hm 
+	numnumnumnumnum 
+	are you hungry 
+	xxx 
+	here have a snack  have a snack eat 
+	eat 
+	eat are you eating like a dinosaur eat 
+	ndinosaur 
+	eat 
+	eat here I'll give you some more 
+	PUNCT
+	now eat like a dinosaur 
+	eat 
+	I'll give you more 
+	here 
+	here's some more 
+	eat like a dinosaur eat 
+	eat roars 
+	laughs yummy 
+	numnumnum 
+	numnumnum 
+	numnumnumnum 
+	numnum 
+	gasps xxx 
+	who are you gonna call now 
+	advtemnow 
+	no xxx 
+	gasps you wanna call the horsie 
+	wanna call Grandma 
+	you wanna call Grandma 
+	no mine 
+	can I have the phone too 
+	can I be the phone 
+	no 
+	no  no 
+	no no  no  no 
+	can I have 
+	no 
+	okay I'm gonna play with these 
+	prodemthese 
+	PUNCT
+	gasps tadah 
+	ta 
+	tadah  tadah 
+	you wanna break it down now 
+	break it down 
+	ah oh 
+	eat thankyou 
+	you're feeding me eat 
+	what's dat  that 
+	gasps that's a timer 
+	what is that 
+	it's a timer 
+	xxx tat 
+	what is that 
+	what is that 

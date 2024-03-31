@@ -1,0 +1,530 @@
+	are you gonna call the horses 
+	nhorse-PL 
+	what are you gonna say to the horses 
+	prepto detartthe nhorse-PL 
+	POBJ PUNCT
+	them can't talk 
+	they can't talk but maybe you can talk to them 
+	modcan vtalk prepto proobjthem 
+	CJCT JCT POBJ PUNCT
+	what would you say 
+	hi 
+	hi 
+	I'll  I'll be the horse okay 
+	whines 
+	I'll pretend I can talk 
+	you want me to be a magic horse 
+	nhorse 
+	PUNCT
+	whines 
+	no 
+	like at what I can be a horse at the farm 
+	detarta nhorse prepat detartthe nfarm 
+	PRED NJCT DET POBJ PUNCT
+	like a tha can talk 
+	no 
+	alright okay how about you call me and invite me over for a
+	teaparty 
+	vcall proobjme coordand vinvite proobjme advover prepfor
+	detarta nteaparty 
+	OBJ CONJ COORD OBJ JCT JCT DET
+	POBJ PUNCT
+	why 
+	yeah because we have tea a tea set here 
+	vsetZERO nhere 
+	COMP OBJ PUNCT
+	now why don't you call me like you call Grandma and you say come
+	and have some tea 
+	proobjme preplike properyou vcall npropGrandma coordand
+	properyou vsay vcome coordand vhave qnsome ntea 
+	POBJ JCT OBJ CONJ SUBJ COORD COMP
+	CONJ COORD QUANT OBJ PUNCT
+	you a horse 
+	no I'm gonna be I can be Mummy 
+	prosubI modcan copbe npropMummy 
+	AUX COMP PRED PUNCT
+	or I can be Grandma 
+	who do you want me to be 
+	I don't know 
+	you want me to be a princess 
+	no 
+	no 
+	do you want me to be a horse that you invite over for tea 
+	nhorse prorelthat properyou vinvite advover prepfor ntea 
+	LINK SUBJ CMOD JCT JCT POBJ PUNCT
+	no 
+	okay can I call you 
+	no 
+	woah Jeffrey lemme try 
+	okay ready 
+	doo doo doo doo who am I calling 
+	I'm calling you 
+	okay I'm gonna be Grandma okay 
+	npropGrandma cmcm adjokay 
+	PRED PUNCT
+	no I don't wanna 
+	hello Jeffrey 
+	wait 
+	dring dring 
+	no 
+	okay 
+	you hafta put it in xxx and then dingalingaling 
+	advtemthen 
+	PUNCT
+	and then you pick it up and say xxx 
+	coordand vsay 
+	PUNCT
+	okay alright d ring	ring	hello 
+	oh hi Grandma 
+	yeah Jeffrey's right here 
+	we were just about to have some tea 
+	ntea 
+	PUNCT
+	would you like to come over 
+	oh you're busy 
+	what are you doing 
+	you're going to the store 
+	well maybe on your way back from the store you could come 
+	detartthe nstore properyou modcould vcome 
+	POBJ SUBJ AUX ROOT PUNCT
+	hm Jeffrey would be very happy to see you 
+	infto vsee properyou 
+	XMOD OBJ PUNCT
+	lemme see  lemme see if he wants to talk 
+	PUNCT
+	do you wanna talk on the phone 
+	PUNCT
+	no 
+	what do you wanna say to Grandma 
+	npropGrandma 
+	PUNCT
+	I don't want 
+	nothing alright 
+	well he's being a big grumpy right now 
+	adjgrumpdn-Y nright advtemnow 
+	JCT PUNCT
+	okay we'll see you later bye 
+	cobye 
+	PUNCT
+	click	tea now 
+	vcome advover advlater conjbut vletproobjus vhave
+	detpossour ntea advtemnow 
+	JCT CONJ COORD OBJ COMP DET OBJ
+	POSTMOD PUNCT
+	can I have a teacup 
+	groans only one teacup 
+	there's two 
+	look there's one over there and one over there 
+	coordand detnumone prepover nthere 
+	NJCT POBJ PUNCT
+	where 
+	I'm gonna have this teacup 
+	nnteancup 
+	okay and can I have another teacup 
+	nnteancup 
+	PUNCT
+	shh shh 
+	mhm 
+	xxx 
+	m we need   we need our saucer 
+	the saucers 
+	can I have the t plate too 
+	thankyou 
+	do you have any cookies 
+	no 
+	no cookies 
+	yes pshew 
+	here cookies 
+	oh 
+	eats 
+	mm did you make those cookies 
+	these are cookies 
+	did you make them 
+	what kind of cookie is it 
+	mm 
+	orange 
+	orange cookies 
+	they're delicious eats 
+	who did you make them with 
+	could I have a little bit of sugar in my tea please 
+	nsugar prepin detpossmy ntea vplease 
+	NJCT DET POBJ COMP PUNCT
+	xxx 
+	blueberries 
+	a blueberry cookie 
+	sips mm 
+	doh I dipped it 
+	what are you putting in your you're dipping your cook yeah
+	that's fun eh 
+	detpossyour cmcm properyouauxbePRES partdip-PRESP
+	detpossyour cmcm coyeah prodemthatcopbeS adjfun coeh 
+	AUX XJCT DET LP COM SUBJ COMP
+	PRED COM PUNCT
+	mm sips is it a delicious cookie 
+	yeah 
+	can I try it 
+	sips mm blueberry 
+	that's yummy 
+	I love it 
+	what kind of cookie is that 
+	banana cookie 
+	banana 
+	mm eats taste it 
+	tasty eats 
+	mm I bet you Grandma would really like to eat some cookies with us
+	advrealdadj-LY vlike infto veat qnsome ncookie-PL prepwith
+	proobjus 
+	INF COMP QUANT OBJ JCT POBJ PUNCT
+	xxx 
+	do you think she'll g be coming over soon 
+	partcome-PRESP advover advsoon 
+	JCT PUNCT
+	I don't know 
+	I think so 
+	mhm I think so too 
+	how many cookies did you make 
+	you made a lot of cookies 
+	when did you make all these cookies Jeffrey 
+	ncookie-PL npropJeffrey 
+	PUNCT
+	I didn't see you making these cookies before eats 
+	detdemthese ncookie-PL advbefore 
+	NJCT PUNCT
+	they're delicious 
+	could I have some more tea please 
+	PUNCT
+	yes you may 
+	thankyou 
+	and the spoon to stir 
+	xxx a story 
+	no my Momma's feeding me 
+	oh you're Momma's feeding you okay 
+	partfeed-PRESP properyou cmcm adjokay 
+	ENUM PUNCT
+	I'll just sit here and cuddle with my baby 
+	prepwith detpossmy nbaby 
+	DET POBJ PUNCT
+	lalala	sleeping 
+	prosubsheauxbeS partsleep-PRESP 
+	PUNCT
+	how's Jacklyn doing 
+	is sh is she finished eating 
+	no 
+	no 
+	oh how long does it take to feed Jacklyn 
+	vfeed npropJacklyn 
+	OBJ PUNCT
+	time to take your pajamies off 
+	groans take her pajamies off 
+	okay alright you gotta take the pajamas off 
+	npajamas advoff 
+	JCT PUNCT
+	yeah 
+	it's hot out eh 
+	she doesn't need all these pajamas on 
+	advon 
+	PUNCT
+	no 
+	no there we go 
+	you gonna give her a bath 
+	nbath 
+	maybe it's time to give her a bath 
+	detarta nbath 
+	OBJ PUNCT
+	yeah 
+	alright 
+	maybe it's time to give her a bath 
+	detarta nbath 
+	OBJ PUNCT
+	okay bath time 
+	bath time girl 
+	lalalala	detarta nbath 
+	POBJ PUNCT
+	lalalalala	psh psh do you have your soap 
+	here we go 
+	washa	 washa	washa	look at her swim 
+	show me how she swims in the water 
+	detartthe nwater 
+	PUNCT
+	mhm what's she doing 
+	she kicking 
+	she's kicking 
+	in the house 
+	kicking in the house 
+	is she getting water all over the place 
+	detartthe nplace 
+	PUNCT
+	maybe hm 
+	here she goes 
+	are you the daddy or the mommy 
+	nmommy 
+	I dunno 
+	you don't know 
+	Daddy  Daddy I need some more bubbles 
+	psh 
+	yeah splash	you can't you can't stand 
+	vstand 
+	PUNCT
+	you're gonna fall and hurt yourself 
+	vhurtZERO proreflyourself 
+	PUNCT
+	oh okay Daddy I'll sit on my bum 
+	detpossmy nbum 
+	POBJ PUNCT
+	alright can you play with me Daddy 
+	npropDaddy 
+	I'm gonna jump in the water 
+	nwater 
+	PUNCT
+	ohmygoodness splash	
+	detarta nbath prepwith proobjme 
+	JCT POBJ PUNCT
+	come on in Daddy 
+	splash	is there room for both of us 
+	yeah 
+	yeah 
+	okay ma Daddy show me how you make bubbles 
+	properyou vmake nbubble-PL 
+	OBJ PUNCT
+	grunts I can't reach 
+	laughs you can't reach the water 
+	laughs you're making bubbles 
+	okay I'm gonna try it too Daddy 
+	advtoo npropDaddy 
+	CJCT PUNCT
+	brr brr I like making bubbles in the water with you 
+	nwater prepwith properyou 
+	POBJ PUNCT
+	yeah laughs maybe you can come in 
+	oh okay here comes the baby 
+	k bring it b no 
+	she needs to get sh she needs to get naked eh 
+	infto vget adjnaked coeh 
+	COMP PRED COM PUNCT
+	yeah  yeah her n get naked 
+	okay alright oh 
+	you're a baby 
+	she's the baby 
+	baby 
+	come 
+	here I come 
+	here I come 
+	hi Mama 
+	splash	here the mama 
+	oh is she the mummy or the big sister 
+	detartthe adjbig nsister 
+	COORD PUNCT
+	a big sister 
+	hm okay r everyone's taking a bath 
+	detarta nbath 
+	is the water warm 
+	cold 
+	cold 
+	we in a  a pool at Grandma's 
+	npropGrandmacopbeS 
+	you're now swimming in the pool at Grandma's house 
+	detartthe npool prepat adjGrandmadn-POSS nhouse 
+	MOD POBJ PUNCT
+	psh hey Daddy you're squishing me 
+	proobjme 
+	alright let me go on your back 
+	adjback 
+	can I go on your back or your s tummy or your stomach 
+	detpossyour ntum-DIM coordor detpossyour nstomach 
+	COORD CONJ DET COORD PUNCT
+	on your back 
+	no 
+	okay you fir oh 
+	oh  oh you all right 
+	laughs I'm all right 
+	come on my back with me 
+	alright okay you're gonna take me for a ride 
+	vtake proobjme prepfor detarta nride 
+	JCT DET POBJ PUNCT
+	baby 
+	yeah 
+	xxx stuck 
+	what's the baby doing 
+	okay I'll hold the baby 
+	laughs I'll hold the baby and you go here 
+	vgo cmcm nhere 
+	LP ENUM PUNCT
+	laughs here you go ready 
+	hold me on your back and take me under the water psh psh 
+	proobjme prepunder detartthe nwater 
+	JCT DET POBJ PUNCT
+	xxx fell 
+	oh no I fell  I fell quick Daddy quick reach for me 
+	nreach prepfor proobjme 
+	NJCT POBJ PUNCT
+	reach for me 
+	oh phew phew 
+	no 
+	play yet 
+	alright is that the end of our game Jeffrey 
+	detpossour ngame npropJeffrey 
+	APP PUNCT
+	no 
+	no you wanna keep playing eh 
+	okay we'll m how about you how you gonna keep swimming 
+	cmcm prorelhow cmcm properyou partgoPRESPinfto vkeep
+	partswim-PRESP 
+	LP SUBJ CMOD INF COMP COMP PUNCT
+	or should we c clean up the toys 
+	because Ashley hasta start cleaning our toys up 
+	partclean-PRESP detpossour ntoy-PL advup 
+	JCT PUNCT
+	why 
+	you ready 
+	because we're hafta go 
+	yeah 
+	www 
+	with 
+	you wanna still play this game 
+	this is a fun game 
+	alright well I'm gonna clean up the other things and you play you
+	swim okay 
+	adjclean advup detartthe qnother nthing-PL coordand
+	properyou nplay cmcm properyou vswim cookay 
+	DET QUANT POBJ LINK SUBJ ENUM LP
+	SUBJ COMP OBJ PUNCT
+	no Mommy I wanna be a mama 
+	PUNCT
+	you wanna be a mama 
+	Ì want you a be a mama 
+	okay but it's time to clean up the toys now 
+	detartthe ntoy-PL advtemnow 
+	DET POBJ JCT PUNCT
+	no  no 
+	I know it's sad eh 
+	we you wanna play for two one more minute 
+	cmcm detnumone qnmore nminute 
+	QUANT QUANT POBJ PUNCT
+	yeah 
+	okay one more minute and then we'll clean 
+	prosubwemodwill vclean 
+	AUX COORD PUNCT
+	her toes her eyes 
+	her eyes are open 
+	look 
+	oh yeah sh slee she closes her eyes when she lies down 
+	conjwhen prosubshe vlie-S advdown 
+	CJCT JCT PUNCT
+	these eyes 
+	well that one stays open and that one closes 
+	compthat detnumone vclose-S 
+	COORD PUNCT
+	that's weird 
+	hey okay listen I'm gonna get the b yeah 
+	vget detartthe coyeah 
+	DET OBJ PUNCT
+	xxx bath 
+	okay Daddy  Daddy I'm cold the water is way too cold I'm gonna
+	go put my clothes on 
+	nwater copbeS advway advtoo adjcold prosubIauxbeS
+	partgoPRESPinfto vgo vputZERO detpossmy nptclothes advon
+	JCT JCT PRED SUBJ AUX CMOD INF
+	SRL COMP DET OBJ JCT PUNCT
+	no 
+	yeah 
+	no I'm gonna cuddle you 
+	oh okay you cuddle me and then I'm gonna well I'm getting cold
+	brr it's freezing in the water now 
+	advtemthen prosubIauxbeS partgoPRESPinfto cmcm advwell
+	prosubIauxbeS partget-PRESP advcold properitauxbeS
+	partfreeze-PRESP prepin detartthe nwater advtemnow 
+	AUX COMP INF LP JCT SUBJ AUX
+	XJCT JCT SUBJ AUX COMP JCT DET
+	POBJ JCT PUNCT
+	whines 
+	you're gonna cuddle them 
+	put your clothes back on 
+	alright I'll put the baby's clothes back on and then you can keep
+	swimming with the   with the big sister for two more minutes 
+	nbabycopbeS nptclothes advback advon coordand advtemthen
+	properyou modcan vkeep partswim-PRESP cmcm prepwith
+	detartthe adjbig nsister prepfor detnumtwo advmore
+	nminute-PL 
+	JCT JCT CONJ JCT SUBJ AUX COORD
+	COMP LP JCT DET MOD POBJ NJCT
+	QUANT JCT POBJ PUNCT
+	xxx 
+	and you gonna put the baby away 
+	nbaby advaway 
+	PUNCT
+	we'll put the baby away and then we'll start and then all of that
+	stuff but you keep swimming with the big sister for a second 
+	coordand advtemthen prosubwemodwill vstart cmcm coordand
+	advtemthen qnall prepof detdemthat nstuff cmcm conjbut
+	properyou vkeep partswim-PRESP prepwith detartthe adjbig
+	nsister prepfor detarta adjsecond 
+	SUBJ AUX CJCT LP CONJ COORD INCROOT
+	NJCT DET POBJ LP LINK SUBJ
+	CJCT COMP JCT DET MOD POBJ NJCT
+	DET POBJ PUNCT
+	but  but I don't wanna put the baby   baby away 
+	detartthe cmcm nbaby advaway 
+	LP MOD JCT PUNCT
+	well the baby hasta get dressed 
+	partdress-PASTP 
+	remember yesterday when you went swimming 
+	partswim-PRESP 
+	at Grandma's 
+	xxx her a big brother 
+	she's a big brother or a little sister 
+	detarta adjlittle nsister 
+	COORD PUNCT
+	a brother 
+	oh 
+	her a big sister 
+	uhuh okay the baby's all dressed now 
+	partdress-PASTP advtemnow 
+	PUNCT
+	it's time for the big sister to get dressed 
+	infto auxget partdress-PASTP 
+	AUX XMOD PUNCT
+	come on out big sister 
+	no  no not yet 
+	not yet it's time to get dressed 
+	auxget partdress-PASTP 
+	XMOD PUNCT
+	why it's time to get dressed 
+	partdress-PASTP 
+	why 
+	because it's time to get dressed 
+	partdress-PASTP 
+	it it's time to get dressed big sister 
+	partdress-PASTP adjbig nsister 
+	MOD OBJ PUNCT
+	time to get dressed okay come on 
+	brr 
+	is she cold 
+	what's this let's cuddle 
+	you cuddle under the blanket 
+	alright 
+	xxx 
+	no that's a bath 
+	xxx 
+	yeah but now it's th now the game's over so we hafta put it all
+	away 
+	detartthe ngamecopbeS advover coso prosubwe
+	modhaveinfto vputZERO properit advall advaway 
+	SUBJ PRED JCT COM SUBJ AUX INF
+	CPRED OBJ JCT JCT PUNCT
+	xxx still swimming in the bath 
+	they're still swimming yeah 
+	they're having fun swimming 
+	xxx 
+	hm 
+	brr brr 
+	brr brr warm them up with the cover on 
+	put the cover on and then the warm the cover for the bin and then
+	they'll warm up 
+	detartthe adjwarm cmcm detartthe ncover prepfor detartthe
+	nbin cmcm coordand advtemthen prosubtheymodwill vwarm
+	advup 
+	LP DET ENUM NJCT DET POBJ LP
+	LINK JCT SUBJ AUX ENUM JCT PUNCT
+	I can't 
+	there you go 
+	where's the other toy 

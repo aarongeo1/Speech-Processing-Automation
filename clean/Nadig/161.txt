@@ -1,0 +1,190 @@
+	here gonna have some tea 
+	here's some for you Cho 
+	npropCho 
+	here's some for you sh 
+	y gonna drink some 
+	no you don't wanna drink some 
+	PUNCT
+	okay 
+	what's that Cho 
+	oh you gonna make a phonecall 
+	nnphonencall 
+	you gonna call someone 
+	no you don't wanna call 
+	you gonna call Elsa 
+	hello 
+	no 
+	no 
+	okay you don't hafta 
+	here's a brush 
+	you gonna brush the baby's hair 
+	adjbabydn-POSS nhair 
+	okay 
+	y gonna brush the baby's hair 
+	xxx 
+	brush 
+	brush you xxx brush her hair 
+	there you go 
+	there 
+	xxx like this 
+	xxx 
+	xxx 
+	huh 
+	what did you say 
+	y you can feed the baby if you want 
+	vwant 
+	PUNCT
+	y wanna feed the baby 
+	no 
+	put this down 
+	oh you took off his hat 
+	you can put his hat back on 
+	there 
+	put the baby like that 
+	there 
+	good girl 
+	you're feeding the baby 
+	mm is the baby gonna go to sleep after 
+	vsleep prepafter 
+	COMP JCT PUNCT
+	no 
+	eats there okay 
+	you gonna give him a ride 
+	nride 
+	here baby's gonna sit in the truck 
+	detartthe ntruck 
+	DET POBJ PUNCT
+	see there 
+	you still feeding you gonna feed her too 
+	partgoPRESPinfto vfeed proobjher advtoo 
+	OBJ JCT PUNCT
+	you gonna give her something to eat 
+	proindefsomething infto veat 
+	PUNCT
+	oh she's gonna go in the truck okay 
+	detartthe ntruck cmcm adjokay 
+	POBJ LP JCT PUNCT
+	there you go 
+	here we go 
+	push her xxx wesh 
+	okay baby's gonna sit right there 
+	nthere 
+	PUNCT
+	xxx 
+	brush for your baby 
+	it's her brush 
+	yeah 
+	is the baby gonna go to sleep 
+	vsleep 
+	PUNCT
+	xxx 
+	xxx sleep sh 
+	sh baby's sleeping sh 
+	xxx like this 
+	no 
+	no 
+	okay is it baby's still playing 
+	partplay-PRESP 
+	PUNCT
+	can you give baby a kiss 
+	Cho 
+	you gonna kiss for the baby 
+	that's nice laughs 
+	what about for her you gotta kiss for her too 
+	modgotinfto vkiss prepfor proobjher advtoo 
+	ROOT JCT POBJ JCT PUNCT
+	laughs 
+	yeah 
+	eats 
+	me too 
+	for me 
+	gasps mm eats 
+	you want me to have some 
+	here I'll take this one okay 
+	adjokay 
+	PUNCT
+	this one's for Mama 
+	he that's for you 
+	eats mm okay don't put it in your mouth 
+	detpossyour nmouth 
+	POBJ PUNCT
+	eats mm   mm I'm thirsty 
+	lemme have something to drink 
+	xxx some more 
+	oo and some for you too babe 
+	xxx 
+	eats ah 
+	ah 
+	laughs there 
+	we can stir it 
+	oh you're having some more 
+	Mommy's just gonna stir it a bit 
+	properit detarta nbit 
+	JCT PUNCT
+	I'm gonna put this you want some of this too 
+	cmcm properyou vwant proindefsome prepof prodemthis advtoo
+	COMP OBJ NJCT POBJ JCT PUNCT
+	there that's your supper 
+	numnum no 
+	you don't wanna eat blocks 
+	hm put some more in there 
+	there that's good 
+	and for me too 
+	thankyou 
+	eats slurp mm that's good stuff 
+	mm 
+	mm 
+	can I have some more milk 
+	can I have some more milk 
+	here gonna pour some more milk for Mama 
+	prepfor npropMama 
+	POBJ PUNCT
+	there's milk in there 
+	oh 
+	there you go 
+	you gonna stir in mine too 
+	there stir 
+	sips mm here taste 
+	here sips 
+	no 
+	you don't like it 
+	oh you like yours huh 
+	mm what about the baby you gonna give some to the baby 
+	partgoPRESPinfto vgive proindefsome prepto detartthe
+	nbaby 
+	INF COMP OBJ JCT DET POBJ PUNCT
+	give some to the baby 
+	yeah eats 
+	what about the little girl too 
+	can you give some to the little girl 
+	adjlittle ngirl 
+	PUNCT
+	there I think she's thirsty 
+	adjthirstdn-Y 
+	I think she's thirsty you gonna give her something to drink 
+	partgoPRESPinfto vgive proobjher proindefsomething infto
+	vdrink 
+	COMP OBJ SUBJ INF COMP PUNCT
+	laughs here you gonna hold her up like this 
+	preplike prodemthis 
+	POBJ PUNCT
+	there 
+	put the spoon down 
+	here take this 
+	take the cup 
+	there 
+	there you go 
+	good girl 
+	okay you wanna tickle the baby 
+	xxx ticka ticka ticka ticka ticka ticka ticka ticka ticka
+	gasps look at her belly 
+	laughs oh don't pull that out 
+	don't take that out 
+	let me just fix her hair okay 
+	there just like xxx 
+	is that your friend 
+	hm 
+	are you giving her a hug 
+	that's nice 
+	thankyou 
+	xxx 

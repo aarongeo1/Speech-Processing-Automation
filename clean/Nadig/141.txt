@@ -1,0 +1,337 @@
+	okay can I have some tea please 
+	do you have any sugar 
+	ah 
+	can I have a little bit of sugar please 
+	vplease 
+	COMP PUNCT
+	xxx 
+	oh thankyou and what about lemon 
+	oh here 
+	can I have some lemon 
+	oh thankyou 
+	sips delicious 
+	are you gonna have some 
+	mhm this is the way 
+	so what's your baby's name 
+	-um 
+	pardon 
+	xxx 
+	Clara 
+	how old is she 
+	five 
+	she's five 
+	wow 
+	so what are you doing today 
+	advtemtoday 
+	-um we're going to a store then church then movies 
+	advtemthen nchurch advtemthen nmovie-PL 
+	MOD POBJ PUNCT
+	oh so you're gonna go for a visit 
+	prepfor detarta nvisit 
+	DET POBJ PUNCT
+	yeah 
+	okay so what else do you have in your box 
+	prepin detpossyour nbox 
+	DET POBJ PUNCT
+	ah   ah I have cake 
+	you have a piece of cake 
+	could I have a piece of cake 
+	yeah 
+	okay 
+	what kind of cake is it 
+	it's chocolate 
+	oh my favorite laughs 
+	here's my phone 
+	oh there's your phone 
+	yeah 
+	are you waiting for a phone call 
+	ncall 
+	yeah 
+	oh there's a little horsie on it 
+	prepon properit 
+	PUNCT
+	yeah 
+	oh that's nice 
+	so do you have that chocolate cake oh look when you press the
+	button it changes 
+	cmcm cooh nlook conjwhen properyou vpress detartthe
+	nbutton properit vchange-S 
+	COM ENUM LINK SUBJ CJCT DET OBJ
+	SUBJ CMOD PUNCT
+	oh no it's just a hologram 
+	should we build a tower 
+	yeah lets build a tower 
+	okay 
+	xxx 
+	this is a be a   a station 
+	a station okay 
+	yeah here put this on top 
+	oh wait here  wait here 
+	make an elevated highway 
+	you like that 
+	yeah 
+	oh there 
+	okay look and I'll put this 
+	PUNCT
+	oh  oh it's gonna fall oh no 
+	PUNCT
+	are you gonna put the last one on 
+	adjlast proindefone advon 
+	JCT PUNCT
+	it's because we're on the carpet 
+	detartthe ncarpet 
+	PUNCT
+	put the last one on top 
+	way up top 
+	lets see if it falls 
+	woah we did it 
+	lets put the bottle on top 
+	oh no that's not gonna stay 
+	vstay 
+	PUNCT
+	xxx 
+	it's b the EiffelTower laughs 
+	yeah 
+	it's more like LArcDeTriomphe no 
+	yes 
+	what's this 
+	that's not a block 
+	yes it's not a block 
+	it's this brush 
+	it's a brush 
+	yeah 
+	is that another baby 
+	yeah 
+	what's her name 
+	-um Cara 
+	Cara 
+	Cara and Clara are they sisters 
+	nsister-PL 
+	yeah they're sisters 
+	oh she's taking care of her 
+	proobjher 
+	she's ki kissing her head 
+	oh she's kissing her head 
+	do you do that to Marcus 
+	yeah 
+	yeah 
+	xxx 
+	and what's this 
+	hm 
+	that's a truck 
+	oh should we put somebody in the truck 
+	detartthe ntruck 
+	PUNCT
+	yeah 
+	and go for a ride 
+	the phone 
+	yeah 
+	laughs okay 
+	xxx 
+	should we fix her hair her ponytail 
+	nnponyntail 
+	PUNCT
+	where's Catherine and Sarah 
+	Catherine and Sarah 
+	yeah 
+	they're ah Sarah's in school 
+	nschool 
+	PUNCT
+	both of them are in school 
+	oh 
+	why you were thinking about them 
+	proobjthem 
+	I I'm the mommy 
+	oh you're the mommy 
+	yeah 
+	but this is Clara and Cara right 
+	adjright 
+	yeah 
+	were you change their names 
+	Tara 
+	oh Tara 
+	okay 
+	this is Tara and that's Cara 
+	npropCara 
+	PUNCT
+	and how old are they again 
+	advtemagain 
+	-um they're that's five 
+	that's five 
+	 and that's Sarah 
+	and how old is she 
+	-um four 
+	yeah she's a little shorter isn't she 
+	copbeSnegnot prosubshe 
+	PRED PUNCT
+	yeah she's like your sister 
+	she's like my sister 
+	oh I'm not finished 
+	can I finish it 
+	yeah mine is finished 
+	sips thankyou now I'm done 
+	mine is finished 
+	you're all done 
+	do you want some more 
+	yeah 
+	should I pour you some 
+	yeah 
+	oh you knocked over the EiffelTower 
+	npropEiffelTower 
+	cheers 
+	laughs is it good 
+	I'm pouring some more 
+	okay 
+	and I'm taking all 
+	you're gonna take it all you're gonna finish it 
+	advall properyouauxbePRES partgoPRESPinfto vfinish
+	properit 
+	AUX XJCT INF COMP OBJ PUNCT
+	yeah because I love coffee 
+	you love coffee 
+	oh you put sugar and cream 
+	uhhuh 
+	how much 
+	lots like this 
+	oh laughs 
+	I see 
+	bring	oh I think your phone's ringing 
+	partring-PRESP 
+	PUNCT
+	where's your phone 
+	here 
+	hi how are you doing 
+	are you Catherine 
+	alright I'm checking 
+	who was it 
+	it was Cat 
+	what did she do 
+	she's gonna do the store and buy something 
+	coordand vbuy proindefsomething 
+	COORD OBJ PUNCT
+	oh yeah 
+	what is she gonna buy 
+	-um a popsicle 
+	oh 
+	xxx 
+	she gonna give you some 
+	what flavor 
+	-um chocolate 
+	oh that's good 
+	wah	she better now 
+	yeah 
+	-um her hat xxx 
+	are you going to fix it 
+	do you want me to brush your other doll daughter's hair 
+	qnother ndoll cmcm adjdaughterdn-POSS nhair 
+	OBJ LP MOD APP PUNCT
+	yeah 
+	or do you wanna brush her hair 
+	nhair 
+	PUNCT
+	you wanna brush her hair and I fix the hat 
+	prosubI vfix detartthe nhat 
+	CJCT DET OBJ PUNCT
+	yeah 
+	here I'll put her down 
+	oh you're brushing hers first okay 
+	advfirst adjokay 
+	this is my sister 
+	oh it's your sister 
+	okay what's your name 
+	-um Tara 
+	oh you're Tara 
+	yeah 
+	okay 
+	and she's Catherine and she's Tara 
+	prosubshecopbeS npropTara 
+	PUNCT
+	so who are you 
+	I'm Lady 
+	you're Lady 
+	nice to meet you Lady 
+	laughs nice to meet you 
+	does she want some 
+	sips eats 
+	more 
+	more she likes it 
+	well it's baby food right now 
+	yeah baby food 
+	because she doesn't drink coffee does she 
+	moddoS prosubshe 
+	PUNCT
+	okay is she full 
+	yeah 
+	alright you wanna feed this one 
+	proindefone 
+	yeah this is here's 
+	okay 
+	whoop laughs 
+	laughs 
+	that's okay here I'll hold her 
+	proobjher 
+	PUNCT
+	yum  yum  yum 
+	mm yum  yum  yum  yum  yum  yum 
+	yum  yum  yum  yum 
+	eats 
+	okay she's full 
+	she's full yeah 
+	thankyou mommy 
+	hold the baby 
+	pardon 
+	oh does she want her bottle now 
+	advtemnow 
+	yeah 
+	here she might want her bottle 
+	she might want her bottle 
+	I'm giving it to her 
+	yeah she's happy 
+	yeah 
+	okay 
+	it's done 
+	it's done 
+	yeah 
+	she's all done 
+	what about the other one does she want some 
+	moddoS prosubshe vwant qnsome 
+	OBJ PUNCT
+	yeah 
+	okay give your other baby 
+	but where is my baby 
+	she's over oh sorry 
+	here 
+	here's your bottle 
+	that's my bottle 
+	th this baby is full 
+	there she's full okay 
+	xxx knock it down 
+	you wanna knock this down 
+	yeah 
+	alright I'll make it and you knock it 
+	properyou vknock properit 
+	OBJ PUNCT
+	yeah 
+	oh 
+	xxx 
+	oh we can put the orange ones too 
+	advtoo 
+	PUNCT
+	you wanna put one 
+	yeah 
+	okay put one 
+	oh it might tip be careful 
+	laughs lets do that again 
+	again 
+	okay 
+	oh it's clean up time 
+	should we clean up 
+	yeah 
+	I think we hafta put all the toys back in the box 
+	detartthe ntoy-PL advback prepin detartthe nbox 
+	OBJ JCT JCT DET POBJ PUNCT
+	okay 
+	okay 
+	and the cover's behind you 
+	could you pass it to me please 
+	okay goodjob 

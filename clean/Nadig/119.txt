@@ -1,0 +1,233 @@
+	no 
+	no so why you xxx it up then 
+	advtemthen 
+	xxx 
+	xxx 
+	hold it and put in babies 
+	put the hat on the baby 
+	yeah 
+	okay 
+	xxx 
+	baby take 
+	okay I'll drink some coffee with the baby 
+	detartthe nbaby 
+	POBJ PUNCT
+	do I feed the baby or I feed myself 
+	vfeed proreflmyself 
+	OBJ PUNCT
+	give ba feed babies 
+	feed the baby okay 
+	eats okay baby finished 
+	okay 
+	more 
+	oh no he said he's okay 
+	baby okay now 
+	ch 
+	here we go 
+	oh thankyou madame eats 
+	finished 
+	yeah I'm finished 
+	xxx ch 
+	and coffee for me 
+	coffee for you 
+	you move up 
+	ch 
+	ch 
+	f coffee for me 
+	okay 
+	I'm xxx coffee for me 
+	okay 
+	ch 
+	ch 
+	why don't you build a house with those blocks by yourself 
+	prepwith detdemthose nblock-PL prepby proreflyourself 
+	DET POBJ JCT POBJ PUNCT
+	huh 
+	build a house with the blocks 
+	don't touch 
+	okay I won't touch 
+	I tell you  I tell you  you touch okay 
+	okay  okay 
+	I tell you  you touch 
+	you'll tell me if I touch okay 
+	adjokay 
+	PUNCT
+	I tell you  you touch 
+	okay 
+	I tell you  you touch and you touch 
+	PUNCT
+	let's go xxx 
+	what i gonna happen 
+	what's going to happen let me see what going to happen 
+	vletZERO proobjme vsee prointwhat partgo-PRESP infto
+	vhappen 
+	COMP OBJ XMOD INF COMP PUNCT
+	see it gonna fall 
+	yes 
+	it gonna fall this blocks 
+	block on 
+	ah 
+	block on 
+	moong 
+	block on mooshie	xxx 
+	moong it fall eh Krista 
+	I not falling 
+	do not fall 
+	ici	I call a doctor 
+	I call a doctor 
+	oh maybe the baby have a booboo so you really hafta call a doctor 
+	conjso properyou advrealdadj-LY modhaveinfto vcall
+	detarta ndoctor 
+	SUBJ JCT AUX INF CJCT DET OBJ
+	PUNCT
+	baby have a booboo and xxx a baby have the kiss for the 
+	vhave detartthe nkiss prepfor detartthe 
+	CMOD DET OBJ NJCT POBJ PUNCT
+	have a baby xxx the doctor 
+	have a baby 
+	her belly hurt 
+	see belly hurt 
+	baby belly hurt xxx 
+	baby the belly hurt with this clothes 
+	nptclothes 
+	laughs 
+	baby ts belly hurt this clothes 
+	baby went peepee on the clothes 
+	yes 
+	yes 
+	hm 
+	sit 
+	she sit down 
+	what are you going to do 
+	-um take in to the doctor 
+	you're taking her to the doctor naked 
+	detartthe ndoctor adjnaked 
+	PUNCT
+	yeah 
+	ohmygoodness she need her clothes 
+	she make a mess 
+	she make a mess 
+	she make a mess 
+	I call a doctor for baby 
+	here baby having a foot 
+	you see baby needta sleep 
+	baby needta sleep 
+	baby need doctor and xxx 
+	baby need a doctor for xxx and baby need a doctor for xxx 
+	detarta ndoctor prepfor 
+	DET OBJ JCT PUNCT
+	the baby need a doctor for the ears 
+	near-PL 
+	PUNCT
+	what happened to the baby ears 
+	because baby have a boo 
+	okay 
+	and baby have a booboo too 
+	okay the two of them have booboos 
+	nbooboo-PL 
+	and take it this baby have a booboo 
+	detarta nbooboo 
+	OBJ PUNCT
+	look I take off this 
+	I don't understand why you taking off the baby clothes 
+	parttake-PRESP prepoff detartthe nbaby nptclothes 
+	DET MOD POBJ PUNCT
+	because baby have a booboo 
+	yes when you go to the doctor  the doctor take off your
+	clothes 
+	vtake prepoff detpossyour nptclothes 
+	JCT DET POBJ PUNCT
+	baby have a booboo 
+	laughs yes have a booboo 
+	baby make a peepee on the hat 
+	what gonna happen 
+	what gonna happen 
+	what gonna happen 
+	okay doctor finish see the babies 
+	no 
+	no 
+	baby get a doctor 
+	baby want a doctor 
+	xxx baby doctor 
+	xxx baby 
+	what are you making 
+	a baby have a booboo 
+	yes 
+	-um call a baby have a booboo on the nose 
+	detartthe nnose 
+	POBJ PUNCT
+	the baby have a booboo in the nose 
+	nnose 
+	PUNCT
+	yeah and I'll   I'll doctor 
+	xxx a doctor 
+	who's that 
+	this is a medicine 
+	a baby's 
+	okay you don't know so you're sposta look 
+	properyouauxbePRES partsupposePASTPprepto nlook 
+	COMP JCT POBJ PUNCT
+	that's the medicine for the baby 
+	nbaby 
+	I put on baby nose 
+	xxx 
+	I love you 
+	okay it's this  this 
+	xxx the doctor 
+	okay c'est	xxx 
+	lets finish milk 
+	drinking some coffee 
+	laughs baby drink milk Krista 
+	you drink coffee or milk 
+	this is coffee 
+	okay so give them coffee if you want 
+	vwant 
+	PUNCT
+	I give them coffee for it 
+	baby one for you 
+	baby   baby xxx 
+	xxx 
+	ch 
+	ch 
+	xxx 
+	I see it 
+	www 
+	clean up 
+	clean up Krista 
+	clean up your mess 
+	I'm cleaning up 
+	so hurry up 
+	ch 
+	you wanna play with these toys Krista 
+	npropKrista 
+	PUNCT
+	yeah 
+	so hurry clean up 
+	ch 
+	ch 
+	clean	share	come on Krista clean up 
+	xxx 
+	no you put them in the bag Krista 
+	npropKrista 
+	PUNCT
+	put the   put the toys in the bag 
+	okay 
+	good girl 
+	Krista are we cleaning up 
+	ch 
+	Krista okay I'm cleaning up without you 
+	prepwithout properyou 
+	PUNCT
+	xxx baby xxx 
+	okay so 
+	good girl 
+	oh there goes the naked babies in the bag 
+	detartthe nbag 
+	POBJ PUNCT
+	ts 
+	xxx 
+	we're not finished yet 
+	no I know noticed that 
+	but look you miss 
+	there 
+	everything xxx 

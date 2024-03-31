@@ -1,0 +1,359 @@
+	xxx 
+	oh 
+	oh no 
+	laughs oh no 
+	do it again 
+	put the bottle 
+	put the bottle on top 
+	yes 
+	it's a ba down 
+	xxx 
+	oh the bottle doesn't stand up 
+	huh 
+	the bottle doesn't stand up 
+	it has a rounded bottom 
+	it won't stand up 
+	xxx I do it again on there 
+	okay 
+	on there 
+	mhm 
+	gasps 
+	oh it fell over 
+	you wanna use this 
+	is this flatter 
+	mhm 
+	here  here let's look let's turn i here try it again 
+	nturn cmcm advhere vtry properit advtemagain 
+	LP JCT COMP OBJ JCT PUNCT
+	try it on here 
+	hm 
+	try it on there 
+	here wanna bounce this 
+	gasps 
+	gasps doh 
+	do it again 
+	again 
+	laughs 
+	ah 
+	hey  hey  hey gentle please 
+	laughs 
+	gentle please 
+	xxx useta it 
+	one 
+	two 
+	xxx fall down 
+	xxx no cup on it 
+	okay 
+	take another one 
+	wow it's getting very tall 
+	another one 
+	sure 
+	gasps so good 
+	what about this one 
+	yes 
+	gasps you did it 
+	oh 
+	laughs 
+	laughs go get all the pieces please 
+	one 
+	two 
+	three 
+	four 
+	gasps 
+	oh 
+	laughs 
+	ah laughs 
+	oh no 
+	oh no 
+	one 
+	two three 
+	wanna go get that orange one over there 
+	prepover nthere 
+	NJCT POBJ PUNCT
+	very good 
+	let them fall down 
+	oh 
+	laughs ya 
+	laughs very good 
+	gasps you did it 
+	you did it 
+	Mommy go xxx 
+	pardon 
+	xxx 
+	I can't understand you 
+	xxx 
+	what 
+	tem 
+	jump 
+	yes on there 
+	you want me to jump on there 
+	yeah 
+	I'm gonna hurt myself 
+	proreflmyself 
+	no 
+	yeah 
+	no 
+	you wa you're gonna jump on there 
+	vjump prepon nthere 
+	POBJ PUNCT
+	no Mommy 
+	jump 
+	no 
+	oh 
+	laughs 
+	oh you made it all crash 
+	again 
+	again 
+	one 
+	two 
+	three 
+	oh 
+	grunts 
+	there 
+	oh yeah 
+	xxx 
+	what color is that 
+	orange 
+	tha that's orange 
+	you don't want that one 
+	xxx 
+	okay I'll have the orange ones 
+	proindefone-PL 
+	can I have the other orange one please 
+	coplease 
+	PUNCT
+	thankyou very much 
+	is there another cup 
+	can I have the cup that's behind you please 
+	advbehind properyou vplease 
+	SUBJ CPRED PUNCT
+	thankyou 
+	I haved	I know 
+	I did it 
+	you did 
+	what's Mommy doing 
+	plate on 
+	xxx to kick it 
+	you're gonna kick it 
+	yeah 
+	okay but be careful don't hurt yourself 
+	proreflyourself 
+	PUNCT
+	laughs oh 
+	Mommy 
+	nice job 
+	do it again 
+	I do it again 
+	yeah 
+	okay 
+	did you k say a please 
+	please 
+	put the bottle on 
+	thankyou 
+	the bottle on 
+	yes 
+	okay 
+	and to kick it 
+	you're gonna kick it again 
+	advtemagain 
+	yeah 
+	okay be careful 
+	oh ohmygoodness go get all the pieces please 
+	coplease 
+	PUNCT
+	okay 
+	and th bring them all back 
+	bring them all back 
+	I kick it 
+	I know 
+	you're such a boy 
+	Mommy I do it again please 
+	www 
+	l me do it again 
+	xxx 
+	okay we're gonna do it again 
+	properit advtemagain 
+	PUNCT
+	Mommy xxx 
+	thankyou  thankyou 
+	thankyou 
+	go on 
+	xxx 
+	okay 
+	there we go 
+	I go kick it 
+	one second 
+	put the bottle on 
+	oh hang on a second 
+	Mommy put the bottle on 
+	get the bottle on 
+	yeah 
+	hang on a second 
+	oo 
+	the bottle 
+	xxx to kick it 
+	okay 
+	what are you doing 
+	you bit your nail 
+	ohmygod you're my kid 
+	www 
+	okay we'll cut your nails later okay 
+	advlater adjokay 
+	PUNCT
+	should I give this to Daddy 
+	Mommy I wanna kick it 
+	okay one two three 
+	woah ohmygoodness 
+	you're strong 
+	you're very strong can you get all the pieces please 
+	properyou vget qnall detartthe npiece-PL coplease 
+	QUANT DET OBJ COM PUNCT
+	can you go get all the pieces 
+	I asked you to go get the pieces please 
+	npiece-PL coplease 
+	COM PUNCT
+	no Daddy 
+	if you kicked it then you hafta go get it sweetheart 
+	modhaveinfto vgo vget properit cosweetheart 
+	SRL ROOT OBJ COM PUNCT
+	oh no 
+	oh no 
+	oh no 
+	mhm 
+	oh no 
+	oh no what 
+	oh no it xxx 
+	oh no 
+	xxx 
+	it's the phone 
+	it's for you it's uncle James 
+	nuncle npropJames 
+	PUNCT
+	uncle James 
+	say hi 
+	uncle ha hi 
+	who do you wanna speak to 
+	xxx 
+	Antony and Ivy 
+	please 
+	what do you wanna say 
+	hello 
+	laughs 
+	do it 
+	do what 
+	do it my telephone 
+	do it 
+	I'm calling them right now 
+	advtemnow 
+	oh look 
+	what's on there 
+	horsie 
+	very good 
+	one 
+	two 
+	three 
+	four 
+	f oh no 
+	oh laughs 
+	groans 
+	one 
+	two 
+	three grunts 
+	ba again 
+	again 
+	ah ge do it Mommy 
+	try again 
+	you can do it 
+	come here 
+	you do it 
+	come here 
+	xxx doesn't look straight 
+	Mommy do it 
+	you hafta make sure the blanket's straight 
+	adjblanketdn-POSS nstraight 
+	OBJ PUNCT
+	Mommy do it 
+	why don't you do it on top of there 
+	ntop prepof nthere 
+	NJCT POBJ PUNCT
+	do it on top of there it's a flatter surface 
+	properitcopbeS detarta adjflat-CP nsurface 
+	DET MOD PRED PUNCT
+	hm 
+	oh you can do it there too 
+	oh 
+	ah 
+	laughs 
+	oh no again 
+	go get that orange one way over there please 
+	nthere vplease 
+	CMOD PUNCT
+	okay 
+	mkay 
+	okay 
+	then put that one gasps gah 
+	oh move it  move it more into the middle 
+	move it more into the middle and then it'll stand up better 
+	advtemthen properitmodwill nstand advup adjgoodCP 
+	SUBJ AUX COORD NJCT POBJ PUNCT
+	see it's more  it's more straight in the middle 
+	detartthe nmiddle 
+	PUNCT
+	d that work better 
+	yeah 
+	okay go get the orange pieces 
+	way down there 
+	there's one way down there 
+	I xxx to fall down 
+	you're waiting for it to fall down 
+	vfall advdown 
+	PUNCT
+	yeah 
+	okay 
+	you have one more blue one 
+	oh laughs 
+	you put pressure on it 
+	you knocked it down 
+	kisses you knocked it down kisses kisses 
+	oh Mommy 
+	kisses  kisses  kisses what 
+	do it again please 
+	you wanna do it again 
+	Mommy do it up please 
+	you want Mommy to do it 
+	yeah 
+	okay here we go 
+	oo what's this 
+	okay 
+	perfect 
+	I build a tower 
+	yes you are 
+	tower 
+	oh laughs you moved the box 
+	again 
+	you know w let's start with the bigger ones on the bottom 
+	detartthe adjbig-CP none-PL prepon detartthe nbottom 
+	MOD POBJ NJCT DET POBJ PUNCT
+	okay 
+	and then go with the yellow ones 
+	proindefone-PL 
+	we can go with the orange too 
+	xxx fall down a minute 
+	it's gonna fall down in a minute 
+	detarta nminute 
+	POBJ PUNCT
+	is that what you just said 
+	you did it 
+	yay 
+	oy 
+	haha 
+	you're MisterDestructo 
+	again 
+	www 
+	again Mommy 
+	yeah sure 
+	okay 
+	okay 
+	xxx 
+	oh 
+	what's that 

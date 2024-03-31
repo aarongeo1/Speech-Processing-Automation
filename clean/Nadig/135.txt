@@ -1,0 +1,318 @@
+	xxx what the phone 
+	on Mommy's knee and on Mommy's glasses 
+	nglass-PL 
+	PUNCT
+	Mommy's glasses 
+	down 
+	www 
+	alright Hagrid we're gonna build we're gonna stack the blocks 
+	partgoPRESPinfto vbuild cmcm prosubweauxbePRES
+	partgoPRESPinfto vstack detartthe nblock-PL 
+	LP SUBJ AUX XJCT INF COMP DET
+	OBJ PUNCT
+	oh want that 
+	I know you do 
+	oh look what are you gonna do with that 
+	partgoPRESPinfto vdo prepwith prodemthat 
+	COMP JCT POBJ PUNCT
+	xxx do that 
+	oh  oh wait is there another one in there 
+	nthere 
+	PUNCT
+	oh 
+	oh ah very good oh 
+	oops 
+	try again 
+	very good 
+	and that goes on top of that 
+	very good 
+	oh is there another one in there 
+	oh grunts very good 
+	laughs oh no it fell down 
+	okay 
+	it's mine 
+	what about on there 
+	no put it in there 
+	okay 
+	and what about the other   the other block 
+	PUNCT
+	no that block 
+	you're gonna take that one 
+	proindefone 
+	oh no 
+	it's mine 
+	are you gonna stack them 
+	I'm gonna stack m and that's Rachel 
+	prodemthatcopbeS npropRachel 
+	PRED PUNCT
+	that's luca 
+	okay here we do that  we do that 
+	gasps how about like that 
+	no like this  like this 
+	oh you wanna put it like that okay 
+	compthat cookay 
+	COM PUNCT
+	and what about this   what about this one where do you wanna
+	put that one 
+	cmcm prointwhere moddo properyou vwantinfto partputPASTP
+	compthat proindefone 
+	AUX SUBJ CMOD INF COMP DET OBJ
+	PUNCT
+	put it that one 
+	put it that way 
+	oh try again 
+	okay what about the baby 
+	how about the baby 
+	that's the   that's the way we k you got this belly 
+	properyou vgetPAST detdemthis nbelly 
+	CMOD DET OBJ PUNCT
+	that's her belly 
+	is she gonna have something to drink 
+	proindefsomething infto vdrink 
+	PUNCT
+	yeah 
+	she gonna have something to drink 
+	vdrink 
+	what is it 
+	is that juice 
+	milk 
+	yes it's milk 
+	it's milk 
+	okay does she want some milk 
+	sips 
+	oh thankyou Hagrid 
+	it's a baby 
+	it's a baby 
+	it's a xxx 
+	xxx she do dodos	is she doing dodos	xxx go dodos	she go dodos	oh she's gonna have some milk first sips 
+	nmilk advfirst 
+	JCT PUNCT
+	mm sips 
+	good milk 
+	oh is the phone ringing 
+	that's my phone 
+	is there a phone ringing 
+	is there anyone there 
+	hello 
+	he says there's some there's a phone 
+	proexisttherecopbeS detarta nphone 
+	PRED PUNCT
+	it's my phone 
+	what's in there 
+	there's toys in there 
+	hello 
+	hello 
+	it's a it's my it's a phone 
+	detpossmy cmcm properitcopbeS detarta nphone 
+	SUBJ CMOD DET PRED PUNCT
+	who are you talking to 
+	who's on the other end of the phone 
+	detartthe nphone 
+	POBJ PUNCT
+	it's Mommy 
+	is it 
+	Mommy's on the other end of the phone 
+	detartthe nphone 
+	POBJ PUNCT
+	yeah 
+	hello hi Hagrid 
+	that's Rachel 
+	it's luca 
+	yeah 
+	Rachel 
+	yeah 
+	that's Rachel 
+	okay here's another baby Hagrid 
+	look 
+	oh it's a tiny baby 
+	that's a tiny baby 
+	he got a hat 
+	is she got ribbons in her hair 
+	nhair 
+	he's got a hat 
+	or she 
+	that's another baby 
+	it's another baby 
+	this is a another baby 
+	d do you think this baby needs some milk 
+	qnsome nmilk 
+	OBJ PUNCT
+	oh   oh for th oh lemme k milk 
+	PUNCT
+	milk 
+	xxx 
+	yeah is it right there 
+	yeah no he wants some 
+	oh baby says thankyou 
+	no that one's the baby 
+	oh the bigger baby needs some milk sips 
+	xxx the baby 
+	sips 
+	he wants the baby 
+	here's the big   big baby and the little baby 
+	detartthe adjlittle nbaby 
+	MOD COORD PUNCT
+	no I wanna play with it 
+	okay 
+	I need the phone 
+	who do you hafta call 
+	who you gonna call 
+	I'm talking 
+	hello 
+	hello 
+	hello 
+	who's there 
+	is it Nana Mary 
+	no that's  that's that the elephant 
+	the elephant 
+	he's talking the elephant 
+	he's talking the elephant 
+	oh what is the elephant saying 
+	domp dompt 
+	stomp  stomp  stomp  stomp 
+	gasps look there are two cups 
+	oh 
+	are we gonna have a cup of tea 
+	prepof ntea 
+	POBJ PUNCT
+	Rachel ha cup have a cup  cup  cup of tea 
+	are we gonna have a cup of tea 
+	prepof ntea 
+	POBJ PUNCT
+	oh look there's that  that tea and these are the  the cups
+	cmcm coordand prodemthese copbePRES detartthe ncup-PL 
+	CONJ COORD ROOT DET PRED PUNCT
+	xxx there was milk in there 
+	you wanna put milk instead 
+	yeah 
+	okay you put s some put some milk psh 
+	PUNCT
+	no  no it's nothing there Mama 
+	okay laughs 
+	and there's no milk in there Mom 
+	npropMom 
+	PUNCT
+	okay Mommy's gonna pretend sips 
+	I wanna drink it 
+	oh good milk 
+	sips 
+	oh good milk 
+	it's delicious 
+	it's delicious 
+	sorry Mom 
+	xxx milk in there 
+	are you gonna put the milk in the plate 
+	nmilk prepin detartthe nplate 
+	DET POBJ PUNCT
+	oh no we hafta do clean up 
+	PUNCT
+	it's my cup 
+	it's your oh very good Hagrid 
+	npropHagrid 
+	PUNCT
+	oh I wanna xxx 
+	are you having your milk 
+	is it good milk 
+	Mommy has milk 
+	is it delicious 
+	Mommy ha has some milk 
+	oh I'm gonna stir my tea 
+	ntea 
+	PUNCT
+	gonna stir my tea 
+	is it good milk 
+	where's the baby 
+	where's the baby 
+	you put the baby over there 
+	oh look I got what's that 
+	prodemthat 
+	PUNCT
+	that's a spoon 
+	okay 
+	you gonna stir your tea 
+	mm it's delicious 
+	I'm stirring my cheerios 
+	oh you're stirring your cheerios 
+	ncheerio-PL 
+	okay oh it's delicious 
+	that's luca 
+	that's Rachel 
+	mm  mm  mm those are good cheerios 
+	mm  mm good 
+	mm  mm  mm  mm 
+	was it  was it  was it shreddies	or was it porridge 
+	it's porridge 
+	it's porridge 
+	oh does the baby need some milk Hagrid 
+	npropHagrid 
+	PUNCT
+	does the baby need some milk 
+	oh you're giving the baby cheerios 
+	ncheerio-PL 
+	oh and you're eating the cheerios 
+	ncheerio-PL 
+	oh wow putting your cheerios in the teapot 
+	prepin detartthe nnteanpot 
+	DET POBJ PUNCT
+	and more c more c more milk 
+	PUNCT
+	you're putting the milk in the teacup 
+	detartthe nnteancup 
+	PUNCT
+	it's delicious 
+	mm 
+	mm good 
+	how about that cup 
+	that's my cup 
+	that's your cup 
+	what's in your cup Hagrid 
+	hm it's milk in there 
+	there's milk in the cup 
+	no its nothing there Hagrid 
+	there's nothing there 
+	there's nothing there 
+	where's the   where's the little baby Hagrid 
+	npropHagrid 
+	oh  oh where the baby where the bay 
+	oh there's the little baby 
+	here Mom 
+	oh well thankyou Hagrid 
+	we'll put the little baby next to the big sister 
+	advnext prepto detartthe adjbig nsister 
+	DET MOD POBJ PUNCT
+	that's the big sister that's the little baby 
+	prorelthatcopbeS detartthe adjlittle nbaby 
+	MOD PRED PUNCT
+	it's belly  it's belly 
+	that's her belly 
+	yeah that's her belly 
+	this is jammies	oh she's in her jammies	is she going dodos	yeah 
+	is she going dodos	is  is tummy 
+	that's her tummy 
+	grunts sh grunts sh 
+	i ah I'll touch it 
+	grunts sh 
+	this belly 
+	that's her belly 
+	xxx broke 
+	I think she hasta go dodos	she hasta go dodos	quiet 
+	xxx no he's not sleeping now 
+	she's not sleeping 
+	yeah 
+	is she gonna have some cheerios 
+	ncheerio-PL 
+	oh you want some have some cheerios that's a have sa no the baby 
+	prorelthatcopbeS detarta vhave qnno detartthe nbaby 
+	CMOD DET CPRED QUANT DET OBJ
+	PUNCT
+	oh for the baby okay 
+	the baby's gonna have some milk sips 
+	nmilk 
+	PUNCT
+	yeah 
+	and she's gonna have some milk 
+	nmilk 
+	PUNCT
+	and I like the truck that has some milk 
+	vhaveS qnsome nmilk 
+	OBJ PUNCT

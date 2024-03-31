@@ -1,0 +1,470 @@
+	what animal's on there Tracy 
+	hm horsie 
+	horsie 
+	it's a horsie phone 
+	that's pretty neat 
+	can you call someone on that 
+	-uh I wanna find another thing 
+	you wanna find something else 
+	let's see what we have in here 
+	nhere 
+	PUNCT
+	oh we have a baby brush 
+	you wanna brush her hair 
+	hm no 
+	no 
+	laughs we'll leave that with her 
+	baby bottle 
+	do you wanna give her baby bottle 
+	nbottle 
+	PUNCT
+	no 
+	no 
+	you sure 
+	look it fits right in there 
+	look oh 
+	mouth
+	no 
+	no 
+	okay we'll leave the baby stuff over there 
+	prepover nthere 
+	POBJ PUNCT
+	play with this 
+	oh you wanna play with the blocks 
+	nblock-PL 
+	PUNCT
+	alright let's take them out 
+	you gonna help me take them out sweetie 
+	proobjthem advout cosweet-DIM 
+	COM PUNCT
+	we'll make a tower 
+	what do you wanna make with it 
+	properit 
+	PUNCT
+	xxx 
+	you're not sure 
+	alright 
+	what we gonna make 
+	you wanna put your phone down 
+	let's see we wanna make a 
+	PUNCT
+	xxx 
+	what's that 
+	spoon 
+	I guess that's to feed the baby too 
+	nbaby posttoo 
+	POSTMOD PUNCT
+	you don't wanna play with her right 
+	detpossher coright 
+	POBJ PUNCT
+	nah 
+	no 
+	okay 
+	too babyish 
+	too babyish laughs 
+	alright 
+	so teacups 
+	would you like to have a teaparty 
+	nteaparty 
+	hm yeah 
+	yeah alright what would you prefer to do 
+	infto vdo 
+	PUNCT
+	you wanna m build a tower now 
+	or do you wanna have tea first 
+	PUNCT
+	hm tea 
+	tea first 
+	okay aw at least you have a teacup 
+	nnteancup 
+	PUNCT
+	the boil you hafta make sure the tea's all ready and then I you
+	needta pour some in our cups for us so that we have enough tea 
+	adjsure detartthe nteacopbeS advall adjready coordand
+	advtemthen prosubI cmcm properyou vneedinfto vpour
+	proindefsome prepin detpossour ncup-PL prepfor proobjus
+	cmcm advso prorelthat prosubwe vhave qnenough ntea 
+	DET SUBJ CMOD JCT PRED LINK JCT
+	SUBJ LP SUBJ CJCT INF COMP OBJ
+	JCT DET POBJ JCT POBJ LP JCT
+	LINK SUBJ CMOD QUANT OBJ PUNCT
+	mm that looks good 
+	what kind of tea is it 
+	hm  
+	you don't know laughs 
+	what kind of tea do you like 
+	hm watermelon tea 
+	watermelon tea 
+	what about what Pierre gets at bedtime 
+	nnbedntime 
+	PUNCT
+	you like that tea 
+	what does he get 
+	hm I don't get xxx 
+	chamomile 
+	oh chamomile tea 
+	chamomile tea 
+	that's a nice tea to have with a little bit what do you put inside
+	of it usually 
+	prepwith detarta adjlittle nbit cmcm prointwhat moddo
+	properyou vputZERO advprepinnside prepof properit
+	advusualdadj-LY 
+	DET MOD POBJ LP OBJ AUX SUBJ
+	CMOD JCT JCT POBJ JCT PUNCT
+	hm tea 
+	something sweet 
+	xxx tea 
+	yeah tea and then to make it a little sweeter what do we put
+	inside 
+	detarta adjlittle adjsweet-CP prointwhat moddo prosubwe
+	vputZERO advprepinnside 
+	MOD JCT SUBJ AUX SUBJ CMOD JCT
+	PUNCT
+	do you remember 
+	no 
+	xxx honey 
+	honey and 
+	honey yeah I put a little honey in there 
+	nhoney prepin nthere 
+	JCT POBJ PUNCT
+	so are we gonna have our tea together 
+	detpossour ntea advtogether 
+	JCT PUNCT
+	are you gonna make a phonecall first 
+	nnphonencall advfirst 
+	PUNCT
+	who you gonna call 
+	call Daddy 
+	alright call Daddy and tell him what you're doing 
+	prointwhat properyouauxbePRES partdo-PRESP 
+	SUBJ AUX COMP PUNCT
+	tell him what you're doing 
+	partdo-PRESP 
+	but I 
+	it's not really a real phone 
+	nphone 
+	it's not a real phone laughs 
+	that's why 
+	you can pretend then 
+	that's why it's not  it's not super fun right now because it
+	doesn't work 
+	adjsuper adjfun nright advtemnow conjbecause properit
+	moddoSnegnot vwork 
+	MOD JCT LINK SUBJ AUX NEG CJCT
+	PUNCT
+	yeah 
+	you like the real thing eh 
+	oh and are we gonna have something to eat too 
+	proindefsomething infto veat advtoo 
+	INF COMP JCT PUNCT
+	no xxx like babies 
+	no look I think the cups go on there and then we can put something
+	on there to eat 
+	nthere coordand advtemthen prosubwe modcan vputZERO
+	proindefsomething prepon nthere infto veat 
+	POBJ LINK JCT SUBJ AUX CJCT OBJ
+	JCT POBJ INF XJCT PUNCT
+	do you wanna make me something to eat 
+	proindefsomething infto veat 
+	COMP PUNCT
+	hm I don't know what I wanna do 
+	vwantinfto vdo 
+	INF COMP PUNCT
+	you don't know what you wanna do 
+	vwantinfto vdo 
+	COMP PUNCT
+	okay well that can be your saucer and this can be mine 
+	coordand prodemthis modcan copbe propossmine 
+	LINK SUBJ AUX CMOD PRED PUNCT
+	yeah 
+	alright have we finished our tea 
+	not yet 
+	are we still drinking it 
+	xxx 
+	let me see if it's too hot 
+	adjhot 
+	PUNCT
+	oo it's a little hot 
+	laughs 
+	we should wait  we should wait 
+	blow on it a bit 
+	put it here 
+	hey how about add some honey 
+	oh you can add honey to mine 
+	add some honey 
+	hm this is honey 
+	that's honey too 
+	okay put a little honey 
+	eh eh 
+	sweeten it 
+	there we go 
+	mm you hafta stir it up because honey usually makes it pretty
+	sweet at the bottom 
+	conjbecause nhoney advusualdadj-LY vmake-S properit
+	advpretty adjsweet prepat detartthe nbottom 
+	SUBJ JCT CJCT OBJ JCT JCT JCT
+	DET POBJ PUNCT
+	here the stirrers 
+	I'll stir mine 
+	mm it's gonna be sweet delicious tea 
+	adjdelicious ntea 
+	PRED PUNCT
+	xxx 
+	all finished now 
+	all finished 
+	okay taste it 
+	mm that was delicious 
+	oh that is so good you drank all your tea in one gulp laughs 
+	vdrinkPAST qnall detpossyour ntea prepin detnumone ngulp 
+	QUANT DET OBJ JCT QUANT POBJ PUNCT
+	I want some more 
+	some more 
+	okay here we go 
+	mm delicious tea 
+	xxx 
+	 the same kind of tea you're making me 
+	partmake-PRESP proobjme 
+	OBJ PUNCT
+	xxx yeah 
+	like grunts
+	what was it again 
+	-uh cranberry 
+	cranberry tea this time 
+	yeah 
+	okay that's good too 
+	what a nice little teapot you have 
+	properyou vhave 
+	you gonna call Daddy again laughs 
+	tell him what you're doing 
+	partdo-PRESP 
+	tell him what you're doing 
+	partdo-PRESP 
+	xxx 
+	oh hi Daddy oh hi yeah 
+	yeah we're having a teaparty here 
+	nteaparty advhere 
+	Tracy made me cranberry and chamomile tea and put honey in it 
+	nchamomile cmcm ntea coordand vputZERO nhoney prepin
+	properit 
+	CONJ COORD OBJ JCT POBJ PUNCT
+	and now we're just sipping it 
+	partsip-PRESP properit 
+	PUNCT
+	although Tracy already drank his really quickly laughs 
+	advrealdadj-LY advquickdadj-LY 
+	and I think we're gonna make a block tower next I'm not sure if he
+	wants to 
+	partgoPRESPinfto vmake detarta nblock ntower advnext
+	prosubIcopbeS negnot adjsure conjif prosubhe vwant-S
+	prepto 
+	DET MOD OBJ JCT SUBJ CJCT NEG
+	PRED LINK SUBJ CJCT JCT PUNCT
+	oh he's drinking some more tea 
+	ah 
+	alright well have a nice day at work 
+	PUNCT
+	eh 
+	see you later laughs 
+	bye 
+	can you say bye Daddy 
+	bye 
+	see you later 
+	there we go 
+	alright wanna make a bl a big huge tower now Tracy 
+	adjhuge ntower advtemnow npropTracy 
+	MOD MOD MOD OBJ PUNCT
+	no we're doing our tea now gulp 
+	advtemnow 
+	oh okay we're still drinking tea alright laughs 
+	ntea adjalright 
+	PUNCT
+	what do you wanna eat with your tea 
+	detpossyour ntea 
+	POBJ PUNCT
+	hm I don't know 
+	you're not sure 
+	what did you have yesterday that you liked so much that I bought
+	you remember 
+	properyou partlike-PASTP advso qnmuch compthat prosubI
+	vbuyPAST properyou cmcm vremember 
+	JCT QUANT LINK SUBJ COMP OBJ LP
+	ENUM PUNCT
+	remember carrot raisin something 
+	-uh cheese stick 
+	a cheese stick you xxx a cheese stick with your tea 
+	nstick prepwith detpossyour ntea 
+	NJCT DET POBJ PUNCT
+	-uh no 
+	no laughs 
+	I got so more tea 
+	more tea 
+	xxx 
+	ohmygoodness I think you know what 
+	I think you better get some more water from the kettle 
+	nwater prepfrom detartthe nkettle 
+	NJCT DET POBJ PUNCT
+	just pretend right here laughs 
+	interaction with child 
+	where 
+	just right pretend right here you got a kettle it's boiling 
+	vgetPAST detarta nkettle properitauxbeS partboil-PRESP 
+	DET OBJ SUBJ AUX CMOD PUNCT
+	and we need some more water for our teacup for our  for our
+	-uh teapot here 
+	detpossour nnteancup cmcm prepfor detpossour
+	nnteanpot advhere 
+	POBJ LP JCT DET POBJ JCT PUNCT
+	xxx fill it up 
+	filled it with some water 
+	is it already warm 
+	yeah 
+	yeah okay now we can pour the tea more 
+	detartthe ntea advmore 
+	OBJ JCT PUNCT
+	water xxx 
+	yeah some more in mine thankyou so much 
+	advmuch 
+	PUNCT
+	thankyou 
+	can I have a little more honey in mine please now 
+	prepin nmine vplease advtemnow 
+	POBJ COMP JCT PUNCT
+	gulp 
+	ohmy goodnessgracious you like that don't you 
+	moddonegnot properyou 
+	PUNCT
+	you like that tea 
+	I'm gonna stir mine nicely 
+	advnicedadj-LY 
+	make it cool down a bit 
+	xxx could you make me some muffins to go with my tea 
+	vgo prepwith detpossmy ntea 
+	JCT DET POBJ PUNCT
+	xxx 
+	there was also slight overlap between the mother and child 
+	-uh sure xxx get some water for you 
+	you gonna get some muffins 
+	okay laughs 
+	eh 
+	did you make my muffins already 
+	that was fast 
+	-uh not yet 
+	not yet 
+	xxx open this 
+	oh yeah no you just pretend 
+	just pretend stir up the batter 
+	I need a spoon 
+	need a spoon 
+	okay stir up the batter 
+	xxx 
+	you put that in there 
+	cheers 
+	oh cheers now okay 
+	cheers sweetie 
+	cheers laughs 
+	gulps 
+	oo that's delicious 
+	you made a great tea 
+	so good are you all refreshed now 
+	advtemnow 
+	yes 
+	try those 
+	xxx see how high you can make those go 
+	vgo 
+	PUNCT
+	oh oh ah laughs 
+	the tower falls 
+	ah heh ah 
+	aw 
+	start with the square ones 
+	oh 
+	aw da 
+	fell 
+	hard on the blanket eh 
+	yeah xxx do it on the floor 
+	oh that'll work better 
+	yeah just take your time 
+	there you go 
+	woah think you could put a blue block on top 
+	nblock prepon ntop 
+	JCT POBJ PUNCT
+	see if it'll stay 
+	if it'll stay up 
+	oo 
+	excellent look how high you're making it 
+	partmake-PRESP properit 
+	PUNCT
+	no  no 
+	another one 
+	wow gasps 
+	eek 
+	what is xxx oh laughs 
+	aw laughs 
+	that was a high tower 
+	pu ah 
+	tower fell 
+	that was a really high tower 
+	ntower 
+	one two three 
+	see how many we can stack up there 
+	nthere 
+	PUNCT
+	one two three 
+	four take your time Tracy 
+	ah laughs 
+	da 
+	can you help me 
+	yes I can 
+	xxx 
+	try to make the tallest tower ever 
+	can't be on the phone though we're building a tower now right 
+	prosubweauxbePRES partbuild-PRESP detarta ntower
+	advtemnow coright 
+	AUX PUNCT DET OBJ INCROOT COM
+	PUNCT
+	xxx 
+	you know what I think we should do maybe 
+	modshould vdo advmaybe 
+	JCT PUNCT
+	let's start with the blue blocks 
+	you wanna help me with the blue blocks 
+	nblue nblock-PL 
+	POBJ PUNCT
+	oh yeah 
+	okay let's start with the blue because they're the look they're
+	the most  the most stable I think 
+	conjbecause prosubtheycopbePRES detartthe cmcm nlook
+	prosubtheycopbePRES detartthe qnmost nstable prosubI
+	vthink 
+	SUBJ CJCT DET LP PRED SUBJ CMOD
+	DET QUANT PRED SUBJ CMOD PUNCT
+	here put the blue on top 
+	and we'll put the yellow 
+	can put them on top even Tracy 
+	like this 
+	okay try to put the next one on 
+	advon 
+	PUNCT
+	put it right on top though 
+	right on top  right on top th there 
+	xxx 
+	oo 
+	oo and w we'll try these very  very carefully 
+	adjcaredn-FUL-LY 
+	PUNCT
+	and oh we're almost did it 
+	properit 
+	two 
+	oh squeals we did it 
+	squeals 
+	okay let's put everything back in the box here 
+	prepin detartthe nbox advhere 
+	POBJ JCT PUNCT
+	wow we did the tallest tower possible 
+	adjpossible 
+	yeah 
+	xxx 
+	box 
+	I think we're almost done 
+	psh 
+	great 

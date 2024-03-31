@@ -1,0 +1,346 @@
+	call somebody xxx 
+	who are you calling 
+	you're gonna call Snape 
+	oh is it for me 
+	hello 
+	hello 
+	Russell come back 
+	Russell  Russell 
+	www 
+	wanna make a tower out of this 
+	PUNCT
+	why don't we build you made the nice ah looks like a train there
+	vmakePAST detartthe adjnice coah cmcm vlook-S preplike
+	detarta ntrain advthere 
+	DET MOD OBJ LP ENUM JCT DET
+	POBJ JCT PUNCT
+	why don't we make a tower okay 
+	adjokay 
+	PUNCT
+	it ca fall down 
+	it's gonna fall down 
+	mhm 
+	well let's try to build it up 
+	PUNCT
+	you wanna help me 
+	no 
+	think it's gonna can I get it up 
+	prosubI vget properit advup 
+	COMP OBJ JCT PUNCT
+	xxx 
+	oh fall down 
+	you can't 
+	can you do it 
+	yeah 
+	I can't they can fall down 
+	oh 
+	m alright 
+	you gonna try again 
+	Russell 
+	sweetie 
+	you needta stay here and play with me okay 
+	prepwith proobjme adjokay 
+	POBJ COORD PUNCT
+	come on 
+	no yells 
+	I don't no wanna 
+	Russell Heidi wants to watch us play a bit okay 
+	vplay detarta nbit adjokay 
+	OBJ POSTMOD PUNCT
+	come here 
+	okay 
+	let's see who's number is five five five five five five  five
+	detnumfive 
+	PUNCT
+	three five  seven two 
+	ring	hi Snape 
+	it's Angela and Russell 
+	how are you doing 
+	how d you do at school today 
+	Russell misses you 
+	he wants to say hi 
+	what do you say 
+	what you did at school 
+	what d he do at school 
+	he did his ar work 
+	he did a lot of work 
+	ar work 
+	art work oh good 
+	I bet Snape makes nice art work 
+	wild 
+	Snape what are you gonna be for Halloween 
+	partgoPRESPinfto copbe prepfor npropHalloween 
+	POBJ PUNCT
+	he said he g 
+	he said he gon be a fireman 
+	nnfirenman 
+	a fireman cool 
+	wanna tell him what you're gonna be for Halloween 
+	properyouauxbePRES partgoPRESPinfto copbe prepfor
+	npropHalloween 
+	INF COMP JCT POBJ PUNCT
+	Russell stay here 
+	I don't want 
+	a get out of here 
+	I don't know 
+	you don't know 
+	you got the blocks 
+	here 
+	you wanna have a teaparty like we do 
+	conjlike prosubwe vdo 
+	SUBJ CJCT PUNCT
+	moans 
+	look 
+	I pour you some tea 
+	no 
+	no 
+	would you like some sugar in your tea 
+	detpossyour ntea 
+	PUNCT
+	I'm gonna dump it on your hair 
+	detpossyour nhair 
+	POBJ PUNCT
+	oh pf 
+	now I'm all wet I'm gonna pour it on your head gloog gloog
+	gloog gloog gloog gloog gloog gloog gloog 
+	prosubIauxbeS partgoPRESPinfto vpour properit prepon
+	detpossyour adjhead 
+	ROOT INF COMP OBJ JCT DET POBJ
+	PUNCT
+	laughs 
+	hew 
+	xxx on your head 
+	right on my head 
+	I pour it on your head 
+	no 
+	gloog gloog no more 
+	no more 
+	gloog gloog no more 
+	gloog gloo oh 
+	here wanna mix it up 
+	Russell come here 
+	no going go outside 
+	no you're staying here and you're playing with me okay 
+	properyouauxbePRES partplay-PRESP prepwith proobjme
+	adjokay 
+	CJCT JCT POBJ JCT PUNCT
+	what else do we have 
+	you wanna play with the dolls 
+	we never play with dolls 
+	I'm going over there 
+	no we're gonna play right here 
+	nhere 
+	PUNCT
+	this helps Heidi okay 
+	come on 
+	w gonna put things in the truck 
+	ntruck 
+	no  no  no whines 
+	what's wrong 
+	you wanna load up the truck 
+	use the dumptruck 
+	whines I'm a tired 
+	oh Buddy come on 
+	please 
+	help out 
+	oh look Daddy's back 
+	Russell come on 
+	you gotta help  you gotta help 
+	hm do you wanna play with the babies 
+	nbaby-PL 
+	POBJ PUNCT
+	whines 
+	no 
+	come on xxx show me the blocks 
+	can you show me how you make a tower 
+	vmake detarta ntower 
+	OBJ PUNCT
+	we can knock them down 
+	should we make something else 
+	oh look that's Stonehenge 
+	whines 
+	what are you doing Russell 
+	here I'm gonna 
+	I just want a get out of here 
+	oh Buddy please 
+	can you help out 
+	no 
+	you wanna help me make a t tower 
+	ntower 
+	OBJ PUNCT
+	there you go 
+	mhm 
+	thankyou 
+	oh fall down 
+	you d make again 
+	yeah let's make that again 
+	you do it 
+	one like this 
+	uhhuh 
+	m this 
+	yeah 
+	m this 
+	oh very nice 
+	looks like a robot 
+	pew crash	oh there's another blue one 
+	oo tricky 
+	tricky make these 
+	there xxx fall down 
+	that's alright 
+	if we make them a little tower 
+	yeah you could make a lot of little towers 
+	adjlittle ntower-PL 
+	POBJ PUNCT
+	I can't I wanna sit down on sofa 
+	prepon nsofa 
+	JCT POBJ PUNCT
+	no Russell stay here and play ar 
+	on the sofa 
+	are we gonna have another tea party 
+	nparty 
+	PUNCT
+	here ls cheers 
+	here's your tea 
+	you gonna call Snape again 
+	call Dumbledore 
+	and Sammy 
+	call Grandma 
+	let me see how it horse moves 
+	nmove-PL 
+	you turn it a little bit it moves 
+	vmove-S 
+	PUNCT
+	oh yeah 
+	Russell come 
+	come here 
+	no look at me xxx 
+	Russell do you wanna play with the dolls 
+	detartthe ndoll-PL 
+	POBJ PUNCT
+	do you have dolls at school 
+	do you ever play with dolls 
+	yeah have them at school 
+	you have them at school do you ever play with them 
+	advever vplay prepwith proobjthem 
+	COMP JCT POBJ PUNCT
+	Russell come on 
+	squeals 
+	come on please 
+	you wanna give  give the doll a bottle 
+	nbottle 
+	PUNCT
+	do you know how to do that Russell 
+	npropRussell 
+	PUNCT
+	no 
+	no look they have little mouths 
+	you put the bottle right in there and you say oh drink some milk
+	little baby 
+	cmcm coordand properyou vsay cooh vdrink qnsome nmilk
+	adjlittle nbaby 
+	LINK SUBJ CJCT COM COMP QUANT MOD
+	MOD OBJ PUNCT
+	groans 
+	does it look like Julia 
+	can you get it 
+	there see 
+	it don fit into her whole mouth 
+	no 
+	it don't 
+	glug glug glug wah wah wah wah feed me  feed me 
+	feed me  feed me 
+	try this one 
+	oh feed me some milk 
+	thankyou Russell 
+	you're a good big brother 
+	hm 
+	glug glug glug maybe you should put some clothes on em 
+	advon 
+	maybe the baby's cold 
+	wanna try to do that 
+	yeah tricky put on 
+	oh did you try that already 
+	yeah tricky 
+	yeah dolls are dolls like this are usually tricky to get
+	dressed 
+	detdemthis auxbePRES advusualdadj-LY adjtrickdv-Y infto
+	cmcm vget partdress-PASTP 
+	JCT POBJ INF LP SRL XMOD PUNCT
+	they're tricky 
+	tricky 
+	it's because they can't move and wiggle the way real babies can
+	right 
+	vmove coordand vwiggle detartthe nway adjreal nbaby-PL ncan
+	coright 
+	COORD DET MOD MOD MOD OBJ COM
+	PUNCT
+	oh you know what real babies are tricky to get dressed too 
+	copbePRES adjtrickdv-Y infto auxget partdress-PASTP posttoo
+	INF AUX XMOD JCT PUNCT
+	and -uh three year old boys are tricky to get dressed sometimes
+	too 
+	adjtrickdv-Y infto vget partdress-PASTP advtemsometimes
+	posttoo 
+	XMOD COMP JCT PQ PUNCT
+	there you go 
+	look now she's got her nice purple jammies 
+	adjnice cmcm adjpurple nptjammies 
+	MOD ENUM PUNCT
+	aw and she's all ready for bed 
+	nbed 
+	PUNCT
+	give her -er bottle 
+	aw glug glug glug glug glug glug glug 
+	there you go 
+	no more 
+	aw no more 
+	all finished time to go to bed 
+	PUNCT
+	xxx no more milk 
+	no more milk aw 
+	well maybe she's full 
+	fais	I go play with Daddy 
+	no Russell 
+	come one 
+	we're almost done  we're almost done 
+	can we play one more minute 
+	xxx 
+	should I put all the toys on top of you 
+	ntop prepof properyou 
+	NJCT POBJ PUNCT
+	should I bury you in them 
+	laughs then th can't bury 
+	I can't bury you 
+	xxx so much 
+	I'll put em on your face 
+	where'd he go 
+	there I'm gonna build a tower on your head 
+	detarta ntower prepon detpossyour adjhead 
+	JCT DET POBJ PUNCT
+	laughs 
+	laughs oh falling down 
+	you gotta sit very still 
+	no 
+	laughs ah 
+	ah 
+	yells 
+	growls 
+	look at her 
+	xxx 
+	she's all naked 
+	alright 
+	we're all finished Russell 
+	here 
+	can we put everything back 
+	yeah 
+	thankyou Russell 
+	thankyou  thankyou I know you didn't wanna do that but xxx
+	help 
+	vwantinfto vdo prodemthat conjbut nhelp 
+	COMP OBJ CONJ COORD PUNCT
+	thankyou 
+	is that everything 
+	wait 
+	orange block over there 
+	not sitting on any 
+	no 

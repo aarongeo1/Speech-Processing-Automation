@@ -1,0 +1,306 @@
+	xxx 
+	xxx dolly 
+	www 
+	let's build a little tower 
+	let's see if we can build a tower how high 
+	ntower cmcm prorelhow nhigh 
+	OBJ LP LINK INCROOT PUNCT
+	I'll start 
+	your turn 
+	my turn 
+	good 
+	xxx 
+	oh you're turn 
+	gasps ah 
+	I didn't get to put my last block 
+	adjlast nblock 
+	OBJ PUNCT
+	let's do one more time 
+	seven eight nine  nine ten 
+	I'm gonna make it  make it nice steady 
+	adjsteady 
+	PUNCT
+	my turn your turn 
+	so I fow bach woo 
+	you're counting backwards 
+	ten xxx 
+	oops 
+	oh it's my turn 
+	laughs gasps s see can you manage 
+	gasps can we do it 
+	gasps we did it 
+	do you wanna smash it 
+	do you wanna smash it down 
+	yip 
+	so go smash it 
+	xxx 
+	put in the box 
+	good 
+	fish  fish  fish  fish  fish fit 
+	wanna have a little teaparty 
+	fish  fish  fish  fish  fish  fish 
+	fish  fish  fish 
+	fish  fish  fish  fish  fish  fish 
+	this is for her and this is okay 
+	prodemthis copbeS cmcm adjokay 
+	LP PRED PUNCT
+	fish  fish  fish  fish  fish  fish 
+	Nathan do you wanna give the dolly 
+	ndoll-DIM 
+	PUNCT
+	let's give the dolly some   some tea 
+	PUNCT
+	xxx 
+	one two three four five six 
+	detnumsix 
+	let's give the dolly some tea 
+	let's give her some tea 
+	one two three four five six seven eight nine 
+	detnumsix detnumseven detnumeight detnumnine 
+	ROOT PUNCT
+	okay can I have that 
+	I'm gonna put some tea in her cup look blup blup blup blup
+	blup blup blup blup blup 
+	prepin detpossher ncup nlook 
+	DET MOD POBJ PUNCT
+	she's drinking it sips 
+	can you put some tea in her cup 
+	ncup 
+	PUNCT
+	can you  can you 
+	look she doesn't have any 
+	her cup is empty 
+	laughs I know you wanna get that out 
+	PUNCT
+	ease 
+	I can't get it out 
+	okay we'll just pretend there's tea 
+	proexisttherecopbeS ntea 
+	PUNCT
+	oh  oh  oh not in your mouth 
+	okay can you put some tea for this little girl 
+	detdemthis adjlittle ngirl 
+	DET MOD POBJ PUNCT
+	k can you give her some tea 
+	can you give her some tea in her cup please 
+	detpossher ncup vplease 
+	POBJ ENUM PUNCT
+	oh go in her cup just pretend there's tea blup blup blup
+	blup blup blup blup blup blup 
+	adjpretend cmcm proexisttherecopbeS ntea 
+	LP SUBJ ENUM PRED PUNCT
+	is she gonna drink it 
+	laughs just pretend that's the tea 
+	okay she's gonna drink her tea 
+	detpossher ntea 
+	OBJ PUNCT
+	sips mm that was good tea 
+	now what are we gonna do 
+	partgoPRESPinfto vdo 
+	PUNCT
+	oh haha I think this girl this little girl wants to go home 
+	detdemthis adjlittle ngirl vwant-S infto vgo advhome 
+	DET MOD SUBJ COMP INF COMP JCT
+	PUNCT
+	can I have that please 
+	this little girl wants to go home 
+	look she has her little cellphone 
+	nadjcellnphone 
+	she's gonna call her mom 
+	nmom 
+	one fish two fish three fish  three fish  three fish
+	four fish  four fish five 
+	detnumfour nfish detnumfive 
+	ROOT PUNCT
+	she's gonna call her mom 
+	nmom 
+	hey listen to me 
+	can you please sit straight 
+	laughs xxx 
+	okay she's gonna call her mom because she wants to go home 
+	detpossher nmom conjbecause prosubshe vwant-S infto vgo
+	advhome 
+	LINK SUBJ CJCT INF COMP JCT PUNCT
+	Nathan  Nathan 
+	www 
+	now
+	Nathan yeah you're sleepy eh 
+	coeh 
+	www 
+	escape mechanism he pretends he's sleeping
+	she's saying I wanna go home now I'm gonna call my mom 
+	advhome advtemnow prosubIauxbeS partgoPRESPinfto vcall
+	detpossmy nmom 
+	JCT SUBJ AUX XJCT INF COMP DET
+	OBJ PUNCT
+	six one two three three  three seven eight three four 
+	detnumeight detnumthree detnumfour 
+	PUNCT
+	bling bling hi mommy 
+	hi it's Sammy I'm ready to come home now 
+	adjready infto vcome advhome advtemnow 
+	INF XMOD JCT JCT PUNCT
+	can you come and get me 
+	okay byebye 
+	and her mom's coming 
+	her comes her mom 
+	engine her mom's coming with the car engine 
+	ncar 
+	can you please sit up 
+	there she picked up her daughter 
+	and they're going home engine 
+	pick up xxx over here 
+	sit up please 
+	okay and she's home 
+	and now www 
+	-um let's see what could we do 
+	PUNCT
+	-um hm 
+	playing with his own toy from his room 
+	Nathan can you  can you give that to Heidi 
+	npropHeidi 
+	PUNCT
+	www 
+	the day xxx do nothing 
+	let's put the   put the cups in the truck in the  in the
+	pickup truck 
+	detartthe ntruck prepin detartthe nvpickprepup ntruck 
+	POBJ JCT DET MOD POBJ PUNCT
+	look let's put one two and then we'll put the spoons 
+	cmcm coordand advtemthen prosubwemodwill vputZERO
+	detartthe cmcm vspoon-S 
+	JCT SUBJ AUX CJCT DET LP OBJ
+	PUNCT
+	and it's gonna go in here 
+	nhere 
+	PUNCT
+	and he's gonna run 
+	he's gonna dump them out tch tch tch tch tch tch tch 
+	advout 
+	can you dump them out over here 
+	can you dump them out 
+	dump them dump it out dump  dump  dump it out 
+	properit advout 
+	JCT PUNCT
+	boom	nstuff 
+	OBJ PUNCT
+	tch tch tch tch tch tch tch tch tch got the plates 
+	and we're going back to the dump site 
+	detartthe ndump nsite 
+	POBJ PUNCT
+	tch tch tch tch tch tch tch tch tch tch tch tch tch
+	tch tch tch tch tch tch tch tch can you dump   can you
+	dump out the dishes 
+	dump 
+	alright what else should we dump out 
+	vdump advout 
+	PUNCT
+	tch tch tch tch tch tch tch oh I think the cellphone's
+	broken 
+	partbreakPASTP 
+	let's bring it to the dump 
+	gasps tch tch tch tch tch tch tch tch tch tch tch tch
+	tch tch tch tch tch tch tch tch y gonna dump that out 
+	hm 
+	can you dump out that 
+	can you dump it 
+	hm 
+	no 
+	you don't wanna dump that one out 
+	proindefone advout 
+	NJCT PUNCT
+	I'm gonna do it 
+	three two one ksh smash 
+	let's see now does this make any noise 
+	vmake qnany nnoise 
+	QUANT OBJ PUNCT
+	xxx 
+	do you wanna call Dad 
+	do you wanna call Dad 
+	pretend to call Dad 
+	call him 
+	Dad 
+	fish  fish  fish  fish  fish  fish 
+	you dialed the number 
+	now you hafta put it to your ear 
+	prepto detpossyour near 
+	POBJ PUNCT
+	can you say   say hi Dad 
+	fish  fish  fish  fish  fish  fish  fish  fish
+	 fish  fish  fish  fish 
+	come 
+	fish  fish  fish  fish  fish  fish  fish  fish
+	 fish 
+	hey can you come sit 
+	one fish two fish three  fish three four fish five fish 
+	nfish detnumfive nfish 
+	QUANT INCROOT PUNCT
+	come sit 
+	Nathan Nathan  Nathan 
+	stopped here  it lasted 
+	gasps you're finished rubbing that eye 
+	detdemthat neye 
+	come sit 
+	come sit  sit  sit  sit  sit  sit  sit 
+	and sit  sit  sit  sit  sit  sit  sit 
+	okay what should we do now 
+	do you wanna let's do a pattern 
+	detarta npattern 
+	DET OBJ PUNCT
+	xxx cup you can have a cup xxx 
+	let's make a pattern 
+	this   this what comes next 
+	what comes next 
+	let's finish the pattern 
+	yeah 
+	cup 
+	mhm gasps nice 
+	I love to cup -uhha -uhha 
+	and the phone goes on the end 
+	okay one more pattern 
+	okay new pattern 
+	oh okay one two 
+	laughs three 
+	laughs stop 
+	let's make a new pattern 
+	look can you fix oh sorry made a mistake 
+	vmakePAST detarta nmistake 
+	COMP DET OBJ PUNCT
+	okay go 
+	can you complete the pattern 
+	mhm 
+	set ready go 
+	mhm 
+	gasps 
+	-uhha 
+	ahhah 
+	ahhah 
+	yeah 
+	okay 
+	www 
+	Nathan 
+	gasps clean up 
+	clean up  clean up 
+	time to wake up -uh -uh up 
+	can we put everything in the box 
+	detartthe nbox 
+	xxx 
+	what 
+	okay I'm putting this in 
+	you throw this in here 
+	you put this one in 
+	come on 
+	it's good to open your eyes when you put things away 
+	conjwhen properyou vputZERO nthing-PL advaway 
+	SUBJ CJCT OBJ JCT PUNCT
+	gasps ah 
+	okay I'm doing this one please sit up 
+	proindefone cmcm coplease vsit advup 
+	CJCT JCT PUNCT
+	it's faster when you sit up 
+	we do it faster if you sit up 
+	vsit advup 
+	JCT PUNCT
+	we do it together 
+	come on 
+	yeah 

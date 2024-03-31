@@ -1,0 +1,330 @@
+	okay so what do you wanna do 
+	PUNCT
+	-um make  make  make a xxx and dump 
+	a what 
+	make  make dump 
+	big dump okay keep going there's more 
+	proexisttherecopbeS advmore 
+	PUNCT
+	big dump 
+	oh I have an idea for this one 
+	proindefone 
+	PUNCT
+	look put it like this 
+	and g there's two more pi three more pieces 
+	detnumthree advmore npiece-PL 
+	PRED PUNCT
+	oh four more pieces 
+	oh tricky 
+	why don't you bring that xxx pieces here and then we'll see what we
+	can do with them 
+	npiece-PL advhere coordand advtemthen prosubwemodwill vsee
+	prointwhat prosubwe modcan vdo prepwith proobjthem 
+	LINK JCT SUBJ AUX CJCT LINK SUBJ
+	AUX COMP JCT POBJ PUNCT
+	xxx load dumptruck xxx 
+	okay well get the three orange cu -um cubes and we'll see how
+	we can make something 
+	ncube-PL cmcm coordand prosubwemodwill vsee prointhow
+	prosubwe modcan vmake proindefsomething 
+	LP LINK SUBJ AUX CJCT LINK SUBJ
+	AUX COMP OBJ PUNCT
+	those are squares 
+	squares they're yes cubes is when they're three dimensional see
+	they've got lots of different sides 
+	copbeS conjwhen prosubtheycopbePRES detnumthree
+	adjdimensiondn-AL vsee prosubtheyauxhave partgetPASTP
+	nlot-PL prepof adjdifferent nside-PL 
+	LINK SUBJ CJCT QUANT PRED CJCT SUBJ
+	AUX COMP OBJ NJCT MOD POBJ
+	PUNCT
+	is that it 
+	yeah 
+	okay so I think maybe we could try and make them really  really
+	 really tall and they might all fit 
+	vtry coordand vmake proobjthem advrealdadj-LY adjtall
+	coordand prosubthey modmight advall vfitZERO 
+	CONJ COORD OBJ JCT JCT LINK SUBJ
+	AUX JCT CMOD PUNCT
+	lets see 
+	yeah up like that 
+	okay that's good 
+	and maybe like this put the other one on top 
+	qnother proindefone advon ntop 
+	SUBJ JCT INCROOT PUNCT
+	yeah and this one 
+	oh  oh and this one 
+	gasps and then it fit 
+	oh crash 
+	hafta move very slowly 
+	mhm you do 
+	watch out for the speedbump laughs 
+	it needs to go look it needs to dump xxx 
+	prepto ndump 
+	JCT POBJ PUNCT
+	they needta they building a building  a building  a
+	building 
+	detarta nbuilding 
+	PUNCT
+	you're building a building 
+	yeah xxx 
+	woah laughs 
+	xxx building a building like building xxx 
+	woah laughs 
+	xxx but they're building a building  a building  a
+	building 
+	nbuilding 
+	remember when xxx taught you how to make a twisted tower 
+	vmake detarta parttwist-PASTP ntower 
+	MOD OBJ PUNCT
+	wanna go like this 
+	remember 
+	we can make a twisted tower 
+	there you go 
+	ohmygoodness do you think it might go oh 
+	vgo cmcm cooh 
+	COM PUNCT
+	it all came tumbling down 
+	maybe it can carry 
+	what should we do 
+	 two loads at one time 
+	oh take it in two different loads 
+	is that what you mean 
+	yes one to this load one to this load 
+	detdemthis nload 
+	POBJ PUNCT
+	this load and this load  and this load 
+	yeah 
+	and this load 
+	you can take two trips eh 
+	you can take one trip with that and come back for this stuff 
+	prodemthat coordand vcome advback prepfor detdemthis nstuff
+	COORD JCT JCT DET POBJ PUNCT
+	gonna go two trips and gonna xxx 
+	partgoPRESPinfto 
+	OBJ PUNCT
+	okay take it to the construction site and then come back for the
+	second trip the second one 
+	coordand advtemthen vcome adjback prepfor detartthe
+	adjsecond ntrip cmcm detartthe adjsecond detnumone 
+	JCT COORD JCT JCT DET MOD POBJ
+	LP DET MOD OBJ PUNCT
+	ah a small a big escalator xxx and the escalator done something 
+	coordand detartthe nescalator partdoPASTP proindefsomething
+	DET COORD XMOD OBJ PUNCT
+	okay 
+	www 
+	xxx 
+	are you gonna bring over some more toys 
+	qnsome advmore cmcm vtoy-S 
+	LP COMP PUNCT
+	I'm bringing the trailer 
+	the trailer oh 
+	yeah and 
+	the tractors are in your leopard robes 
+	nleopard nrobe-PL 
+	my leopard robes 
+	yeah you see them 
+	I don't see them 
+	straighten out the blankie and then you'll see the two trail
+	tractors 
+	properyoumodwill vsee detartthe detnumtwo cmcm
+	ntractor-PL 
+	CJCT DET OBJ LP ENUM PUNCT
+	no 
+	oh 
+	www 
+	I don't see it 
+	you don't see it 
+	okay 
+	maybe we don't need them 
+	xxx 
+	because what 
+	xxx 
+	okay xxx construction vehicles 
+	xxx 
+	xxx construction hold on 
+	okay we'll make a construction site 
+	xxx 
+	oh yeah we need a steamroller 
+	a forklift  forklift construction 
+	forklift construction 
+	yeah a forklift is a good idea 
+	nidea 
+	xxx big construction xxx 
+	what are they gonna be making 
+	partmake-PRESP 
+	a flat steamroller truck 
+	yeah but what are they gonna construct 
+	partgoPRESPinfto vconstruct 
+	PUNCT
+	what is everyone gonna make 
+	vmake 
+	the this one is gonna make a train and those ones are gon this
+	gonna make a train 
+	partgoPRESPinfto vmake detarta ntrain coordand
+	detdemthose none-PL copbePRES cmcm detdemthis
+	partgoPRESPinfto vmake detarta ntrain 
+	DET SUBJ CONJ DET COORD COMP LP
+	PRED XMOD INF COMP DET OBJ PUNCT
+	a train 
+	he's gonna make a train 
+	yeah xxx and think about it and think about it dumping and think
+	about what he can make xxx 
+	prepabout properit partdump-PRESP coordand vthink prepabout
+	prointwhat prosubhe modcan vmake 
+	JCT POBJ ROOT CONJ COORD JCT LINK
+	SUBJ AUX CPOBJ PUNCT
+	okay 
+	then he picks up another load and dumps   dumps in xxx 
+	coordand cmcm ndump-PL advin 
+	POBJ NJCT PUNCT
+	okay 
+	xxx 
+	then he thinks about what he can make for train 
+	prosubhe modcan vmake prepfor ntrain 
+	JCT POBJ PUNCT
+	okay what can he build 
+	you show me 
+	he can build ah five engines   five engines in front 
+	nengine-PL prepin nfront 
+	NJCT POBJ PUNCT
+	and he can build another engine in back and another engine by the
+	xxx it has five   five engines six engines 
+	nback coordand qnanother nengine prepby detartthe properit
+	auxhaveS cmcm detnumfive nengine-PL cmcm detnumsix
+	nengine-PL 
+	CONJ QUANT COORD NJCT DET SUBJ AUX
+	LP QUANT POBJ LP QUANT APP
+	PUNCT
+	so it's gonna be very long xxx six engines 
+	adjlong detnumsix nengine-PL 
+	QUANT PRED PUNCT
+	mhm 
+	very powerful 
+	laughs the train has six engines 
+	yes 
+	and only three railway cars 
+	but -uh but one of these more powerful it has a   a lot of
+	blocks 
+	adjpowerdn-FULL properit auxhaveS cmcm detarta nlot
+	prepof nblock-PL 
+	SUBJ AUX LP DET COORD NJCT POBJ
+	PUNCT
+	mhm 
+	and   and he really thinks about another long train 
+	qnanother adjlong ntrain 
+	MOD POBJ PUNCT
+	mhm 
+	he thinks about what is another long train  another long train
+	this xxx another long train this is another long train 
+	another long train like this another long   long train 
+	proindefanother adjlong ntrain detdemthis proindefanother
+	adjlong ntrain prodemthis copbeS proindefanother adjlong
+	ntrain preplike prodemthis proindefanother cmcm adjlong
+	ntrain 
+	DET MOD MOD JCT SUBJ CMOD PRED
+	MOD CMOD NJCT POBJ ENUM LP MOD
+	APP PUNCT
+	xxx broken  broken stuff xxx carry the train to another train
+	 train  train and they think about another long train what
+	they can build 
+	qnanother ntrain coordand prosubthey vthink prepabout
+	qnanother adjlong ntrain prointwhat prosubthey modcan
+	vbuild 
+	LINK SUBJ CJCT JCT QUANT MOD POBJ
+	LINK SUBJ AUX CMOD PUNCT
+	beep	think about another train 
+	xxx beeping he needs to dump it out very quietly 
+	advout advvery advquietdadj-LY 
+	JCT PUNCT
+	mhm 
+	xxx loud xxx 
+	beep	I dumped his out xxx 
+	beep	I think about another long train 
+	I think I'm ready for another long train  another long train 
+	adjlong ntrain 
+	POBJ PUNCT
+	but they gonna build xxx coming out of that 
+	partcome-PRESP advout prepof prodemthat 
+	JCT POBJ PUNCT
+	mhm 
+	back and 
+	you steamrolling all the cement 
+	they gonna build a  a a subway track  a subway track 
+	subnway ntrack 
+	PUNCT
+	a double track 
+	like I'm a build a subway track and look it needs to be rolling and
+	have a little this is water on 
+	ntrack coordand vlook properit vneed-S infto auxbe
+	partroll-PRESP coordand vhave detarta adjlittle cmcm
+	prodemthis copbeS vwater advon 
+	CONJ COORD SUBJ COMP INF AUX COMP
+	CONJ COORD DET SUBJ LP ENUM AUX
+	COMP JCT PUNCT
+	sure 
+	 to keep it really cool 
+	okay a few more or one more minute honey and then we'll clean up
+	okay 
+	nminute nhoney coordand advtemthen prosubwemodwill vclean
+	advup cookay 
+	MOD COORD LINK JCT SUBJ AUX CJCT
+	JCT COM PUNCT
+	an an an 
+	there there's water near your truck 
+	detpossyour ntruck 
+	PUNCT
+	yes so  so that's another one xxx water on the top so it can get
+	cool into fire and after fire and come into a big  into a big
+	xxx and the xxx helps this xxx every xxx for this can be a long
+	train 
+	nwater prepon detartthe ntop coso properit modcan vget
+	adjcool prepinto nfire coordand prepafter nfire cmcm
+	coordand vcome prepinto detarta adjbig coordand detartthe
+	nhelp-PL detdemthis qnevery prepfor detdemthis modcan copbe
+	detarta adjlong ntrain 
+	DET POBJ COM SUBJ AUX CPRED PRED
+	JCT POBJ CONJ COORD POBJ LP
+	CONJ COORD JCT DET POBJ CONJ DET
+	COORD DET JCT JCT DET AUX CPOBJ
+	DET MOD PRED PUNCT
+	mhm 
+	so xxx long train  long train so 
+	are we gonna put this train together 
+	detdemthis ntrain advtogether 
+	PUNCT
+	yes 
+	then we can choo	prepover nthere 
+	PUNCT
+	i 
+	oh it's all gonna be one train 
+	detnumone ntrain 
+	COMP PUNCT
+	one  one xxx one xxx 
+	sometimes we do it like that xxx 
+	need help xxx back 
+	okay sweetpea	lets make this train go choo	prepover nhere 
+	POBJ PUNCT
+	right over there 
+	there 
+	xxx 
+	thankyou  thankyou 
+	this makes the same construction 
+	hm 
+	makes the same construction 
+	needs to contain construction 
+	yeah it needs to build another special things 
+	nthing-PL 
+	PUNCT
+	okay so put it in here for now along with these blocks then
+	there'll be other toys 
+	advtemnow advalong prepwith detdemthese nblock-PL
+	advtemthen proexisttheremodwill auxbe proindefother
+	ntoy-PL 
+	JCT JCT DET POBJ JCT SUBJ AUX
+	AUX MOD OBJ PUNCT
+	other toys for me because xxx new toys for me 
+	prepfor proobjme 
+	NJCT POBJ PUNCT
+	great thankyou 

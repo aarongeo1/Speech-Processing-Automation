@@ -1,0 +1,381 @@
+	no  no she doesn't wanna sit up maybe we can sit her on here 
+	advmaybe prosubwe modcan vsit proobjher prepon nhere 
+	JCT SUBJ AUX COMP OBJ JCT POBJ
+	PUNCT
+	try and sit her on here and see if she sit up 
+	conjif prosubshe vsit advup 
+	LINK SUBJ CJCT JCT PUNCT
+	wanna sit her on here 
+	oh there she goes 
+	now she sits 
+	xxx 
+	oh no maybe put her here 
+	put the baby here next to the girl and it'll stay up 
+	ngirl coordand properitmodwill vstay advup 
+	LINK SUBJ AUX CJCT JCT PUNCT
+	like that 
+	oh now this one's xxx 
+	okay like that here 
+	are you gonna put the plates 
+	cmcm nplate-PL 
+	PUNCT
+	xxx plates 
+	cups 
+	where do the cups go 
+	right here 
+	you wanna put them there or you wanna put them on the plate 
+	coordor properyou vwantinfto vputZERO proobjthem prepon
+	detartthe nplate 
+	CJCT INF COMP OBJ JCT DET POBJ
+	PUNCT
+	xxx on plate 
+	put the teapot goes on the plate 
+	detartthe nplate 
+	PUNCT
+	mhm 
+	a cup there okay 
+	and is this one for the baby 
+	nbaby 
+	mhm 
+	maybe the baby wants some milk 
+	give the baby milk 
+	let's see does it have a hole in its mouth 
+	prepin detpossits nmouth 
+	JCT DET POBJ PUNCT
+	look this one has a hole in its mouth so we can put the milk inside
+	you see 
+	prepin detpossits nmouth coso prosubwe modcan vputZERO
+	detartthe nmilk advprepinnside properyou vsee 
+	POBJ COM SUBJ AUX CJCT DET OBJ
+	JCT SUBJ JCT PUNCT
+	xxx 
+	try and stick it inside there 
+	you think it goes in 
+	ah okay oh she's drinking 
+	this one to brush her hair 
+	not your hair the doll's hair laughs 
+	you wanna comb your hair 
+	yeah 
+	this is her little hat I think for the baby 
+	vthink prepfor detartthe nbaby 
+	DET POBJ PUNCT
+	hm keep the baby's head warm 
+	baby cold 
+	yeah baby cold if we don't put the hat on 
+	detartthe nhat advon 
+	DET OBJ JCT PUNCT
+	okay there you go 
+	what about these ones 
+	what are we gonna do with these ones 
+	prepwith detdemthese proindefone-PL 
+	POBJ PUNCT
+	xxx 
+	hm 
+	play with them 
+	put it back there okay 
+	okay these one what do you wanna do with these ones 
+	vwantinfto vdo prepwith detdemthese proindefone-PL 
+	COMP JCT DET POBJ PUNCT
+	xxx 
+	play with them 
+	xxx 
+	do you think we can give them some tea 
+	qnsome ntea 
+	OBJ PUNCT
+	xxx 
+	your phone 
+	mhm 
+	who you gonna call 
+	they going to call Daddy and 
+	you gonna call Daddy 
+	an 
+	and who 
+	Daddy 
+	Daddy and 
+	hi Daddy 
+	hi Daddy 
+	I'm fine 
+	-um xxx 
+	where Daddy 
+	I don't know he's probably at work 
+	advprobabledadj-LY prepat nwork 
+	POBJ PUNCT
+	you're at work 
+	okay 
+	now who we gonna call 
+	who else 
+	we're gonna call Hallil 
+	Hallil 
+	where's Hallil 
+	little daycare 
+	he's at the daycare oh 
+	okay did you call him 
+	did you dial his number 
+	okay so is it ringing 
+	hi Hal huh 
+	is it ringing 
+	hi Hallil xxx at the daycare okay 
+	do do byebye oh what you doing 
+	okay bye  bye 
+	bye 
+	bye 
+	do you wanna give the dolls some tea now 
+	qnsome ntea advtemnow 
+	ENUM JCT PUNCT
+	hm 
+	wanna give them some tea 
+	xxx 
+	okay we're gonna pour it in the cup 
+	properit prepin detartthe ncup 
+	DET POBJ PUNCT
+	pour it 
+	here 
+	yeah pour some in the cup 
+	yeah okay take the spoon out pour some tea 
+	qnsome ntea 
+	QUANT OBJ PUNCT
+	dri 
+	okay now we're gonna mix it 
+	vmix properit 
+	PUNCT
+	there you put some sugar you can pretend this is sugar here 
+	modcan vpretend detdemthis auxbeS nsugar advhere 
+	ROOT DET OBJ PRED NJCT PUNCT
+	pretend there's some sugar here ch ch ch 
+	okay mix mix  mix  mix 
+	okay now you can give it to the dollie to drink 
+	detartthe ndoll-DIM prepto ndrink 
+	POBJ NJCT POBJ PUNCT
+	but do it slowly because it might be hot 
+	modmight copbe adjhot 
+	PRED PUNCT
+	xxx 
+	yeah 
+	slowly 
+	mm I think she likes it 
+	what about some tea for you 
+	xxx 
+	ah the teapot's upside-down maybe we lost all the tea 
+	advmaybe prosubwe vlosePAST advall detartthe ntea 
+	JCT DET OBJ PUNCT
+	hm 
+	the teapot's upside-down maybe all the tea came out 
+	qnall detartthe ntea vcomePAST advout 
+	ROOT JCT PUNCT
+	no 
+	no there's still some inside 
+	advprepinnside 
+	mhm 
+	okay 
+	xxx going to be done okay 
+	okay 
+	b now I'm done 
+	okay so now you're gonna mix it 
+	partgoPRESPinfto vmix properit 
+	OBJ PUNCT
+	you need some sugar 
+	here's some sugar 
+	sugar's over here 
+	take some sugar and pretend there's some sugar here 
+	proexisttherecopbeS qnsome nsugar advhere 
+	QUANT PRED NJCT PUNCT
+	that the sugar 
+	that's the sugar 
+	oh okay that's the sugar so put in  in 
+	partputPASTP advin 
+	JCT PUNCT
+	ts xxx 
+	okay are you gonna mi mix your sugar inside your tea 
+	nmix detpossyour nsugar adjinside detpossyour ntea 
+	DET MOD MOD DET PRED PUNCT
+	woah  woah xxx 
+	where's the spoon 
+	here 
+	okay so mix  mix  mix 
+	oh so yummy 
+	and what about for me 
+	do I get some tea 
+	xxx ts 
+	sugar 
+	sugar for Momma 
+	where's my sugar 
+	thankyou sips 
+	so yummy 
+	he 
+	-um -um xxx 
+	what about what 
+	xxx 
+	what about what 
+	xxx 
+	me 
+	yeah 
+	what about me 
+	and me  and me 
+	me and you 
+	yeah 
+	we're both gonna have some tea 
+	ntea 
+	PUNCT
+	we're gonna have the xxx 
+	we're gonna have some milk 
+	okay the milk is here 
+	xxx 
+	yep 
+	thankyou sips mm 
+	that tea 
+	yeah is it hot 
+	-um no 
+	no i is there any left 
+	or there's it's all empty gone all n all gone now 
+	advall adjempty partgoPASTP cmcm qnall advall partgoPASTP
+	advtemnow 
+	XJCT LP QUANT JCT XJCT JCT PUNCT
+	i all gone 
+	it's all gone 
+	mhm 
+	you drank all the tea 
+	no it xxx 
+	well you just said there was no xxx 
+	auxbePASTS cono 
+	huh 
+	xxx 
+	okay so do you wanna put this stuff back here or what do you wanna
+	d what about the truck 
+	detdemthis nstuff advback advhere coordor prointwhat moddo
+	properyou vwantinfto cmcm detintwhat prepabout detartthe
+	ntruck 
+	OBJ JCT JCT LINK SUBJ AUX SUBJ
+	ROOT INF LP INCROOT JCT DET POBJ
+	PUNCT
+	i 
+	what do we put I think the trucks I think we needta put the
+	blocks on the truck and hafta bring them somewhere 
+	detartthe ntruck-PL cmcm prosubI vthink prosubwe
+	vneedinfto vputZERO detartthe nblock-PL prepon detartthe
+	ntruck coordand modhaveinfto vbring proobjthem cmcm
+	nsomewhere 
+	OBJ LP SUBJ CJCT SUBJ COMP INF
+	COMP DET OBJ JCT DET POBJ CONJ
+	AUX INF COORD OBJ LP OBJ PUNCT
+	you see 
+	woah  woah what xxx to go 
+	I don't know where do you wanna bring them 
+	vwantinfto vbring proobjthem 
+	INF COMP OBJ PUNCT
+	hm he here no 
+	over there 
+	okay so bring them and then put them empty the truck and then
+	we'll bring the rest of them okay 
+	vputZERO proobjthem cmcm adjempty detartthe ntruck
+	coordand advtemthen prosubwemodwill vbring detartthe
+	nrest prepof proobjthem cookay 
+	LP MOD DET OBJ LINK JCT SUBJ
+	AUX CMOD DET OBJ NJCT POBJ COM
+	PUNCT
+	okay 
+	okay empty the truck 
+	empty   empty it 
+	xxx 
+	them   them won't go on 
+	no you hafta empty them you hafta take them out of the truck 
+	modhaveinfto vtake proobjthem advout prepof detartthe
+	ntruck 
+	INF COMP OBJ JCT JCT DET POBJ
+	PUNCT
+	and then we bring the other ones 
+	proindefone-PL 
+	no okay 
+	coming 
+	xxx 
+	okay now which one are you put inside 
+	properyou vputZERO advprepinnside 
+	PUNCT
+	do 
+	those ones 
+	oh another one 
+	that no bit 
+	here you can turn it 
+	turn it a different way 
+	take the block out and put it a different way 
+	detarta adjdifferent nway 
+	MOD OBJ PUNCT
+	okay 
+	okay try putting it a different way 
+	nway 
+	oh maybe turn it around there 
+	here put some different blocks 
+	you see 
+	hm put it on top xxx 
+	it going in the road 
+	it's going in the road 
+	and come and going to 
+	and the road 
+	in the road okay 
+	where's it going 
+	xxx 
+	going in the road where the cars are 
+	ncar-PL copbePRES 
+	PUNCT
+	yep 
+	do i it going down 
+	look  look ah  ah  ah car in there okay 
+	okay  okay 
+	is there a lot of cars down there 
+	nthere 
+	PUNCT
+	mhm xxx 
+	okay come let's put everything back inside 
+	advback advprepinnside 
+	PUNCT
+	come we're gonna put everything back inside the box 
+	proindefeverything adjback adjinside detartthe nbox 
+	MOD DET OBJ PUNCT
+	no 
+	no you don't wanna put everything away 
+	proindefeverything advaway 
+	JCT PUNCT
+	no 
+	laughs ah I think we have something else to do now 
+	postelse infto vdo advtemnow 
+	XMOD JCT PUNCT
+	no 
+	look xxx going 
+	going okay 
+	I'll play with the dolls then 
+	advtemthen 
+	they're gonna take a nap 
+	nnap 
+	yawns I needta take a nap 
+	one more time 
+	xxx maybe after I don't know we'll see 
+	prosubwemodwill vsee 
+	COMP PUNCT
+	xxx 
+	there something else we needta put in here 
+	partputPASTP prepin nhere 
+	POBJ PUNCT
+	look if there's something else around 
+	postelse advaround 
+	is there anything else to put inside 
+	advprepinnside 
+	xxx 
+	look behind you  look behind you 
+	okay and the other one 
+	bring the other one here 
+	we can put it inside the box 
+	detartthe nbox 
+	xxx 
+	there 
+	xxx 
+	put it inside the box please 
+	vplease 
+	okay anything else to put in here we're gonna close it up 
+	nhere cmcm prosubweauxbePRES partgoPRESPinfto vclose
+	properit advup 
+	SUBJ AUX XJCT INF COMP OBJ JCT
+	PUNCT
+	put everything inside 
+	I think she wants us to give her  her stuff back 
+	detpossher nstuff advback 
+	OBJ JCT PUNCT
+	laughs and he wants to keep the car 

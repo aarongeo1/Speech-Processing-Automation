@@ -1,0 +1,362 @@
+	www 
+	okay Miss Lu 
+	what are we doing here 
+	we  we  we needta talk to your mommy 
+	I needta talk to my mommy 
+	mhm 
+	okay 
+	can you call her for me please 
+	okay 
+	okay 
+	xxx 
+	not here 
+	okay 
+	hello 
+	hi Mommy 
+	oh you wanna talk to Barbara 
+	okay here she is 
+	she wants to talk to you 
+	hi 
+	laughs 
+	not here 
+	oh okay 
+	okay so let's talk later because I'm gonna play with Barbara now
+	prosubIauxbeS partgoPRESPinfto vplay prepwith
+	npropBarbara advtemnow 
+	AUX CJCT INF COMP JCT MOD POBJ
+	PUNCT
+	okay I love you too 
+	bye 
+	click	there we go 
+	that was Mommy's mommy 
+	that was Mommy's mommy do you know who Mommy's mommy is 
+	properyou vknow prointwho adjMommydn-POSS nmommy copbeS 
+	LINK MOD SUBJ COMP PUNCT
+	Barbara 
+	laughs oh that's very existential 
+	-um it's Mama 
+	Mama is Mommy's mommy 
+	so what do we have here Miss 
+	do you wanna build some stuff 
+	yes 
+	look at these 
+	should we get these out 
+	mhm 
+	mhm 
+	xxx 
+	because I want make a tower 
+	tower 
+	how big can you make your tower 
+	ntower 
+	you're so good at tower building 
+	it's gonna fall 
+	well they do 
+	yeah when they get too big 
+	gasps that's really big laughs 
+	ah boom	xxx tower 
+	that was a good tower though 
+	do you want Mommy try one 
+	da doom hi we're not here 
+	hm I'm talking to me dad 
+	not here grunts 
+	thankyou Miss 
+	what about this 
+	what about that guy 
+	what's that 
+	he wants to put some something 
+	oh that's a good idea 
+	how many can y you can knock it over 
+	properit advover 
+	JCT PUNCT
+	boom	how many of these can you fit in the truck 
+	properyou vfitZERO prepin detartthe ntruck 
+	DET POBJ PUNCT
+	oh yeah gasps that's a good way 
+	and then where is he going 
+	partgo-PRESP 
+	he's going to go to xxx 
+	to where 
+	to the  to the Ys 
+	to the Y 
+	okay is he gonna go swimming 
+	partswim-PRESP 
+	hm no he's gonna watch me 
+	proobjme 
+	PUNCT
+	he's gonna watch you swim 
+	vswim 
+	yeah 
+	okay 
+	in the truck 
+	no xxx 
+	you can drive the truck 
+	I can thankyou 
+	engine 
+	it's coming towards you 
+	no 
+	beep	beep	trucks beep when they go backwards don't they 
+	moddonegnot prosubthey 
+	COMP PUNCT
+	Mommy could you he can go in the tunnel 
+	prepin detartthe ntunnel 
+	DET POBJ PUNCT
+	gasps oh yeah 
+	okay 
+	ready engine 
+	xxx 
+	is he gonna fit  is he gonna fit 
+	yeah 
+	okay 
+	wah that was great 
+	I like your tunnel 
+	look 
+	he can go on my  on my legs 
+	okay 
+	come a little bit closer 
+	now you can go 
+	engine engine engine engine engine laughs 
+	it stuck 
+	should we back him up 
+	xxx 
+	beep	no I can do it engine engine engine engine engine 
+	this car go boom	woah boom	that's good thought he didn't even lose anything form his pack
+	from his boat 
+	moddoPASTnegnot veven vlose proindefanything vform
+	detposshis npack cmcm prepfrom detposshis nboat 
+	COMP SUBJ COMP DET OBJ LP JCT
+	DET POBJ PUNCT
+	look 
+	yeah 
+	you lying down like a baby 
+	hello Barbara 
+	laughs 
+	look 
+	are you kicking 
+	hello Barbara 
+	laughs 
+	I think the baby's hungry 
+	oh 
+	what do we do  what do we do when the baby's hungry 
+	nbabycopbeS adjhungry 
+	PRED PUNCT
+	well that's goo 
+	she wants some warm milk 
+	yeah that's good 
+	you're good at feeding that baby 
+	detdemthat nbaby 
+	xxx to sit up 
+	you hafta sit up okay 
+	yeah 
+	and she can sleep better after 
+	okay 
+	m lying down 
+	laughs yes you are 
+	Barbara's xxx down too 
+	not coming out 
+	well maybe that's why she's hungry 
+	prosubshecopbeS adjhungry 
+	PUNCT
+	I think it's just pretend right 
+	adjright 
+	but she wants some tea 
+	she wants some tea oh 
+	do you have tea 
+	yes 
+	gasps 
+	tea 
+	yes you want tea 
+	laughs is it hot 
+	maybe it's iced tea 
+	iced tea 
+	yeah like Mama makes in the summertime or Mommy makes 
+	nnsummerntime coordor npropMommy vmake-S 
+	SUBJ CJCT PUNCT
+	xxx now you put it back in 
+	okay 
+	thanks for cleaning up 
+	put the blocks 
+	out the blocks 
+	I xxx brush her hair 
+	oh that's nice 
+	you want my help 
+	what's your cleanup song again 
+	advtemagain 
+	no 
+	no 
+	 I can't clean up 
+	call Mama 
+	again 
+	no 
+	grunts I'm brushing the baby's hair 
+	nhair 
+	that's very nice of you 
+	look 
+	yeah 
+	g how about if we're gentle with her head 
+	prepwith detpossher nhead 
+	POBJ PUNCT
+	do you like your hair brushed 
+	hey Miss 
+	good and working 
+	she wants to get a haircut 
+	you think so 
+	yeah 
+	who cuts your hair 
+	xxx she have a ponytail 
+	she does 
+	I think she has two ponytails 
+	nnponyntail-PL 
+	mhm 
+	mhm 
+	kisses 
+	now 
+	you got a pretty haircut 
+	and she wants some tea 
+	more tea for the baby 
+	mhm 
+	okay 
+	-uh put her shirt her pajama down 
+	advdown 
+	yeah that's good 
+	so her belly's not cold 
+	sh now you're okay 
+	it's not working 
+	the bottle 
+	no 
+	hm 
+	now it's working 
+	is it working 
+	he is  is xxx here 
+	is baby happy 
+	no 
+	is the baby sad 
+	yeah she's sad 
+	do you think she needs a hug 
+	let her go to bed xxx 
+	aw that's very nice 
+	that's nice 
+	no doesn't want my bed 
+	no thankyou 
+	no thankyou 
+	okay 
+	just clean xxx 
+	but you like when I rub your back when you go to bed 
+	adjback conjwhen properyou vgo prepto nbed 
+	LINK SUBJ CJCT JCT POBJ PUNCT
+	baby wants talk to his mommy 
+	okay 
+	this is his ear 
+	there 
+	is that how you talk to Mama 
+	npropMama 
+	PUNCT
+	Mommy's here 
+	hallo 
+	she's here 
+	sh 
+	what about this baby 
+	hallo baby 
+	she wants to cuddle me 
+	aw that's nice 
+	and her  and her and that baby wants to cuddle me 
+	infto vcuddle proobjme 
+	OBJ PUNCT
+	are they going to sleep 
+	yeah 
+	okay 
+	put the pr pr phone away 
+	the pants on 
+	go to bed  go to bed  go to bed bed	bed	are you singing songs 
+	yeah de 
+	singing bed time songs 
+	go bed	now wake up bed	now baby you can wake up  you can wake up  you can wake
+	up  you can wake up  you can wake up  you can wake
+	up  you can wake up  you can wake up 
+	that's a nice wake up song 
+	xxx 
+	oh thank you 
+	you can wake up  you can wake up you can ha wake up you can
+	wake up you can lay down 
+	properyou modcan vwake advup properyou modcan cmcm adjlay
+	advdown 
+	SUBJ AUX ROOT JCT SUBJ AUX LP
+	JCT JCT PUNCT
+	woah 
+	oh is it lay down time 
+	mhm 
+	for all of us 
+	do I lay down too 
+	laughs 
+	laughs 
+	ah laughs 
+	okay wake up 
+	wake up okay 
+	dododododododo	kisses 
+	go to bed 
+	go to bed again 
+	yeah 
+	okay 
+	xxx old place 
+	okay 
+	xxx 
+	time to wake up laughs 
+	no 
+	wake up 
+	wake up 
+	now we brush his hair 
+	that one doesn't really have hair to brush 
+	vhave nhair prepto nbrush 
+	POBJ PUNCT
+	or you could try 
+	that's nice 
+	is that how we wash your hair 
+	nhair 
+	she have hair 
+	yeah she does have hair 
+	xxx her a haircut 
+	are ya 
+	mhm 
+	xxx this her haircut 
+	it's so beautiful 
+	you did a really goodjob 
+	moans 
+	thankyou Barbara for my haircut 
+	yeah 
+	laughs yeah thankyou 
+	hey Barbara 
+	uhhuh 
+	you're my friend 
+	yeah 
+	yeah 
+	-um -um excuse me Barbara 
+	uhhuh 
+	could I give you a hug please 
+	yeah 
+	yeah kisses 
+	I'm rubbing his hair 
+	oh yeah 
+	it feels good 
+	mhm 
+	yeah 
+	happy haircut 
+	oh that's so pretty 
+	Barbara you're very good at haircuts 
+	nnhairvcut-PL 
+	www 
+	love you haircut 
+	maybe we'll just practice without scissors 
+	nscissors 
+	PUNCT
+	how about my ponytail 
+	can you brush my ponytail 
+	no Mama no not just ponytail 
+	okay you want my hair 
+	I just xxx your hair 
+	okay 
+	xxx a haircut 
+	oh that feels great 
+	xxx haircut 
+	thankyou 
+	xxx 
+	now I make some xxx my something else 
+	proindefsomething postelse 

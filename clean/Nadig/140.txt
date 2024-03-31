@@ -1,0 +1,67 @@
+	who's on the phone 
+	can you say hello 
+	say hello 
+	who is it 
+	no 
+	can you make tea Severus 
+	can you pour me some tea 
+	Severus pour me tea 
+	sh pour me some tea 
+	psh hey laughs you knocked over my tea 
+	come on 
+	I want tea 
+	look I'm gonna make myself some more tea psh 
+	proreflmyself qnsome qnmore ntea 
+	QUANT QUANT OBJ PUNCT
+	mm 
+	yeah he wants it 
+	do you wanna feed the doll 
+	do you wanna feed the doll 
+	some  some milk 
+	no 
+	eats do you wanna feed the baby 
+	PUNCT
+	www 
+	come knock my blocks down 
+	come 
+	coughs 
+	wanna do that 
+	knock my blocks down 
+	come  come 
+	knock my blocks down 
+	yeah thankyou 
+	you wanna do like this 
+	knock these blocks down 
+	come on 
+	knock them down 
+	thankyou 
+	can I have these ones then 
+	can I take these 
+	I'm gonna take these okay 
+	adjokay 
+	PUNCT
+	I'm gonna do this and like this   this oh psh and they all
+	ju fell woo 
+	coordand colike cmcm detdemthis cmcm cooh cmcm coordand
+	prosubthey postall vfallPAST 
+	COM LP DET LP ENUM LP LINK
+	SUBJ PQ COORD PUNCT
+	let's do this 
+	come on 
+	knock it down 
+	come on 
+	nice goodjob 
+	here do this 
+	knock it down 
+	oh very good 
+	do you wanna build this here 
+	or you gonna build this 
+	let's build something else huh 
+	you wanna knock the tower xxx 
+	can I try this too 
+	xxx I'll do one like this no 
+	cono 
+	PUNCT
+	www 
+	seems unsure of how to play with child and speaks to exp
+	briefly  video ends at  total time of freeplay is 

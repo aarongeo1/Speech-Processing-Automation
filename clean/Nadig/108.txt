@@ -1,0 +1,257 @@
+	will we have these 
+	could this be his hair 
+	no we xxx make it a girl 
+	we can't make him a girl or we are gonna make him a girl 
+	coordor prosubwe auxbePRES partgoPRESPinfto vmake
+	proobjhim detarta ngirl 
+	SUBJ AUX CMOD INF COMP OBJ DET
+	OBJ PUNCT
+	xxx a boy 
+	okay so he's a boy 
+	what were we making the girl 
+	ngirl 
+	you wanna make him a girl 
+	yeah 
+	okay 
+	whoops 
+	there you go 
+	a girl 
+	and what's this here 
+	a phone 
+	what's the picture on the phone 
+	detartthe nphone 
+	PUNCT
+	sa horse 
+	horse 
+	let's make a big tower 
+	ah 
+	you're putting it in the teacup again how come you're putting it
+	in the teacup 
+	detartthe nnteancup advtemagain cmcm prorelhow vcome
+	properyouauxbePRES partput-PRESP properit prepin
+	detartthe nnteancup 
+	LP JCT CJCT OBJ AUX COMP OBJ
+	JCT DET POBJ PUNCT
+	to make a big tower 
+	bu why don't you on the mat on the blanket to make it a flat
+	surface 
+	cmcm prepon detartthe nblanket cmcm infto vmake properit
+	detarta adjflat nsurface 
+	ENUM DET POBJ LP INF ROOT OBJ DET
+	MOD OBJ PUNCT
+	it will be the watertower 
+	hm 
+	wait oh wait there's something missing 
+	partmiss-PRESP 
+	oh 
+	oh  oh wait I   I sposta put these in these teacup 
+	prodemthese prepin detdemthese nnteancup 
+	JCT DET POBJ PUNCT
+	to make a tower 
+	okay so we'll go like this 
+	s we needta make the tower 
+	and then how about we put 
+	those three bo box top 
+	to make the watertower 
+	no 
+	how do you want it 
+	want it to be tall 
+	yes 
+	tall watertower 
+	whoops 
+	whoops why don't you put flushed 
+	vflush-PAST 
+	PUNCT
+	ah tower fell 
+	no the watertower 
+	watertower fall 
+	yeah that's like a real story like xxx 
+	preplike 
+	PUNCT
+	okay 
+	like in the airport 
+	you don't wanna play with the dolls 
+	detartthe ndoll-PL 
+	POBJ PUNCT
+	Ron 
+	you always do like this 
+	look I'm gonna brush the dollie's hair 
+	detartthe adjdolldn-DIM-POSS nhair 
+	OBJ PUNCT
+	I'll do xxx 
+	okay you'll play with the blocks 
+	nblock-PL 
+	scary 
+	there 
+	hey it looks like a zebra 
+	xxx look like a watertower 
+	xxx needs to make a train 
+	for the watertower 
+	okay 
+	oh wait 
+	oh wait 
+	wa wait maybe we can use these   these squares 
+	nsquare-PL 
+	PUNCT
+	put all the squares on it 
+	all th where's the other one 
+	proindefone 
+	PUNCT
+	oh I have the other 
+	you have the other one 
+	now let's make 
+	here like this 
+	xxx 
+	you don't wanna give me the blocks 
+	detartthe nblock-PL 
+	OBJ PUNCT
+	oh wait 
+	there it is 
+	the watertower 
+	can I have another block 
+	here yeah no xxx 
+	okay fine 
+	xxx fill it up with water 
+	here we can put 
+	wait  wait 
+	 water in his tank 
+	wait that's a great idea 
+	yeah fill it up gu gu gu gu 
+	xxx filled with water he was very happy 
+	adjhappy 
+	suddenly there was a xxx 
+	uhoh 
+	xxx 
+	a what 
+	a streak of silver xxx 
+	a streak of silver 
+	yeah 
+	okay let's get those dolls out of the way 
+	prepof detartthe nway 
+	DET POBJ PUNCT
+	those are for girls 
+	what xxx track 
+	okay 
+	that co this could be the truck 
+	and this could be the  the 
+	this could be 
+	what could this be 
+	xxx 
+	I wanna make a slot like this so I know that it xxx 
+	prodemthis conjso prosubI vknow compthat properit 
+	LINK SUBJ CJCT OBJ OBJ PUNCT
+	that's what I was telling you before 
+	parttell-PRESP properyou advbefore 
+	PUNCT
+	so we're finished with these cups can we put it away 
+	detdemthese ncup-PL modcan prosubwe vputZERO properit
+	advaway 
+	SUBJ ROOT OBJ JCT PUNCT
+	xxx put the teacup on the big watertower 
+	nwatertower 
+	there 
+	okay so 
+	let's make a xxx city so he can start xxx faster 
+	modcan vstart advfast-CP 
+	AUX CJCT JCT PUNCT
+	and those will be his ah what's it called 
+	prointwhatcopbeS properit vcall-PAST 
+	PRED SUBJ CPRED PUNCT
+	this part that he rolls 
+	oh 
+	xxx we can fill this 
+	that's the stuff that he hasta bring to the babies 
+	modhaveSinfto vbring prepto detartthe nbaby-PL 
+	CMOD JCT DET POBJ PUNCT
+	they need their milk 
+	uhoh 
+	ah the baby needs her milk 
+	so Steven needs to bring the milk to the baby 
+	prepto detartthe nbaby 
+	DET POBJ PUNCT
+	do do do uhoh I just got the milk spill 
+	ca how about the baby goes for a ride 
+	detarta nride 
+	POBJ PUNCT
+	on the little car 
+	ah xxx wish xxx to the top 
+	oops 
+	an 
+	and she xxx her milk 
+	wa ha ha ha ha hums 
+	okay the water's boiled now 
+	can we have some hotchocolate you wanna have some hotchocolate
+	with me 
+	vwantinfto vhave qnsome nhotchocolate prepwith proobjme 
+	INF COMP QUANT OBJ JCT POBJ PUNCT
+	and it will be the xxx 
+	let's call Daddy 
+	this phone doesn't work 
+	I'll be the dad 
+	okay 
+	you be the mom 
+	okay here's your cellphone Daddy 
+	npropDaddy 
+	okay you move 
+	what's here you can use yellow to be your 
+	nyellow infto copbe detpossyour 
+	INF COMP PRED PUNCT
+	my yellow cellphone 
+	yep 
+	where are you going 
+	you hafta stay on the blue carpet 
+	ncarpet 
+	PUNCT
+	going to work 
+	okay so you disappear like Daddy 
+	yes 
+	laughs 
+	xxx 
+	ring  ring  ring hello 
+	yeah it's me Daddy 
+	hi where are you 
+	I live here 
+	you're not here 
+	where are you 
+	I go xxx above the roof 
+	you're on the roof doing what 
+	prointwhat 
+	xxx I think xxx there's a problem 
+	you're fixing a problem 
+	well you gotta hurry you gotta bri bring some supplies to bring
+	here 
+	modgotinfto cmcm vbring qnsome nsupply-PL infto vbring
+	advhere 
+	INF LP ENUM QUANT OBJ INF COMP
+	JCT PUNCT
+	what are you making 
+	what are you fixing Ron 
+	the flashlights 
+	the flashing lights 
+	they're up here enough 
+	it's too rocky up here I think I a fall 
+	vthink cmcm prosubI vfall 
+	LP SUBJ CJCT PUNCT
+	xxx gotta hurry ee 
+	it's gonna be midnight 
+	now get here right now or else I get cross 
+	prosubI vget ncross 
+	CJCT OBJ PUNCT
+	laughs you get cro 
+	okay bye 
+	okay I hang up 
+	where is hang up 
+	beep	okay so can you come back now 
+	okay right   right no I can't 
+	NEG PUNCT
+	why 
+	I need some supplies 
+	so come get em 
+	no oh 
+	I can't get this out 
+	it's locked Ron 
+	come on bring some supplies over here supplies to my work 
+	vsupply-S prepto detpossmy nwork 
+	ENUM JCT DET POBJ PUNCT
+	you want me to go see you 
+	yeah 

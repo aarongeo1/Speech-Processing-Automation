@@ -1,0 +1,178 @@
+	beep	what's that 
+	what's that 
+	hey 
+	look   look at the car 
+	what color 
+	hm 
+	ah xxx 
+	yeah 
+	wow yeah 
+	sh 
+	what are you doing 
+	you wanna make a tower 
+	gasps ah wow good boy 
+	that's a tower laughs wow 
+	laughs y wanna do it again 
+	hey y wanna do it again 
+	make another tower 
+	come on 
+	start 
+	go 
+	yeah continue 
+	one 
+	two 
+	no 
+	no 
+	no 
+	what color is this 
+	one two three no 
+	okay no 
+	one two three 
+	one two three no 
+	that's a tall tower 
+	one two three four 
+	laughs count them all  count them all 
+	one two three four 
+	yeah 
+	one 
+	okay uhoh 
+	big mess 
+	big mess 
+	clean up 
+	big mess 
+	big mess 
+	put them all xxx put them all on top 
+	postall prepon ntop 
+	POBJ PUNCT
+	be careful 
+	yeah continue 
+	one two three 
+	now 
+	now 
+	continue 
+	five four 
+	oh no 
+	oh no 
+	there's one over there Bryan get it good boy 
+	npropBryan cmcm vget properit adjgood nboy 
+	MOD MOD OBJ PUNCT
+	okay yeah continue 
+	uhoh be careful 
+	oh 
+	be careful gasps wow 
+	ah 
+	wow gasps oh oh no  oh no where did it go 
+	PUNCT
+	where did it go sweetie 
+	what's this 
+	telephone 
+	a telephone good boy 
+	call Mommy 
+	say Mommy come home 
+	call Mommy 
+	hello 
+	what color is the telephone 
+	what color is the telephone 
+	okay bye 
+	okay bye 
+	say hello Mommy 
+	who's that on the telephone 
+	who's that 
+	hi 
+	say hello 
+	hi Bryan 
+	okay 
+	your turn 
+	hi 
+	xxx was broke xxx 
+	yeah 
+	telephone 
+	say hello Mommy 
+	hello Mommy 
+	okay 
+	wanna put it back in 
+	what do you wanna play with 
+	who's this 
+	baby 
+	baby 
+	give the baby a kiss 
+	wanna give the baby a kiss 
+	go wash baby 
+	wash baby 
+	da wash bay 
+	you ca ing milk baby 
+	baby 
+	yeah what's this 
+	milk 
+	what's this 
+	baby milk 
+	yeah 
+	give the baby some milk 
+	no you   you do it 
+	like this 
+	see 
+	sips okay 
+	baby's do dodo	is baby doing dodo	whistles 
+	okay yeah good boy 
+	wow  wow 
+	who's this 
+	da  the wash baby 
+	yeah baby  baby  baby 
+	baby 
+	put the baby d 
+	xxx be nice laughs 
+	ah wow 
+	give the baby a kiss  give the baby a kiss 
+	dodo	baby's doing dodo	is baby doing dodo	what's this 
+	what's that 
+	baby drinking milkie 
+	milkie 
+	what's that 
+	a brush 
+	wanna comb baby's hair 
+	thankyou 
+	what's this 
+	what's that 
+	hm 
+	you wanna drink some you wanna drink some milk 
+	vwantinfto vdrink qnsome nmilk 
+	INF COMP QUANT OBJ PUNCT
+	wanna do your tower again 
+	okay do your tower 
+	continue 
+	two 
+	xxx more 
+	more 
+	uhoh fix it 
+	wow  wow 
+	engine 
+	wow how many are there 
+	nai does it fit 
+	oh choo 
+	yeah  yeah 
+	coughs coughs 
+	does it fit all does it fit 
+	vfitZERO 
+	PUNCT
+	you can't put them all in there 
+	prepin nthere 
+	PUNCT
+	wow yeah big truck  truck 
+	it all comes out yeah 
+	engine bouge	a monster truck 
+	you think 
+	is that what that is 
+	yeah 
+	what's this 
+	Bryan what's this 
+	okay now we're gonna do clean up 
+	partgoPRESPinfto moddo vclean advup 
+	COMP JCT PUNCT
+	clean up 
+	good boy 
+	good boy everything 
+	mhm continue 
+	continue 
+	yeah good boy 
+	thankyou 
+	close close it  close it 

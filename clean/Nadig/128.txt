@@ -1,0 +1,334 @@
+	it's Aneesh 
+	here 
+	hi Aneesh 
+	bu Aneesh can't hear you gasps 
+	you hafta talk to Aneesh 
+	hello 
+	hello 
+	how are you 
+	how are you 
+	it's Aneesh 
+	here's Aneesh 
+	hello 
+	hello laughs 
+	bye 
+	oh 
+	sings 
+	Fred you wanna have tea 
+	to have the teaparty 
+	you gotta have tea 
+	sings 
+	goodbye 
+	I want 
+	what do you want 
+	I want 
+	tea	here's your cup 
+	to	you	to	you	to	you	PUNCT
+	you	tea	tea	 Dorothy 
+	Dorothy 
+	tea	drink your tea sips 
+	drinking 
+	here drink 
+	drink tea 
+	don't put it in your mouth though just sips 
+	advthough advjust 
+	JCT PUNCT
+	oh maybe baby wants to drink tea 
+	xxx 
+	Mommy stop singing 
+	Mommy stop singing 
+	okay Mommy stop singing 
+	maybe baby wants to drink tea 
+	no 
+	does baby want tea 
+	tea 
+	sips 
+	oh maybe baby wants to eat 
+	does baby wanna eat 
+	baby 
+	xxx Mommy sm 
+	Mommy stop singing 
+	okay I'm gonna stop singing but we hafta stay here 
+	partsing-PRESP conjbut prosubwe modhaveinfto vstay advhere
+	SUBJ AUX INF CJCT JCT PUNCT
+	yells 
+	yeah come Fred help Mommy 
+	vocalizes 
+	oh I'm gonna get you 
+	where's the teaspoon 
+	teaspoon  teaspoon comes here 
+	grunts growls oh don't eat 
+	don't eat the teaspoon 
+	yuck 
+	the teaspoon's yucky 
+	yeah it's yucky 
+	the teaspoon is yucky 
+	baby wants to go on the truck 
+	baby 
+	vroom	uhoh no wait for me  wait for me 
+	wait for me Fred come here 
+	this is the station 
+	uhoh  uhoh  uhoh ouch  ouch  ouch we hafta drive here 
+	look the road comes here 
+	we hafta come stop at the house 
+	nhouse 
+	PUNCT
+	here's the gate 
+	we drive here 
+	there's the road 
+	we drive only here Fred 
+	no  no  no don't eat 
+	there's nothing there 
+	don't put it in your mouth it's dirty 
+	properitcopbeS adjdirtdn-Y 
+	CJCT PRED PUNCT
+	it's not your teaspoon 
+	oops gasps 
+	xxx 
+	we broke the cup laughs 
+	oh dear 
+	okay nevermind laughs 
+	here laughs 
+	there's your tea 
+	tea 
+	help me 
+	Mommy's building a tower 
+	xxx 
+	hm 
+	xxx 
+	uhoh 
+	xxx t touch your foot  touch your foot 
+	foot 
+	touch your foot 
+	tutyfoot 
+	touch y 
+	what's that 
+	touch your ips 
+	oh touch your hips 
+	who should touch their hips 
+	look 
+	doll touch her hips 
+	touch your hips 
+	touch your 
+	tell the doll 
+	touch your 
+	mouth 
+	touch your 
+	 mouth 
+	touch your 
+	 cheek 
+	but you're not looking 
+	what else should Mommy touch 
+	touch your eyes 
+	touch your eyes 
+	touch your neck 
+	you touch 
+	touch neck 
+	touch your feet 
+	touch feet 
+	touch your feet 
+	xxx 
+	feet 
+	touch your head 
+	touch your 
+	 shoulder 
+	shoulders okay 
+	touch your 
+	 feet 
+	feet are you touching feet 
+	touch your touch dolly 
+	touch dolly's stomach 
+	to ge ma 
+	dolly's stomach 
+	sings 
+	touch your xxx 
+	shoulders 
+	what about thumb 
+	touch dolly's thumb 
+	neef 
+	knees yes that's knees 
+	but touch dolly's thumb 
+	knee 
+	eyes 
+	eyes 
+	eye 
+	eyes 
+	eyes 
+	eyes yeah 
+	ears 
+	ears 
+	mouth 
+	yeah mouth 
+	nose 
+	nose 
+	cheeks 
+	cheeks like here 
+	cheeks 
+	thumb 
+	thumb yeah thumb 
+	-um 
+	arm 
+	arm 
+	okay arm 
+	teeth 
+	teeth 
+	dolly doesn't have teeth though 
+	are there teeth there 
+	gasps are there teeth 
+	no 
+	tongue 
+	tongue 
+	does dolly have a tongue 
+	look 
+	dolly wants to drink milk with the bottle 
+	detartthe nbottle 
+	POBJ PUNCT
+	doesn't have a tongue 
+	I don't know if that fits there 
+	advthere 
+	PUNCT
+	oh 
+	it's stuck 
+	it stuck 
+	that's for drinking milk 
+	head 
+	head 
+	shoulders 
+	shoulders 
+	touch her head 
+	who 
+	touch who's head 
+	touch your head or m touch Fred's head or Mommy's head 
+	adjFreddn-POSS nhead coordor adjMommydn-POSS nhead 
+	CONJ MOD COORD PUNCT
+	head 
+	dolly's t head 
+	okay 
+	touch her shoulders 
+	touch your foot 
+	foot 
+	there's Fred's foot 
+	xxx 
+	hair 
+	dolly's tired 
+	dolly wants to sleep 
+	dolly's tired 
+	pants on  pants on dolly 
+	time to sleep 
+	xxx 
+	goodnight 
+	dolly's tired 
+	goodnight dolly 
+	no  no xxx 
+	but dolly's tired 
+	dolly wants to sleep 
+	uhoh 
+	where you going 
+	where you guys going 
+	time to sleep 
+	time to got to bed 
+	goodnight dolly 
+	it's time to go to bed 
+	oh no  no you're waking dolly up dolly's sleeping 
+	advup adjdolldn-DIM-POSS partsleep-PRESP 
+	XMOD PUNCT
+	goodnight dolly 
+	time to go to bed 
+	it's time for e no don't eat that 
+	veat prodemthat 
+	CMOD OBJ PUNCT
+	time for Fred to make a train 
+	PUNCT
+	choochoo train 
+	xxx 
+	xxx 
+	oh  oh no  no  no don't touch  don't touch 
+	no touching 
+	don't touch 
+	come  come  come 
+	don't touch that one 
+	hums 
+	oh no we don't touch 
+	we don't touch that one 
+	gasps oh 
+	look Fred choo	chuga	choo	choo	hums 
+	interested in the train 
+	stop 
+	where do we go 
+	what's the train gonna say 
+	cosay 
+	PUNCT
+	hums 
+	hums 
+	there's our train 
+	laughs aka 
+	hm 
+	aka 
+	sings 
+	there's a train 
+	where's the train going 
+	ani 
+	xxx 
+	hm 
+	xxx 
+	you do what 
+	hums 
+	there 
+	whachou xxx 
+	hums 
+	wachou xxx 
+	what 
+	there's a train 
+	hums 
+	tipe 
+	superb the train's going choo	ah 
+	what happened 
+	k 
+	what happened 
+	what happened 
+	xxx 
+	with nonsense words 
+	okay Fred 
+	now	tidy	tidy	come 
+	tidy up 
+	Fred 
+	time to tidy up 
+	clean up 
+	clean up  clean up 
+	clean up 
+	come 
+	xxx 
+	it's time to clean up 
+	clean up 
+	clean up 
+	clean up 
+	clean up 
+	clean up Fred clean up  clean up 
+	xxx 
+	clean up 
+	xxx 
+	clean up 
+	now	tidy	tidy	ah 
+	now	sheba 
+	tidy	put 
+	che che 
+	Fred 
+	we're tidying up it's time to clean up 
+	ntime infto vclean advup 
+	XMOD JCT PUNCT
+	it's not time to play drum 
+	okay 
+	xxx 
+	behind you 
+	can you bring the lid 
+	close 
+	okay 
+	can you   can you give it to Healy 
+	pick it up 
+	go give Healy 
+	go give Healy 
+	can you  can you carry it 
+	here 
+	go 
+	give Healy 
+	and don't play with that 

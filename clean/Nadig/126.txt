@@ -1,0 +1,367 @@
+	okay wow look at that 
+	what's that 
+	grunts 
+	xxx 
+	what is that 
+	what is it 
+	bay -uh 
+	what is that 
+	kra kuh 
+	mhm truck yeah 
+	xxx 
+	everything 
+	okay 
+	okay take everything out if you want 
+	vwant 
+	PUNCT
+	what was that 
+	buh 
+	ahhah it's a baby no 
+	baby 
+	ah bear  bear okay there was a bear 
+	you are right 
+	baby 
+	and there's a baby okay 
+	what is that 
+	what do you do with it 
+	huh kli 
+	oh there's a horse on it 
+	properit 
+	hello Bob 
+	hi Daddy 
+	ah okay 
+	sighs 
+	okay come 
+	come here 
+	come play with those one 
+	hm what are we making 
+	ah  ah  ah you want play with those ones 
+	proindefone-PL 
+	with those block 
+	what are we making 
+	Bob 
+	oh okay I think this is to brai is -uh to brush hair 
+	cmcm auxbeS infto vbrush nhair 
+	SUBJ AUX INF CPRED OBJ PUNCT
+	mhm she's cute 
+	cute 
+	ahhah you want feed 
+	feed her 
+	oh okay 
+	sips ah is it yummy 
+	yeah 
+	yummy 
+	you want eat more food 
+	baby 
+	ah foo 
+	xxx more food 
+	eats mm yummy 
+	you want xxx too 
+	xxx too 
+	baby 
+	mhm is this for you or for me sips 
+	prepfor proobjme 
+	PUNCT
+	here 
+	give me tea 
+	I would like some tea 
+	sheoup 
+	sips ah 
+	sheoup 
+	yummy 
+	sips 
+	laughs you want drink this one 
+	ah 
+	hey me too  me too 
+	I would like drink 
+	ah gulp gulp gulp ah yummy 
+	engine 
+	can I fit her too 
+	xxx Bob 
+	eats 
+	is it yummy 
+	yummy 
+	yummy okay 
+	okay you want play with those one 
+	proindefone 
+	xxx 
+	two no 
+	xxx play with baby 
+	baby 
+	mhm okay 
+	hey yeah that's my truck 
+	duh deh 
+	no des you 
+	okay  okay no thankyou 
+	chu chu chu chu chu chu okay 
+	oo 
+	mm what's that 
+	oh   oh yeah he was about to cry because he didn't have his
+	bottle 
+	prepto ncry conjbecause prosubhe moddoPASTnegnot vhave
+	detposshis cmcm nbottle 
+	POBJ LINK SUBJ AUX NEG CJCT DET
+	LP OBJ PUNCT
+	you want put some blocks 
+	buh 
+	ah yeah no more 
+	hm more 
+	more 
+	okay whoops well laughs more 
+	more 
+	woah 
+	gasps 
+	gasps 
+	hm oh sorry 
+	maybe look maybe if we do like this 
+	detdemthis 
+	OBJ PUNCT
+	oh no it don't fit in 
+	which one 
+	try which one's better 
+	oo laughs try this one 
+	it's gonna fall 
+	no goodjob it doesn't fall 
+	yeah xxx 
+	xxx truck roll 
+	hmph alright fall down 
+	you know what we can do 
+	you wanna make a bridge 
+	we can try to make a bridge hold on 
+	advon 
+	JCT PUNCT
+	or a truck 
+	how we make a bridge 
+	like this 
+	that's difficult 
+	xxx one mhm 
+	xxx for the truck 
+	look 
+	uhoh 
+	laughs look we can go in between like that engine 
+	prodemthat 
+	PUNCT
+	so it xxx 
+	laughs 
+	laughs it's difficult 
+	sighs 
+	engine 
+	engine 
+	oh 
+	engine 
+	engine yeah you did xxx 
+	you wanna make a pyramid 
+	okay thankyou 
+	is this for you 
+	thankyou let's build this one 
+	proindefone 
+	and this one xxx 
+	hea Daddy 
+	oh no xxx Bob 
+	okay you don't want 
+	look 
+	what should I put should I xxx this one 
+	prosubI detdemthis proindefone 
+	ENUM PUNCT
+	no 
+	no 
+	nai nai 
+	this one here 
+	okay 
+	woo dan 
+	no Daddy 
+	okay   okay what I make 
+	okay we can do first like this 
+	prodemthis 
+	PUNCT
+	no 
+	no 
+	okay like this 
+	ya ya 
+	okay 
+	no 
+	oh okay  okay  okay  don't 
+	okay good 
+	no 
+	no 
+	okay like this 
+	yeah 
+	yeah okay 
+	what are we doing now 
+	with those one what are we doing nothing 
+	prosubwe partdo-PRESP cmcm proindefnothing 
+	LP INCROOT PUNCT
+	nothing 
+	nothing 
+	okay oh you want pu put blue one on it 
+	proindefone prepon properit 
+	NJCT POBJ PUNCT
+	dah du 
+	oh Papa done it 
+	gasps 
+	ah Bob stay hold on 
+	here I go 
+	like this 
+	do you like that 
+	xxx 
+	dai yes 
+	do you like this one 
+	Bob  Bob  Bob 
+	dah deh deh 
+	no thankyou huh 
+	hm what about this one 
+	no 
+	no 
+	gasps go get it 
+	no 
+	yeah you go get it 
+	no 
+	yes go get it 
+	I go 
+	no 
+	no 
+	come 
+	what do you want 
+	grunts 
+	aft after you will be able to play with the xxx 
+	prepwith detartthe 
+	JCT POBJ PUNCT
+	no 
+	okay   okay let's go back to the baby 
+	nbaby 
+	POBJ PUNCT
+	no 
+	no 
+	no Daddy 
+	nothing 
+	you don't want play 
+	okay what are you gonna do 
+	vdo 
+	I will build and you will break it 
+	properit 
+	PUNCT
+	no 
+	yes 
+	whines 
+	look 
+	okay I let you do it 
+	whines 
+	broken 
+	oh   oh this is cute 
+	whines 
+	no 
+	no 
+	no like this 
+	no screams 
+	what do you wanna do 
+	no 
+	I let you do whatever you want 
+	properyou vwant 
+	no whimpers 
+	no whimpers 
+	what's going on 
+	nai ai 
+	nothing 
+	you're tired 
+	no 
+	you want eat 
+	dai dai 
+	oh we're gonna tired 
+	hm hello Bob 
+	hello Bob where are you 
+	whimpers 
+	come here 
+	come Bob 
+	after  after xxx 
+	no yayee 
+	here okay 
+	oh after 
+	alright clean up 
+	byebye 
+	clean up  up  up hold on 
+	oh no clean up 
+	no 
+	oh yes 
+	clean up  clean up everybody everywhere 
+	baby 
+	clean up 
+	clean up first 
+	baby 
+	okay clean up after we go to peepee 
+	PUNCT
+	clean up 
+	no 
+	oh yes 
+	Bob clean up 
+	take it in your hand 
+	no 
+	yes clean up 
+	no yayee 
+	Bob clean up 
+	clean up  clean up everybody everywhere 
+	clean up 
+	Mommy 
+	nope clean up 
+	everybody do 
+	whines 
+	yes Bob 
+	oh xxx 
+	no 
+	oh yes take it in your hand 
+	PUNCT
+	you wanted to see wh window 
+	yeah 
+	okay so clean up first 
+	no 
+	okay clean up xxx it's okay 
+	clean up  clean up everybody 
+	no  no 
+	yes clean up 
+	clean up  clean up  clean up  clean up 
+	no whimpers 
+	clean up  clean up 
+	no 
+	www 
+	if i asked him to clean up he should clean up so
+	okay Bob 
+	no 
+	yes  yes  yes Bob 
+	yes  yes  yes 
+	clean up  clean up 
+	you want I let you do it 
+	properit 
+	clean up 
+	you clean up 
+	ah clean up 
+	yes okay 
+	ah 
+	clean up  clean up you wanna do it this hand 
+	cmcm detdemthis nhand 
+	LP DET ENUM PUNCT
+	oh okay thankyou  thankyou 
+	ah ah  ah ah  ah ah 
+	oh you miss 
+	okay you miss 
+	oh that's not clean up time okay 
+	adjokay 
+	ENUM PUNCT
+	whines 
+	you have few more to go 
+	no Daddy 
+	okay clean up 
+	yeah clean up 
+	almost Bob 
+	whines 
+	clean up  clean up 
+	Bob it's almost finished 
+	it's almost finished 
+	okay du ch 
+	xxx clean up 
+	duk 
+	no 
+	duk woah 
+	alright look 
+	save some time 
+	okay clean up  clean up everybody everywhere 
+	whines no 
+	clean up 

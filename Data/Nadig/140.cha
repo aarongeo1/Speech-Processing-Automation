@@ -1,0 +1,181 @@
+@UTF8
+@PID:	11312/a-00005260-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Child, MOT Mother
+@ID:	eng|Nadig|CHI|4;10.28|male|ASD||Child||140|
+@ID:	eng|Nadig|MOT||female|||Mother|undergraduate||
+@L1 of CHI:	eng
+@L1 of MOT:	eng
+@Bg
+@Types:	cross, toyplay, ASD
+*MOT:	who's on the phone ?
+%mor:	pro:int|who~cop|be&3S prep|on det:art|the n|phone ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*MOT:	can you say hello ?
+%mor:	mod|can pro:per|you v|say n|hello ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	say hello .
+%mor:	v|say n|hello .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	who is it ?
+%mor:	pro:int|who cop|be&3S pro:per|it ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can you make tea Severus ?
+%mor:	mod|can pro:per|you v|make n|tea n:prop|Severus ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*MOT:	can you pour me some tea ?
+%mor:	mod|can pro:per|you v|pour pro:obj|me qn|some n|tea ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|6|QUANT 6|3|OBJ 7|3|PUNCT
+*MOT:	Severus, pour me tea .
+%mor:	n:prop|Severus cm|cm v|pour pro:obj|me n|tea .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|PUNCT
+*MOT:	&~sh pour me some tea .
+%mor:	v|pour pro:obj|me qn|some n|tea .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|QUANT 4|1|OBJ 5|1|PUNCT
+*MOT:	&~psh hey &=laughs, you knocked over my tea !
+%mor:	co|hey cm|cm pro:per|you v|knock-PAST prep|over det:poss|my n|tea !
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*MOT:	come on .
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	I want tea .
+%mor:	pro:sub|I v|want n|tea .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	look, I'm gonna make myself some more tea &~psh .
+%mor:	v|look cm|cm pro:sub|I~aux|be&1S part|go&PRESP~inf|to v|make
+	pro:refl|myself qn|some qn|more n|tea .
+%gra:	1|0|ROOT 2|1|LP 3|5|SUBJ 4|5|AUX 5|1|XJCT 6|7|INF 7|5|COMP 8|7|OBJ2
+	9|11|QUANT 10|11|QUANT 11|7|OBJ 12|1|PUNCT
+*CHI:	&~mm .
+*MOT:	yeah he wants it .
+%mor:	co|yeah pro:sub|he v|want-3S pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	do you wanna feed the doll ?
+%mor:	mod|do pro:per|you v|want~inf|to v|feed det:art|the n|doll ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	do you wanna feed the doll ?
+%mor:	mod|do pro:per|you v|want~inf|to v|feed det:art|the n|doll ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	some [/] some milk ?
+%mor:	qn|some n|milk ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	&=eats, do you wanna feed the baby ?
+%mor:	cm|cm mod|do pro:per|you v|want~inf|to v|feed det:art|the n|baby ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*MOT:	www .
+%com:	mother is speaking to exp .  first video ended at 2:09.
+*MOT:	come knock my blocks down .
+%mor:	v|come v|knock det:poss|my n|block-PL adv|down .
+%gra:	1|0|ROOT 2|1|COMP 3|4|DET 4|2|OBJ 5|2|JCT 6|1|PUNCT
+*MOT:	come .
+%mor:	v|come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=coughs .
+*MOT:	wanna do that ?
+%mor:	v|want~inf|to v|do pro:dem|that ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*MOT:	knock my blocks down .
+%mor:	v|knock det:poss|my n|block-PL adv|down .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|PUNCT
+*MOT:	come [/] come .
+%mor:	v|come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	knock my blocks down .
+%mor:	v|knock det:poss|my n|block-PL adv|down .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|PUNCT
+*MOT:	yeah thank_you !
+%mor:	co|yeah co|thank_you !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	you wanna do like this ?
+%mor:	pro:per|you v|want~inf|to mod|do v|like det:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|INF 4|5|AUX 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*MOT:	knock these blocks down .
+%mor:	v|knock det:dem|these n|block-PL adv|down .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|PUNCT
+*MOT:	come on .
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	knock (th)em down .
+%mor:	v|knock pro:obj|them adv|down .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	thank_you !
+%mor:	co|thank_you !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can I have these ones then ?
+%mor:	mod|can pro:sub|I v|have det:dem|these n|one-PL adv:tem|then ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|JCT 7|3|PUNCT
+*MOT:	can I take these ?
+%mor:	mod|can pro:sub|I v|take det:dem|these ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	I'm gonna take these, okay ?
+%mor:	pro:sub|I~aux|be&1S part|go&PRESP~inf|to v|take det:dem|these cm|cm
+	adj|okay ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|6|LP 8|5|JCT
+	9|3|PUNCT
+*MOT:	I'm gonna do this, and like this [/] , this, oh &~psh, and they all
+	&~ju fell &~woo .
+%mor:	pro:sub|I~aux|be&1S part|go&PRESP~inf|to v|do pro:dem|this cm|cm
+	coord|and co|like cm|cm det:dem|this cm|cm co|oh cm|cm coord|and
+	pro:sub|they post|all v|fall&PAST .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|LP 8|3|CONJ
+	9|18|COM 10|9|LP 11|18|DET 12|11|LP 13|11|ENUM 14|13|LP 15|18|LINK
+	16|18|SUBJ 17|16|PQ 18|8|COORD 19|3|PUNCT
+*MOT:	let's do this .
+%mor:	v|let~pro:obj|us v|do pro:dem|this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*MOT:	come on .
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	knock it down .
+%mor:	v|knock pro:per|it adv|down .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	come on !
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	0 .
+*MOT:	nice good_job .
+%mor:	adj|nice co|good_job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	here do this .
+%mor:	adv|here v|do pro:dem|this .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	knock it down .
+%mor:	v|knock pro:per|it adv|down .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	oh very good !
+%mor:	co|oh adv|very adj|good !
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*MOT:	do you wanna build this here ?
+%mor:	mod|do pro:per|you v|want~inf|to v|build det:dem|this n|here ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	or you gonna build this ?
+%mor:	coord|or pro:per|you part|go&PRESP~inf|to v|build det:dem|this ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*MOT:	let's build something else huh ?
+%mor:	v|let~pro:obj|us v|build pro:indef|something post|else co|huh ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|4|PQ 6|3|COM 7|1|PUNCT
+*MOT:	you wanna knock the tower xxx ?
+%mor:	pro:per|you v|want~inf|to v|knock det:art|the n|tower ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*MOT:	can I, try this too ?
+%mor:	mod|can pro:sub|I cm|cm v|try det:dem|this post|too ?
+%gra:	1|4|AUX 2|4|SUBJ 3|2|LP 4|0|ROOT 5|6|DET 6|4|JCT 7|4|PUNCT
+*MOT:	xxx I'll do one like this, no ?
+%mor:	pro:sub|I~mod|will v|do det:num|one prep|like pro:dem|this cm|cm
+	co|no ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|LP 8|3|COM
+	9|3|PUNCT
+*MOT:	www .
+%com:	exp complimenting mother playing with child . mother
+	seems unsure of how to play with child and speaks to exp
+	briefly . video ends at 2:39. total time of freeplay is 4:48.
+@Eg
+@End

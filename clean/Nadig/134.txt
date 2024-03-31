@@ -1,0 +1,430 @@
+	Ginny 
+	Look at the baby 
+	let's feed the baby Ginny 
+	can you feed the baby 
+	can we feed the baby 
+	let's feed the baby 
+	open your mouth baby 
+	aoum 
+	aoum 
+	open your mouth baby 
+	mm 
+	do you wanna feed the baby Ginny 
+	npropGinny 
+	PUNCT
+	oh you're feeding your baby 
+	whines 
+	you feed your baby Ginny 
+	whines 
+	feed your baby Ginny 
+	ee 
+	here feed your baby look 
+	I feed this b you feed that baby 
+	nbaby 
+	PUNCT
+	ee ee 
+	say open up 
+	ee an eats 
+	say open up 
+	say eat 
+	arn eats 
+	say eat the food 
+	eat up 
+	eat up 
+	it's delicious you want some to eat too 
+	infto veat advtoo 
+	COMP JCT PUNCT
+	n 
+	no it's for the baby 
+	eat baby 
+	eat baby 
+	that's a good baby 
+	xxx 
+	you gotta burp the baby now 
+	xxx 
+	look Ginny  look Ginny 
+	look we can burp the baby now 
+	you gonna burp the baby 
+	you wanna burp the baby 
+	xxx 
+	you wanna burp the baby 
+	I'm burping the  the baby 
+	mm 
+	you wanna burp the baby 
+	no 
+	okay 
+	yeah burp the baby like this 
+	burp the baby 
+	yeah 
+	ee a  ee a ee ee ee ee a 
+	yes a baby burp baby 
+	belches the baby burped 
+	she burped 
+	xxx 
+	oh that's a give me some tea please Ginny pour some tea in here
+	for me 
+	qnsome ntea vplease npropGinny vpour qnsome ntea prepin
+	nhere prepfor proobjme 
+	SUBJ COMP SUBJ COMP QUANT OBJ JCT
+	POBJ JCT POBJ PUNCT
+	a t o 
+	pour some tea no Ginny you gotta pour the tea inside 
+	modgotinfto vpour detartthe ntea advprepinnside 
+	INF CMOD DET OBJ JCT PUNCT
+	give me some tea 
+	thankyou 
+	drink this tea 
+	drink 
+	da da glnk glnk glnk glnk glnk glnk 
+	drink glnk glnk glnk glnk glnk glnk glnk glnk 
+	ah 
+	ah 
+	a a a a a a ah 
+	drink more tea 
+	m 
+	glnk glnk glnk glnk glnk glnk glnk ah 
+	xxx 
+	she's finished 
+	how about the car 
+	can the baby go in the ca 
+	no 
+	no 
+	no 
+	you don't want baby to go in the car 
+	detartthe ncar 
+	DET POBJ PUNCT
+	what do you want baby to d 
+	gasps the baby can drink the milk sips 
+	gasps oh your baby wants to drink it 
+	no 
+	yeah let your baby drink the milk 
+	xxx 
+	ah look at the baby drink the milk 
+	PUNCT
+	glnk glnk glnk glnk 
+	oh that's good 
+	sighs 
+	hi baby 
+	you're drinking the milk 
+	whines 
+	hi Ginny 
+	we're playing together 
+	you 
+	hi baby 
+	I'm xxx 
+	hi give me a big hug baby 
+	kah 
+	aw hug 
+	you wanna play with me 
+	r play 
+	let's run  let's run 
+	Mom 
+	let's run  let's run  let's run 
+	wah 
+	gasps let's go in the car 
+	xxx 
+	put baby in the car Ginny 
+	grunts 
+	put baby in the car 
+	moans 
+	yeah 
+	put baby in the car Ginny 
+	sighs 
+	yeah 
+	put baby in the car 
+	you see baby 
+	put baby in the car Ginny 
+	put baby in the car 
+	put her in the car 
+	you wanna put the baby in the car 
+	detartthe ncar 
+	POBJ PUNCT
+	look this baby's gonna go in the car 
+	prepin detartthe ncar 
+	DET POBJ PUNCT
+	see 
+	no o 
+	no oh 
+	okay maybe we'll watch you 
+	you can xxx 
+	oh here's a phone anyway 
+	hello 
+	hi 
+	talk to Ginny 
+	here Ginny wants say hi to you 
+	vocalizes 
+	say hi 
+	say hi 
+	hi 
+	say how you doing 
+	say how you doing 
+	say hi 
+	say hi 
+	you say hi Ginny 
+	no 
+	no hi 
+	okay no hi 
+	we're gonna play with these now 
+	detdemthese advtemnow 
+	PUNCT
+	and I'm gonna stack them up 
+	proobjthem advup 
+	PUNCT
+	can you help me 
+	help me 
+	right 
+	du 
+	do this one now 
+	oh they fell down 
+	we try again 
+	see we make two o them 
+	and that way they'll stay 
+	see 
+	that's nice 
+	oh fall down 
+	let's try again 
+	we could do it this way Ginny 
+	npropGinny 
+	like this 
+	and then this 
+	and look and this 
+	glnk glnk glnk 
+	oo 
+	glnk glnk glnk 
+	she's a oh she's drinking 
+	partdrink-PRESP 
+	I want some milk too 
+	ut 
+	I want some milk Ginny give me milk 
+	vmilk 
+	PUNCT
+	give me milk 
+	I want milk 
+	oh 
+	yeah give me some more I want some more too 
+	qnsome advmore advtoo 
+	JCT JCT PUNCT
+	drink this up 
+	drink it  drink it  drink it  drink it glnk glnk
+	glnk glnk glnk glnk glnk glnk glnk glnk ah 
+	is is glnk glnk glnk glnk glnk glnk glnk glnk glnk glnk
+	glnk glnk glnk glnk glnk glnk ah 
+	we ka pi kapi 
+	delicious 
+	glnk glnk glnk glnk glnk glnk glnk glnk glnk glnk glnk
+	ah 
+	di 
+	sighs 
+	delicious eh 
+	it's nice 
+	ee di 
+	does the baby wanna dance 
+	does she wanna dance 
+	hums 
+	mm 
+	oh she's eating 
+	feed me too 
+	I want some food too 
+	feed me too 
+	feed me too 
+	can you feed me 
+	I want some 
+	I want some too give me some food 
+	qnsome nfood 
+	OBJ PUNCT
+	Ginny give me some food too 
+	I want some food 
+	I want some 
+	give me some f give her some food too 
+	advtoo 
+	JCT PUNCT
+	she wants to eat too 
+	eats 
+	www 
+	she eats with her spoon  she eats with her spoon she has her
+	spoon 
+	vhaveS detpossher nspoon 
+	OBJ PUNCT
+	two differences you're smart girl 
+	ngirl 
+	PUNCT
+	eats 
+	you can eat now look eats ah 
+	hums 
+	eats 
+	eats 
+	delicious eh eats 
+	eats 
+	that was good 
+	I'm thirsty can I drink from my bottle 
+	prepfrom detpossmy nbottle 
+	POBJ PUNCT
+	sips 
+	gi to me 
+	oh 
+	give me 
+	w oh the baby's gonna cry now 
+	advtemnow 
+	PUNCT
+	aw she's crying you dragged away the bottle why you do that Ginny 
+	advaway detartthe nbottle prorelwhy properyou vdo compthat
+	npropGinny 
+	OBJ LINK SUBJ CMOD OBJ APP PUNCT
+	kisses kisses 
+	you're sorry 
+	tell her you're s give her a kiss tell her you're sorry 
+	detarta nkiss vtell proobjher properyoucopbePRES
+	adjsorry 
+	SUBJ COMP OBJ SUBJ COMP PRED PUNCT
+	xxx 
+	you're sorry 
+	tell her you're sorry 
+	I sorry I s 
+	okay I give you kiss 
+	kisses 
+	kisses 
+	we're best friends again 
+	xxx again 
+	best friends again 
+	let's dance 
+	dance with me 
+	aou 
+	sings 
+	mi mi nis 
+	didi dance with me 
+	moans 
+	I want you to dance with me 
+	dance with me baby 
+	xxx 
+	oh you wanna drink 
+	a trik 
+	you wanna drink 
+	say drink 
+	you wanna drink 
+	ah drink it baby 
+	glnk glnk glnk glnk glnk ah 
+	glnk glnk glnk glnk glnk ah 
+	ah 
+	glnk glnk glnk glnk glnk glnk glnk glnk glnk ah 
+	put it back 
+	xxx 
+	what do we do now 
+	my baby wants a bottle 
+	sips oh 
+	your baby wants a bottle 
+	I see because that's a real baby 
+	adjreal nbaby 
+	PUNCT
+	xxx 
+	this is g this is a big girl that's a little baby 
+	ngirl prorelthatcopbeS detarta adjlittle nbaby 
+	CMOD DET MOD PRED PUNCT
+	you're right the baby gets the bottle she's you're too big for the
+	bottle 
+	detartthe nbottle prosubshecopbeS cmcm
+	properyoucopbePRES advtoo adjbig prepfor detartthe
+	nbottle 
+	SUBJ ROOT LP SUBJ PRED JCT PRED
+	JCT DET POBJ PUNCT
+	her sentence 
+	glnk glnk glnk glnk ah 
+	that's right 
+	the bottle is for the baby 
+	oh you're putting more juice inside of it 
+	advprepinnside prepof properit 
+	POBJ PUNCT
+	put more juice in there 
+	good y gonna drink this now 
+	glnk glnk glnk glnk glnk ah 
+	xxx 
+	and the put back 
+	vocalizes glnk glnk glnk ah 
+	ah you're drinking 
+	hi can you play with me 
+	can you play with me 
+	can you play with me 
+	hm 
+	hi  hi 
+	xxx hums 
+	hi can you play with me 
+	can you play with me 
+	oh 
+	it da sit down 
+	sit down 
+	yes sit down 
+	sit down 
+	sit down 
+	sit down 
+	now you have one 
+	and the baby has another one 
+	oh and now we're gonna feed the babies 
+	partgoPRESPinfto vfeed detartthe nbaby-PL 
+	DET OBJ PUNCT
+	here 
+	feed the baby 
+	feed the baby 
+	open  open your mouth 
+	open your mouth and eat 
+	open your mouth and eat 
+	good baby 
+	good girl 
+	did your baby eat too Ginny 
+	can I feed your baby 
+	eats 
+	can I feed your baby 
+	look 
+	no 
+	I can't feed your baby 
+	you can feed my baby 
+	feed my baby 
+	give my baby some food 
+	okay I'm gonna gi oh 
+	but I wa I'm gonna feed your baby 
+	vfeed detpossyour nbaby 
+	DET OBJ PUNCT
+	ah 
+	we're feeding her together 
+	but Ginny this baby's not eating anything 
+	parteat-PRESP proindefanything 
+	PUNCT
+	Ginny this baby hasta eat too 
+	this wait Ginny this baby's not eating anything Ginny 
+	nbabyauxbeS negnot parteat-PRESP proindefanything
+	npropGinny 
+	XJCT OBJ OBJ PUNCT
+	if I'm feeding this baby 
+	who's gonna feed this baby 
+	nbaby 
+	can you feed this baby 
+	Ginny feed this baby 
+	sneezes 
+	this baby's not eating 
+	me first 
+	xxx feed the baby 
+	I xxx 
+	feed the baby 
+	Ginny is gonna say bye to babies now 
+	nbaby-PL advtemnow 
+	JCT PUNCT
+	www 
+	it's time to clean up 
+	clean up  clean up 
+	no  no  no 
+	everybody everywhere 
+	clean up  clean up everybody do their share 
+	grunts 
+	Ginny 
+	put in the box 
+	put the box w Mommy 
+	clean up  clean up everybody everywhere 
+	clean up  clean up everybody do their share 
+	yay claps 
+	no 
+	no more xxx 
+	no you gotta cover it 
+	no xxx gotta cover it Ginny 
+	Ginny look the box hasta cover 
+	the box hasta cover up 
+	hums 
+	cover the box Ginny 
+	moans 

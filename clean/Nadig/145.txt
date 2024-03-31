@@ -1,0 +1,231 @@
+	what's that 
+	that's a car oh we can have a teaparty 
+	modcan vhave detarta nteaparty 
+	ENUM DET OBJ PUNCT
+	you wanna put it in the truck 
+	ntruck 
+	PUNCT
+	okay 
+	what else is in there 
+	that's a phone 
+	that's a phone 
+	what does it do when you push the buttons 
+	detartthe nbutton-PL 
+	OBJ PUNCT
+	huh 
+	push the buttons 
+	is it doing anything 
+	oh do you wanna talk to somebody 
+	proindefsomebody 
+	PUNCT
+	it's da 
+	oh that's for this 
+	you see it's a teacup 
+	I wanna put it in 
+	mhm 
+	are you gonna put the blocks in the teacup 
+	nblock-PL prepin detartthe nnteancup 
+	DET POBJ PUNCT
+	yeah 
+	oh I don't think it fits certain way in here 
+	adjcertain nway prepin nhere 
+	OBJ NJCT POBJ PUNCT
+	there's another cup in there 
+	oh 
+	this 
+	you gonna put some blocks 
+	you could build a tower too 
+	xxx 
+	mhm 
+	that's a phone 
+	what else is in there 
+	da 
+	oh a spoon 
+	yeah that's how you stir stuff in there 
+	nstuff prepin nthere 
+	POBJ PUNCT
+	oh look let me take the block there you can stir stuff like this 
+	advthere properyou modcan vstir nstuff cmcm preplike
+	prodemthis 
+	SUBJ AUX CJCT OBJ LP JCT POBJ
+	PUNCT
+	okay yeah 
+	what's that 
+	oh what is that 
+	that's a brush 
+	a brush 
+	yeah you can brush the doll's hair 
+	nhair 
+	you wanna brush her hair 
+	what 
+	here here's the doll 
+	that's nice you're doing a goodjob yeah 
+	partdo-PRESP detarta cogoodjob coyeah 
+	OBJ PUNCT
+	what's that 
+	that's a teapot 
+	yeah you know when Mommy drinks tea you pour it in the cup 
+	properyou vpour properit prepin detartthe ncup 
+	COMP OBJ JCT DET POBJ PUNCT
+	and that's why we have a spoon 
+	detarta nspoon 
+	PUNCT
+	oh you're putting some milk in there 
+	nthere 
+	PUNCT
+	okay you're gonna stir it up 
+	properit advup 
+	PUNCT
+	that's good 
+	ice 
+	I don't know it might fit 
+	what are we gonna do with the blocks 
+	prepwith detartthe nblock-PL 
+	POBJ PUNCT
+	in the cup 
+	you wanna take the cup 
+	okay 
+	xxx 
+	yeah you hafta brush her hair 
+	woah i da 
+	a tummy that's her tummy 
+	i da 
+	those are her pants 
+	i a 
+	yeah those are her clothes mhm 
+	comhmyes 
+	here 
+	okay ah 
+	i da 
+	that's another baby 
+	baby 
+	where's the hat 
+	what do you do with the hat 
+	that's right 
+	oh maybe she has a slippery head 
+	here okay 
+	i coffee tee 
+	yeah 
+	in coffee 
+	you wanna put the hat in the cup okay 
+	detartthe ncup adjokay 
+	POBJ POSTMOD PUNCT
+	oh you gonna have a teaparty 
+	nteaparty 
+	PUNCT
+	nok 
+	what are we gonna do with all the blocks 
+	prepwith qnall detartthe nblock-PL 
+	DET POBJ PUNCT
+	we got more here wow 
+	oh we're gonna take them all out 
+	proobjthem postall advout 
+	JCT PUNCT
+	what do you wanna do 
+	that's Nala 
+	that's Nala that's right 
+	that's xxx 
+	yeah you wanna build a tower 
+	wa t t 
+	mhm wanna build a tower 
+	yes 
+	look at all these blocks 
+	it's th 
+	okay 
+	wanna put the lid on the box 
+	nbox 
+	PUNCT
+	oh 
+	okay come back here 
+	we 
+	there you go you closed the box okay 
+	nbox adjokay 
+	PUNCT
+	yeah 
+	yeah what are all these things Jack 
+	npropJack 
+	oh it changes pictures look 
+	you got horsies 
+	what are we gonna do 
+	uhoh 
+	mhm what are you making 
+	make here 
+	you're making tea 
+	ts ts 
+	oh very nice 
+	ts ts ts 
+	tea 
+	tea 
+	ts 
+	ah 
+	you wanna build a tower 
+	xxx 
+	okay goes like this 
+	there you go 
+	ts I make tea 
+	okay you gonna make Mommy some tea 
+	qnsome ntea 
+	PUNCT
+	does Mommy get some tea 
+	ah pe 
+	you gonna put the hat in there 
+	prepin nthere 
+	PUNCT
+	I don't know do we want her hat in our tea 
+	detpossher nhat prepin detpossour ntea 
+	OBJ JCT DET POBJ PUNCT
+	yeah okay 
+	does Mommy get some tea 
+	di coffee tea bo 
+	oh 
+	xxx 
+	mhm 
+	wanna build a tower 
+	supper 
+	okay we're gonna have supper 
+	oh okay and what are we having for supper 
+	parthave-PRESP prepfor nsupper 
+	POBJ PUNCT
+	xxx 
+	mm 
+	does Mommy get tea too 
+	Daddy 
+	oh Daddy gets tea 
+	what about Mommy 
+	Daddy's 
+	that one's for Daddy okay 
+	xxx Daddy boon 
+	Daddy has a spoon 
+	Daddy spoon 
+	okay what are you gonna do with him 
+	vdo prepwith proobjhim 
+	POBJ PUNCT
+	Daddy 
+	where are you going 
+	dee da 
+	thee there 
+	okay 
+	da Mommy 
+	one for Mommy one for Daddy 
+	npropDaddy 
+	what's that 
+	he dat 
+	oh well give it to Mommy 
+	what is it 
+	bi 
+	I don't know 
+	da gar 
+	oh that's right that's garbage okay 
+	ngarbage adjokay 
+	POSTMOD PUNCT
+	Daddy's bu 
+	mhm does Mommy have a spoon too 
+	or is that Jack's spoon 
+	Mommy's 
+	xxx 
+	yeah 
+	xxx Daddy's here Mommy 
+	mhm 
+	you gonna put them back here 
+	advhere 
+	okay that's nice 

@@ -1,0 +1,329 @@
+	we need an xxx 
+	we need an airplane 
+	hm there's no airplane in here 
+	nhere 
+	PUNCT
+	I can make the airplane 
+	you're gonna make the airplane 
+	nnairnplane 
+	okay make the airplane 
+	okay ready 
+	flying 
+	wow 
+	oopsie	yells 
+	aw crash 
+	oh no what are we gonna do 
+	partgoPRESPinfto vdo 
+	PUNCT
+	we need call xxx 
+	we needta call 
+	oh your DisneyOnIce 
+	we don't ha 
+	no ToyStoryThree 
+	yes we're gonna go see ToyStoryThree 
+	npropToyStoryThree 
+	PUNCT
+	yes you're right 
+	on ice 
+	on ice yes you're right 
+	you're right 
+	we don't needta go to DisneyWorld though to do that 
+	npropDisneyWorld advthough infto vdo prodemthat 
+	JCT INF XJCT OBJ PUNCT
+	flying 
+	Oh is there a plane 
+	flying 
+	flying 
+	pt 
+	oh what happened now 
+	what happened 
+	Nevel 
+	gasps you hadta fix it again 
+	no 
+	oh no 
+	what happened 
+	can I help 
+	gasps what's going on 
+	it's broken 
+	so we needta fix it 
+	can I help 
+	no xxx 
+	you can do it 
+	okay do it 
+	I wanna ride on the airplane 
+	ya 
+	fix it  fix it 
+	now where do I go 
+	in the airplane 
+	okay I'm in the airplane 
+	no 
+	gasps why 
+	I don't want 
+	you don't want 
+	oh okay 
+	let her go in bed 
+	she got to go to bed well where's my bed 
+	prorelwherecopbeS detpossmy nbed 
+	LINK CMOD DET PRED PUNCT
+	there 
+	where 
+	there 
+	xxx 
+	can you help me 
+	thankyou 
+	I'm so sleepy 
+	aw okay 
+	moans 
+	but Nevel can can you  can you  can you give me a kiss 
+	detarta nkiss 
+	OBJ PUNCT
+	thankyou 
+	night  night 
+	good night 
+	she's sleepy now 
+	moans 
+	flying we're back on the airplane 
+	nnairnplane 
+	okay we're in Florida 
+	come let's take the truck and we'll go to DisneyWorld 
+	prosubwemodwill vgo prepto npropDisneyWorld 
+	AUX CJCT JCT POBJ PUNCT
+	oh no 
+	oh no 
+	what happened 
+	what happened 
+	it broke again 
+	it's okay though we'll take the truck 
+	vtake detartthe ntruck 
+	OBJ PUNCT
+	we'll take the truck 
+	I can fix the airplane 
+	you're gonna fix the airplane again 
+	nnairnplane advtemagain 
+	PUNCT
+	but we hafta go to DisneyWorld 
+	npropDisneyWorld 
+	oh okay 
+	yells 
+	so now we're 
+	I fixed the airplane 
+	you did you fixed it so now where are we flying 
+	advso advtemnow prointwhere copbePRES prosubwe
+	partfly-PRESP 
+	SUBJ CMOD SUBJ PRED PUNCT
+	to  to DisneyWorld 
+	and where's DisneyWorld 
+	show me 
+	the truck 
+	th DisneyWorld's in the truck 
+	okay let's go 
+	engine 
+	we made it to DisneyWorld 
+	we made it to DisneyWorld now what do we do 
+	advtemnow prointwhat moddo prosubwe vdo 
+	AUX SUBJ CJCT PUNCT
+	we hafta see ToyStoryThree 
+	ToyStoryThree 
+	Where is ToyStoryThree 
+	we don't have it 
+	ah 
+	ah now wha 
+	xxx 
+	we're gonna leave those toys after 
+	ntoy-PL advtemafter 
+	PUNCT
+	we'll leave those ones for after 
+	advtemafter 
+	come 
+	come  come 
+	we'll leave those ones for after let's play with these ones 
+	prepafter cmcm vletproobjus vplay prepwith detdemthese
+	proindefone-PL 
+	ENUM SUBJ COMP JCT DET POBJ PUNCT
+	let's play with these ones 
+	ee ee 
+	here oh I always wanted to go to DisneyWorld 
+	vgo prepto npropDisneyWorld 
+	JCT POBJ PUNCT
+	can you take me 
+	you gonna take care of the baby 
+	nbaby 
+	PUNCT
+	I'll take care of this one 
+	my baby keeps heav 
+	you're heavy 
+	oh no 
+	I'm thirsty 
+	gasps baby's thirsty 
+	she needs to drink 
+	this milk 
+	sips 
+	gasps baby hasta burp now 
+	sneezes 
+	aw did she barf 
+	or burp 
+	laughs 
+	sips 
+	da not in your mouth silly that's for the baby 
+	prodemthatcopbeS prepfor detartthe nbaby 
+	DET POBJ PUNCT
+	okay 
+	sips 
+	ah oh she hasta burp 
+	wa wava sneezes 
+	oh disgusting 
+	ohmygosh 
+	laughs woah he 
+	I'm thirsty too 
+	oh what do you say 
+	scuse me 
+	thankyou 
+	sips ah 
+	that was delicious 
+	laughs uhoh 
+	uhoh 
+	laughs 
+	she's gotta burp 
+	pft 
+	ugh disgusting 
+	what are we gonna do 
+	we hafta clean her now 
+	laughs 
+	ma you wanna make her drink more 
+	no  no o u u u 
+	okay now burp 
+	come on xxx 
+	burp	oh there 
+	I feel better now 
+	would you like to have a drink 
+	 sips 
+	awesome 
+	gasps here I'll pour you some more 
+	slurp	sips 
+	delicious 
+	can I have some 
+	oh you're squishing my finger 
+	nfinger 
+	thankyou 
+	thankyou 
+	what do we say 
+	cheers 
+	sips ah 
+	delicious  delicious deli Nevel would you like to have some
+	cake 
+	infto vhave qnsome ncake 
+	QUANT OBJ PUNCT
+	here's a piece of cake for you 
+	properyou 
+	PUNCT
+	and here's one for me 
+	proobjme 
+	here's a spoon 
+	eats 
+	eats mm chocolate 
+	oo 
+	what 
+	that's too hot 
+	it's too hot 
+	oh so what should we do 
+	need just right 
+	you need it to be just right 
+	is it just right now 
+	is it just right now 
+	don't put it in your mouth 
+	pretend 
+	no I don't 
+	m I would like some more drink 
+	I don't want it 
+	you don't want that 
+	you're all f are you full 
+	adjfull 
+	I want some milk 
+	oh here you go 
+	give me your glass 
+	behind you look 
+	tadah laughs 
+	oops 
+	oh no you spilt the milk laughs 
+	xxx 
+	what 
+	that's a banyu	it's a banyo	gasps is it milk 
+	sips 
+	ah delicious 
+	can I have some coffee 
+	ah o it's hot 
+	my coffee's hot 
+	blows 
+	blows 
+	sips ah delicious 
+	oops laughs 
+	what 
+	laughs 
+	what did you do 
+	what did you do 
+	I xxx barf 
+	you're gonna barf 
+	pft laughs 
+	oh disgusting 
+	laughs 
+	what  what 
+	that's disgust 
+	it disgusting 
+	it's coffee 
+	it's coffee 
+	can I have some more 
+	thankyou 
+	do we do cheers again 
+	ah blows sips ah 
+	delicious 
+	I gon barf 
+	you're gonna barf so stop drinking coffee 
+	partdrink-PRESP ncoffee 
+	JCT PUNCT
+	you're too young 
+	bea boua	ugh you barfed on me 
+	disgusting ugh 
+	laughs 
+	oh no 
+	I barfed 
+	you're gonna barf again 
+	no  no  no  no  no  no 
+	m m m 
+	laughs 
+	I'm gonna barf 
+	go barf somewhere else not on me 
+	boua	ugh disgusting 
+	www 
+	I did a barf 
+	laughs 
+	laughs 
+	that's disgusting 
+	let's do clean up now Nevel okay 
+	cookay 
+	PUNCT
+	da dis gus 
+	Nevel le let's do clean up now 
+	thankyou 
+	disgusting 
+	can you go and get the truck 
+	Nevel 
+	disgusting 
+	get the truck please 
+	disgusting 
+	put it away 
+	and get the water 
+	ah 
+	what else 
+	the plate 
+	it's a cake 
+	m oh yes and the cake oh th what about the little girl 
+	prepabout detartthe adjlittle ngirl 
+	JCT DET MOD POBJ PUNCT
+	she needs to go to bed 
+	and 
+	and what do we hafta put on top 
+	prepon ntop 
+	POBJ PUNCT
+	the cover 
+	oh snap 
+	give me five 

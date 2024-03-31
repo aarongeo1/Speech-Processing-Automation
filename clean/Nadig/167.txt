@@ -1,0 +1,251 @@
+	would you open it please 
+	I can 
+	and they dolls 
+	oh 
+	two 
+	mhm 
+	there's a girl and a baby 
+	nbaby 
+	mhm 
+	it's hat 
+	these are a xxx for big girl 
+	okay 
+	so babies can't have them 
+	no 
+	this is a big girl 
+	yeah 
+	that's a little boy 
+	that's a little boy 
+	yeah 
+	okay 
+	what is xxx 
+	xxx baby spoons 
+	do you want the spoons 
+	not yet for the babies 
+	not yet okay 
+	what are you making for the baby 
+	detartthe nbaby 
+	this is not a baby 
+	oh what are you making for the big girl 
+	detartthe adjbig ngirl 
+	POBJ PUNCT
+	I put some milk inside 
+	he has she has drink it 
+	properit 
+	mhm 
+	what is she drinking 
+	she drinking milk 
+	what kind of milk 
+	strawberry milk 
+	strawberry milk 
+	is it cow's milk or soy milk 
+	PUNCT
+	soy milk 
+	the other baby 
+	I think the big girl and the little boy is hungry 
+	adjlittle nboy copbeS adjhungry 
+	SUBJ CMOD PRED PUNCT
+	oh you think they're hungry 
+	should we feed them then 
+	yeah 
+	what should we feed them 
+	this is the baby's milk 
+	oh 
+	for sleep 
+	for sleeping 
+	yeah 
+	what kind of milk is the baby drinking 
+	partdrink-PRESP 
+	PUNCT
+	he's gonna drink something 
+	proindefsomething 
+	ka plates sighs 
+	who's gonna feed the baby 
+	nbaby 
+	xxx 
+	you're gonna feed the baby 
+	nbaby 
+	yeah I guess 
+	it's nap time xxx hafta eat very quick 
+	advquick 
+	JCT PUNCT
+	okay 
+	how are you gonna feed the baby 
+	detartthe nbaby 
+	PUNCT
+	xxx eat 
+	okay 
+	these are foods 
+	they are food 
+	what kind of food are they 
+	ah ba ah they have ice on it 
+	PUNCT
+	oh 
+	so hafta put it back 
+	okay 
+	because the other because it's because the other has ice
+	this one 
+	properitcopbeS cmcm conjbecause detartthe qnother
+	auxhaveS nice cmcm detdemthis proindefone 
+	LINK DET QUANT AUX ROOT LP DET
+	ENUM PUNCT
+	okay they have ice on them 
+	yep 
+	so they're frozen 
+	these ones are not frozen 
+	okay 
+	what is it 
+	it's yummy cake 
+	oh 
+	there's another piece left if the baby wants it 
+	detartthe cmcm nbaby vwant-S properit 
+	SUBJ COMP OBJ PUNCT
+	okay 
+	because he gots  has 	the big girl need some little more m of strawberry milk 
+	prepof nnstrawnberry nmilk 
+	MOD POBJ PUNCT
+	okay 
+	she likes it 
+	should we try and make her sit down 
+	advdown 
+	PUNCT
+	yeah 
+	does she sit 
+	if she'll sit 
+	lets put the blocks up next to her so she can sit up 
+	detpossher advso prosubshe modcan vsit advup 
+	JCT SUBJ AUX CPOBJ JCT PUNCT
+	she likes it 
+	mm 
+	what kind of cake is it 
+	it's strawberry cake 
+	oh strawberry cake with strawberry milk that sounds yummy 
+	prorelthat vsound-S adjyumdn-Y 
+	JCT PUNCT
+	she likes it 
+	mhm 
+	xxx 
+	you think the baby's gonna sit too 
+	partgoPRESPinfto vsit advtoo 
+	JCT PUNCT
+	yeah 
+	she wants some more 
+	oh they look like they're all set up 
+	postall partsetPASTP advup 
+	JCT PUNCT
+	are they missing anything 
+	yeah 
+	what are they missing 
+	they're missing some cars outside 
+	advprepoutnside 
+	this   this is a 
+	what is that 
+	 a phone 
+	oh a phone 
+	this a horse 
+	with a horse lets see 
+	oh it does have a horse on it 
+	properit 
+	PUNCT
+	and if you switch it then it will go to 
+	advtemthen cmcm properit modwill vgo prepto 
+	SUBJ AUX ROOT JCT PUNCT
+	are you calling somebody 
+	no 
+	oh 
+	xxx right here 
+	okay just in case somebody calls us 
+	proobjus 
+	yeah 
+	okay 
+	mm are they all done with their cake 
+	detposstheir ncake 
+	PUNCT
+	yeah 
+	mm should we get them something else 
+	postelse 
+	yeah 
+	what else what are these 
+	yeah 
+	what are they what do you think 
+	properyou vthink 
+	PUNCT
+	xxx 
+	xxx 
+	what kind of food could they be 
+	them are mango orange 
+	oh mang mango oranges 
+	yeah them are so juicy an yummy 
+	oh mango's so yummy 
+	sighs they will need their spoons 
+	they need their spoons 
+	yeah 
+	because it's so s tricky and so slippery 
+	advso adjslippery 
+	PUNCT
+	so there's the need two spoons to pick it up because it's so
+	oranges squishy and tricky 
+	nspoon-PL cmcm infto vpick properit advup conjbecause
+	properitcopbeS advso norange-PL adjsquishdv-Y coordand
+	adjtrickdv-Y 
+	INF XMOD OBJ JCT LINK SUBJ CJCT
+	JCT PRED POSTMOD CONJ COORD PUNCT
+	ah 
+	see I told you it's so tricky slippery 
+	adjtrickdv-Y cmcm adjslippery 
+	LP ENUM PUNCT
+	laughs 
+	she says it's yummy 
+	yeah 
+	do the babies have names 
+	no 
+	no they don't have names 
+	no 
+	maybe we should give them names 
+	you wanna give them names 
+	not yet 
+	okay 
+	we're done 
+	they're all done eating 
+	yeah 
+	okay so what should we do with the stuff 
+	detartthe nstuff 
+	POBJ PUNCT
+	hafta put the dishes in the sink 
+	detartthe nsink 
+	PUNCT
+	oh good idea 
+	are you gonna wash them too 
+	advtoo 
+	no because because these needta go in the dumptruck 
+	vgo prepin detartthe nndumpntruck 
+	JCT DET POBJ PUNCT
+	okay where's the dumptruck gonna bring them 
+	partgoPRESPinfto vbring proobjthem 
+	OBJ PUNCT
+	no let me do it 
+	okay 
+	coming back for more 
+	yes more for the 
+	uhoh you lost one 
+	it parked it's way to the orange 
+	detartthe norange 
+	PUNCT
+	think someone's some more t to drink 
+	they need some more tea 
+	yeah 
+	mm 
+	sh sips 
+	see he likes it 
+	mhm 
+	sips 
+	time to clean up the toys 
+	I don't wanna clean up 
+	I know but it's time these toys we're done with them 
+	detdemthese ntoy-PL prosubweauxbePRES partdoPASTP
+	prepwith proobjthem 
+	DET PRED SUBJ AUX CMOD JCT POBJ
+	PUNCT
+	so it's time to clean up 
+	thankyou 
+	goodjob 

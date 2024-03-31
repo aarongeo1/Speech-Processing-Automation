@@ -1,0 +1,521 @@
+	should we have some tea 
+	let's see what else we need xxx 
+	e e the baby xxx 
+	and the baby 
+	does she want tea too 
+	no 
+	no she's gonna have her bottle 
+	detpossher nbottle 
+	OBJ PUNCT
+	okay a that's a good idea 
+	so you give your baby the bottle and then we can have sa cup of
+	tea 
+	coordand advtemthen prosubwe modcan vhave ncup prepof ntea
+	JCT SUBJ AUX COORD OBJ NJCT POBJ
+	PUNCT
+	what do you think 
+	yes 
+	yeah okay 
+	she loves  loves  loves 
+	her bottle 
+	now would you like some tea 
+	yeah 
+	okay I'll pour some tea in there 
+	PUNCT
+	and xxx 
+	now what else would you like 
+	I 
+	would you like some sugar in there 
+	yes 
+	okay put them in there 
+	do you wanna mix it up for me 
+	proobjme 
+	POBJ PUNCT
+	here you mix it up 
+	I'm gonna have some sugar in mine too and I'll mix it up 
+	prepin nmine advtoo coordand prosubImodwill vmix properit
+	advup 
+	POBJ JCT LINK SUBJ AUX COMP OBJ
+	JCT PUNCT
+	you wanna take a sip sips 
+	what take xxx 
+	oh she's too busy ea having her bottle 
+	detpossher nbottle 
+	OBJ PUNCT
+	you want me to hold the baby for you while you take y your tea 
+	prepfor properyou conjwhile properyou vtake detpossyour
+	ntea 
+	POBJ LINK SUBJ CJCT DET OBJ PUNCT
+	no 
+	no you're gonna hold her 
+	proobjher 
+	yes 
+	okay 
+	she loves milk 
+	she loves milk okay laughs 
+	alright let's see what else we got here 
+	vgetPAST advhere 
+	JCT PUNCT
+	she wants  she wants to play her toys xxx 
+	do you wanna put her  do you wanna put her back in there for
+	now and then we can have some tea 
+	prepin nthere prepfor advtemnow coordand advtemthen
+	prosubwe modcan vhave qnsome ntea 
+	POBJ JCT POBJ LINK JCT SUBJ AUX
+	CJCT QUANT OBJ PUNCT
+	no 
+	no what else do you wanna play with 
+	vplay prepwith 
+	COMP JCT PUNCT
+	I needta xxx 
+	I wanna I don't wanna play with this anymore 
+	vwantinfto vplay prepwith prodemthis advanymore 
+	INF COMP JCT POBJ JCT PUNCT
+	you don't wanna play with the teaset 
+	detartthe nnteanset 
+	POBJ PUNCT
+	should we put it back in the box 
+	detartthe nbox 
+	PUNCT
+	alright 
+	can you help me put it back in the box please 
+	advback prepin detartthe nbox vplease 
+	DET SUBJ POBJ PUNCT
+	yes 
+	alright I'm gonna call you 
+	properyou 
+	PUNCT
+	you wanna take your cellphone 
+	no groans 
+	jus grandma's on the phone 
+	I don't want phone 
+	no 
+	you just wanna f you wanna play with your baby eh 
+	vplay prepwith detpossyour nbaby coeh 
+	COMP JCT DET POBJ COM PUNCT
+	well I'm gonna get a baby too 
+	nbaby advtoo 
+	JCT PUNCT
+	I'm gonna brush her  her hair hums 
+	nhair 
+	oh sorry I'm brushing your hair 
+	nhair 
+	I got confused 
+	don't brush my hair 
+	oh just the baby's hair 
+	yes 
+	alright I'll brush her hair 
+	she loves this 
+	she does eh 
+	she loves to take her hat off 
+	oh does she 
+	I don't want her hat 
+	okay well then you don't hafta put it on 
+	modhaveinfto vputZERO properit advon 
+	ROOT OBJ JCT PUNCT
+	does her head get hot 
+	is that why she takes her hat off 
+	detpossher nhat advoff 
+	PUNCT
+	yes 
+	yeah 
+	that's why he just she just gets a little  little rest by this
+	prosubshe advjust vget-S detarta adjlittle nrest prepby
+	prodemthis 
+	CPRED DET MOD OBJ JCT POBJ PUNCT
+	okay 
+	that's a lot of milk you're giving her 
+	properyouauxbePRES partgive-PRESP proobjher 
+	CMOD OBJ PUNCT
+	I'm gonna check out the blocks 
+	detartthe nblock-PL 
+	PUNCT
+	you get to build a tower 
+	I'm gonna build something 
+	proindefsomething 
+	what are you get to build 
+	I dunno 
+	do you wanna help me 
+	no thankyou 
+	no 
+	I'm okay 
+	you're okay alright well I'm gonna build something 
+	prosubIauxbeS partgoPRESPinfto vbuild proindefsomething
+	ROOT INF COMP OBJ PUNCT
+	I jus 
+	aw what do you think I sh I think I'll put the blue ones on the
+	bottom 
+	prosubI vthink prosubImodwill vputZERO detartthe nblue
+	none-PL prepon detartthe nbottom 
+	CJCT SUBJ AUX COMP DET MOD OBJ
+	JCT DET POBJ PUNCT
+	and you put the yellow ones 
+	proindefone-PL 
+	next 
+	yes 
+	do you think this is good 
+	so what should I do next 
+	you put the orange ones on the top 
+	detartthe ntop 
+	PUNCT
+	okay 
+	what do you think of that 
+	what's that 
+	do you like that 
+	yes 
+	what's that could be 
+	it's a t it's a tea tower 
+	ntea ntower 
+	PRED PUNCT
+	how's that 
+	okay it's in her mouth sweetie 
+	cosweet-DIM 
+	she's fine laughs 
+	now listen 
+	do you wanna try putting these blocks oh l oh I forgot a block 
+	nblock-PL cmcm cooh cooh prosubI vforgetPAST detarta
+	nblock 
+	LP COM COM SUBJ CJCT DET OBJ
+	PUNCT
+	where should we put this guy 
+	th that fit here 
+	here 
+	alright 
+	I'm gonna try doing something different with these 
+	proindefsomething adjdifferent prepwith prodemthese 
+	JCT POBJ PUNCT
+	do you wanna help me 
+	yes no  no  no  no  no 
+	okay 
+	the baby wants to help too 
+	oh she does 
+	okay well what does th what does the baby want me to do 
+	moddoS detartthe nbaby vwant proobjme infto vdo 
+	SUBJ ROOT OBJ INF COMP PUNCT
+	no I wanna hold her 
+	you can hold her 
+	here you go 
+	thankyou 
+	okay you can hold her but now that you have a free hand you can
+	-um help me with the blocks 
+	compthat properyou vhave detarta adjfree nhand properyou
+	modcan cmcm vhelp proobjme prepwith detartthe nblock-PL 
+	SUBJ CMOD DET MOD OBJ SUBJ AUX
+	LP CMOD OBJ JCT DET POBJ PUNCT
+	wee laughs 
+	oh she's laughs 
+	that tickles 
+	that tickles 
+	laughs I  I want the bottle a and she wants to  to drink
+	some more and more 
+	vwant-S infto vdrink qnsome advmore coordand advmore 
+	COMP QUANT JCT CONJ COORD PUNCT
+	she's really  really thirsty 
+	she is eh what's her name 
+	detpossher nname 
+	PUNCT
+	Hoonst 
+	Hoonst is her name laughs 
+	that's a s interesting name 
+	laughs how old is she 
+	she's three 
+	she's three just like you 
+	properyou 
+	you don't drink from a bottle and you're three 
+	coordand properyoucopbePRES detnumthree 
+	SUBJ CJCT PRED PUNCT
+	maybe she's younger than three 
+	detnumthree 
+	she's  she's very three 
+	she's very three 
+	what color's her outfit 
+	purple 
+	that's right 
+	she loves the color purple 
+	yeah 
+	do you like the color purple 
+	yes 
+	yeah 
+	do you have purple do you have purple on your jacket 
+	adjpurple prepon detpossyour njacket 
+	JCT DET POBJ PUNCT
+	no 
+	www 
+	do you think it's time for her to go to bed soon 
+	proobjher infto vgo prepto nbed advsoon 
+	INF XMOD JCT POBJ JCT PUNCT
+	take a nap 
+	no 
+	no eh 
+	she doesn't wanna go for a nap 
+	nnap 
+	POBJ PUNCT
+	soon she wants to eat 
+	laughs she's really hungry 
+	and drink too 
+	yeah I can see tha well do you wanna give her some food 
+	vwantinfto vgive proobjher qnsome nfood 
+	COMP INF COMP OBJ QUANT OBJ PUNCT
+	you should give her some food with a spoon on the plate 
+	prepwith detarta nspoon prepon detartthe nplate 
+	DET POBJ JCT DET POBJ PUNCT
+	you said she wanted to eat 
+	oh that's a good idea 
+	maybe she wants a banana 
+	oh e is that a banana 
+	yes 
+	oh tha you're gonna hafta peel it for her won't you 
+	modhaveinfto vpeel properit prepfor proobjher
+	modwillnegnot properyou 
+	COMP OBJ JCT POBJ AUX NEG OBJ PUNCT
+	no 
+	no 
+	is Daddy already peeled it for you 
+	prepfor properyou 
+	PUNCT
+	no 
+	she doesn't like bananas 
+	do you like bananas 
+	she likes  she likes to eat apples xxx 
+	gasps well do you think these could be an a oh maybe these are
+	oranges 
+	detarta cmcm cooh advmaybe prodemthese copbePRES
+	norange-PL 
+	LP COM JCT SUBJ PRED PRED PUNCT
+	what do you think 
+	do you think she likes oranges 
+	yes 
+	should we give her some 
+	yes xxx 
+	should I peel it for her 
+	yumyum 
+	alright there's some orange baby 
+	eats 
+	do you want some orange too 
+	eats 
+	laughs 
+	laughs 
+	and what kind of food is this then 
+	advtemthen 
+	PUNCT
+	if this is a banana and that's an orange what do you think this is
+	prodemthatcopbeS detarta norange prointwhat moddo
+	properyou vthink detdemthis copbeS 
+	DET PRED OBJ AUX SUBJ CMOD DET
+	JCT PUNCT
+	i it's a  a  a  a apple 
+	an apple 
+	sh she loves apples 
+	she loves apples 
+	eats 
+	she likes all her fruit doesn't she 
+	moddoSnegnot prosubshe 
+	PUNCT
+	yes 
+	just like you 
+	she loves pineapples 
+	pineapples well what color are pineapples 
+	copbePRES nnpinenapple-PL 
+	PUNCT
+	orange 
+	orange or maybe more yellow 
+	yes 
+	so could this be a pineapple 
+	yes 
+	yeah 
+	do you wanna give her some of that too 
+	prepof detdemthat posttoo 
+	DET POBJ PUNCT
+	this is a baby who knows her stuff 
+	detpossher nstuff 
+	PUNCT
+	eats 
+	I've never seen an infant eat like this before 
+	veat preplike detdemthis advbefore 
+	DET POBJ PUNCT
+	-uh now we need her hat again 
+	her hat 
+	okay where did we put her hat 
+	nhat 
+	did I move it somewhere 
+	oh here it is 
+	could y put that on her head for me 
+	prepfor proobjme 
+	PUNCT
+	yes 
+	she xxx 
+	she's getting cold 
+	yes so she needs to put her hat on grunts 
+	nhat advon 
+	JCT PUNCT
+	it's bit tricky eh 
+	k ki can you help me 
+	I think you can do it 
+	whimpers can you put xxx 
+	I think it's let's see 
+	PUNCT
+	it is tricky eh let me see 
+	vsee 
+	tricky  tricky 
+	it's tricky  tricky 
+	don't forget her bottle 
+	I won't this little baby needs some milk too look she has a hole
+	in her mouth for some milk 
+	vneed-S qnsome nmilk advtoo vlook prosubshe vhaveS
+	detarta nhole prepin detpossher nmouth prepfor qnsome
+	nmilk 
+	QUANT OBJ JCT XJCT SUBJ COMP DET
+	OBJ JCT DET POBJ JCT QUANT POBJ
+	PUNCT
+	you wanna feed her 
+	e she's all finished 
+	I like her 
+	oh you like the little one better laughs 
+	adjgoodCP 
+	xxx this one 
+	okay 
+	you  you  you 
+	I get to have this one 
+	so I'll just keep brushing her hair right 
+	detpossher nhair coright 
+	COM PUNCT
+	yeah 
+	right 
+	what's her name 
+	her name is teddybear 
+	her name's teddybear well that's a good name 
+	prodemthatcopbeS detarta adjgood nname 
+	MOD PRED PUNCT
+	and her name what's her name again 
+	detpossher nname advtemagain 
+	JCT PUNCT
+	-um Bogat 
+	Bogatahugne 
+	interesting 
+	no -uh I think she's Spoon I think 
+	prosubI vthink 
+	PUNCT
+	her name's Spoon 
+	yeah 
+	laughs okay 
+	no Spoo 
+	Spoon 
+	is that her name 
+	yeah 
+	now is this baby older than that baby 
+	detdemthat nbaby 
+	PUNCT
+	yes 
+	yeah she's bigger 
+	so how old is she 
+	she's two 
+	she's two and how old is that baby 
+	adjold auxbeS detdemthat nbaby 
+	DET COORD PUNCT
+	three 
+	but that baby b is bigger or smaller 
+	adjsmall-CP 
+	PUNCT
+	smaller 
+	so she should be younger than this baby shouldn't she 
+	detdemthis nbaby modshouldnegnot prosubshe 
+	AUX NEG PRED PUNCT
+	she's four I think 
+	ok she's four 
+	and she's three 
+	no 
+	she's a she's four 
+	mhm 
+	 and tha that's five 
+	good yeah I think that makes more sense 
+	nsense 
+	PUNCT
+	good for you 
+	alright 
+	and she's wearing purple too 
+	and do you see what's on her shirt 
+	detpossher nshirt 
+	POBJ PUNCT
+	yes 
+	what is it 
+	it's a teddybear 
+	it's a teddybear 
+	ringring	detartthe nphone 
+	who is it 
+	I think  I think it's Grandma for Jen 
+	npropJen 
+	PUNCT
+	do you wanna say hi 
+	no 
+	say hi Grandma 
+	hi Grandma 
+	you wanna ask her how she is 
+	copbeS 
+	PUNCT
+	no 
+	no 
+	well I'm gonna play with the truck 
+	detartthe ntruck 
+	POBJ PUNCT
+	you play with your baby 
+	I'm fine I'm gonna play with the truck by myself 
+	partgoPRESPinfto vplay prepwith detartthe ntruck prepby
+	proreflmyself 
+	JCT DET POBJ JCT POBJ PUNCT
+	gonna load it up with all these blocks 
+	detdemthese nblock-PL 
+	POBJ PUNCT
+	engine 
+	and dump it all a 
+	you dump it 
+	I don't know how to dump it 
+	properit 
+	PUNCT
+	gasps 
+	alright so he's j 
+	gonna do it again 
+	now engine 
+	where's he going 
+	it's going to  to the hill 
+	it's going to the hills okay 
+	adjokay 
+	PUNCT
+	to  to the city 
+	are we gonna deliver our bananas to the city 
+	nbanana-PL prepto detartthe ncity 
+	DET POBJ PUNCT
+	yes 
+	okay 
+	here he goes 
+	alright Oscar's the city 
+	we'll deliver the bananas right here 
+	nhere 
+	okay he's coming back from the city now 
+	detartthe ncity advtemnow 
+	JCT PUNCT
+	now we need some oranges please 
+	okay 
+	alright 
+	do you wanna push him to the city 
+	detartthe ncity 
+	POBJ PUNCT
+	yes 
+	here it goes 
+	engine hi Oscar you want some oranges 
+	laughs 
+	alright 
+	now what are we gonna put in 
+	partgoPRESPinfto partputPASTP advin 
+	JCT PUNCT
+	laughs 
+	are those apples 
+	yeah a and xxx 
+	www 
+	you gonna put them back in Jen please 
+	prepin npropJen vplease 
+	POBJ PUNCT
+	yes 
+	good girl 
+	thankyou 
+	good listening bud 
+	high five 

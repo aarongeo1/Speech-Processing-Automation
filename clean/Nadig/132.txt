@@ -1,0 +1,393 @@
+	xxx right now we'll play tea teaparty 
+	nteaparty 
+	PUNCT
+	you doing a teaparty 
+	 no 
+	moans 
+	you're gonna have the baby drink tea 
+	nbaby ndrink ntea 
+	OBJ PUNCT
+	yeah 
+	what kind of f fruit or vegetable the baby's eating 
+	detartthe nbabyauxbeS parteat-PRESP 
+	AUX ROOT PUNCT
+	-um I dunno 
+	well what's orange usually 
+	what kind of fruit is orange 
+	what kind of fruit is orange 
+	I don't know 
+	sure you do 
+	of an o what's an orange fruit 
+	nfruit 
+	PUNCT
+	-um 
+	what  what d what do you like eating that's orange 
+	prodemthatcopbeS adjorange 
+	PRED PUNCT
+	orange 
+	I gave you the answer laughs 
+	orange 
+	that's right 
+	n what kind of vegetable would this be 
+	copbe 
+	-um 
+	if it was 
+	a fruit 
+	no what kind of vegetable would this be if it was orange 
+	prodemthis copbe conjif properit copbePASTS adjorange 
+	LINK SUBJ PRED PRED PUNCT
+	its orange 
+	it be a fruit I think like an o sweet potato 
+	detarta adjsweet npotato 
+	MOD OBJ PUNCT
+	a potato 
+	tato 
+	a potato 
+	so you're pouring me some tea 
+	ntea 
+	can I have it 
+	thankyou 
+	and what i what's this for the baby 
+	detartthe nbaby 
+	PUNCT
+	that 
+	oh to put -uh -um I don't know 
+	PUNCT
+	well think 
+	nothing 
+	it's nothing 
+	nothing 
+	so you just like leaving it here 
+	advhere 
+	no 
+	gonna put it in the truck 
+	ntruck 
+	can this baby join in 
+	okay 
+	gonna brush her hair 
+	does she get to eat something 
+	what do you wanna put her to eat 
+	proobjher infto veat 
+	COMP PUNCT
+	moans 
+	and what are we gonna call these 
+	vcall detdemthese 
+	PUNCT
+	these 
+	you could choose two  two things 
+	either a fruit or a vegetable 
+	vegetable 
+	so what's yellow in a vegetable 
+	nvegetable 
+	a vegetable 
+	what do you also like eating that's yellow 
+	cmcm prodemthatcopbeS adjyellow 
+	CJCT PRED PUNCT
+	yellow 
+	starts with the letter c	c	k 
+	k 
+	and it ends with n	n	it has little  little pieces on it 
+	properit 
+	and you eat it with you're hands 
+	properyoucopbePRES nhand-PL 
+	PUNCT
+	and you bite with your mouth 
+	what is it 
+	what is it 
+	no but what is the fruit -uh the vegetable 
+	detartthe nvegetable 
+	APP PUNCT
+	vegetable 
+	I don't know 
+	we even saw them driving by when we were up north 
+	cmcm conjwhen prosubwe copbePAST advup adjnorth 
+	SUBJ CJCT JCT PRED PUNCT
+	George 
+	what 
+	k 
+	k orn 
+	Mommy it's stuck 
+	it's okay 
+	we'll get it out 
+	corn 
+	c corn 
+	so the baby can eat corn 
+	yeah 
+	oh what did you do 
+	laughs it's stuck 
+	on the stick I  I did that  that and then it goes like boom	and e and xxx 
+	coordand advtemthen properit vgo-S preplike onboom
+	coordand coordand 
+	SUBJ COORD JCT POBJ CONJ COORD
+	PUNCT
+	so you put it in 
+	oh boy 
+	laughs we're gonna get it out now 
+	advout advtemnow 
+	PUNCT
+	www 
+	in the teapot 
+	woah this is  this is cool 
+	no  no we don't we're not gonna do that with the spoon 
+	negnot partgoPRESPinfto vdo prodemthat prepwith detartthe
+	nspoon 
+	ROOT INF COMP OBJ JCT DET POBJ
+	PUNCT
+	so what does the truck do Tom 
+	truck 
+	yeah 
+	put juice into the cup 
+	juice into the cup 
+	but truck what does a truck generally do hm 
+	advgeneraldadj-LY vdo cohm 
+	ROOT COM PUNCT
+	generally 
+	what does it do 
+	what i what is a truck used for 
+	partuse-PASTP prepfor 
+	a crane p picks up a s a sand that is gr ey 
+	nsand prorelthat copbeS 
+	LINK CMOD PUNCT
+	I dunno 
+	yes you do know 
+	stop saying you don't know 
+	you know 
+	ick 
+	you were just explaining 
+	it just it puts xxx a truck 
+	what does trucks xxx 
+	it does when you put something on it moves it somewhere else what's
+	heavy 
+	proindefsomething prepon properit vmove-S properit
+	advsomewhere postelse prointwhatcopbeS adjheavy 
+	XJCT OBJ JCT PQ SUBJ COMP PRED
+	PUNCT
+	that's right 
+	so what kind of stuff does it like to pick up and move somewhere
+	else 
+	vlike infto vpick advup cmcm coordand nmove advsomewhere
+	postelse 
+	INF COMP JCT LP CONJ COORD NJCT
+	PQ PUNCT
+	-uh 
+	you know xxx that a   that a crane breaks 
+	okay 
+	that is what he picks up 
+	picks up a crane 
+	no the crane picks up the m the metal of the thing metal 
+	nmetal prepof detartthe nthing nmetal 
+	NJCT DET MOD POBJ PUNCT
+	oh metal okay 
+	and then he puts it in 
+	okay 
+	and then where does the truck take it 
+	vtake properit 
+	PUNCT
+	he takes it somewhere else where it's -uh empty 
+	prorelwhere properitcopbeS adjempty 
+	PRED PUNCT
+	where it's empty 
+	yeah 
+	so it's like we put things in the truck 
+	nthing-PL prepin detartthe ntruck 
+	DET POBJ PUNCT
+	no wait  wait 
+	I'll show you 
+	you do that 
+	put in 
+	so your hand's the crane 
+	yeah 
+	like this 
+	and it dumps it 
+	I don't 
+	oh I got it out 
+	laughs like magic 
+	do not put it back in laughs 
+	why not 
+	no I just ask you not t 
+	I'm not 
+	I'm just making it a juice 
+	njuice 
+	it's gonna go back in now laughs 
+	advtemnow 
+	PUNCT
+	it came out 
+	moans 
+	no that doesn't go in there 
+	we can put this in here 
+	use it as a   as a holder 
+	oh and you put this here f like a chair 
+	preplike detarta nchair 
+	POBJ PUNCT
+	to hold up hold back 
+	yeah because look what happens when you take it back look 
+	properyou vtake properit advback nlook 
+	OBJ JCT OBJ PUNCT
+	the baby falls 
+	yeah 
+	because the baby can't -uh wait I got her to sit by herself 
+	prosubI vgetPAST proobjher infto vsit prepby
+	proreflherself 
+	ROOT OBJ INF COMP JCT POBJ PUNCT
+	is that good 
+	yeah 
+	so you can use the other blocks 
+	build a tower 
+	let's build a tower 
+	let's see how high we can go 
+	PUNCT
+	carefully oh  oh 
+	here let's do 
+	I know  I know 
+	you put something a lot of things like that so it doesn't fall down
+	nthing-PL preplike prodemthat conjso properit
+	moddoSnegnot vfall advdown 
+	POBJ LINK SUBJ AUX NEG CJCT JCT
+	PUNCT
+	laughs 
+	we need xxx 
+	do that 
+	we put that on 
+	and we put that 
+	see now it's not gonna fall 
+	vfall 
+	PUNCT
+	okay 
+	what's that 
+	this 
+	telephone 
+	it's a telephone 
+	it's like a l mini cellphone 
+	nadjcellnphone 
+	look what happens 
+	when you put it far it's wait 
+	properitcopbeS cmcm vwait 
+	LP ENUM PUNCT
+	put it far like that 
+	and when you're far away look 
+	there's a man on a horse 
+	yeah 
+	here bring it closer let's see 
+	xxx 
+	oh 
+	okay and then when you move it 
+	properit 
+	wait I need go move backwards  I need go move backwards 
+	you see it 
+	no 
+	now do you see it 
+	I see it 
+	oh when you put it down it goes 
+	properit vgo-S 
+	PUNCT
+	do you see the horse running 
+	and then you see a horse with a 
+	prepwith detarta 
+	PUNCT
+	what is that a   is that a man 
+	hold on  hold on 
+	looks like a 
+	sings 
+	no it is a h 
+	looks like there's a man on it 
+	prepon properit 
+	PUNCT
+	no actually look  look Tom 
+	look if you do like this because the other pictures there looks
+	like there's a man but it's the other head coughs 
+	detartthe qnother npicture-PL advthere vlook-S conjlike
+	proexisttherecopbeS detarta nman conjbut
+	properitcopbeS detartthe qnother nhead 
+	QUANT SUBJ NJCT CJCT LINK SUBJ
+	COMP DET PRED LINK SUBJ CJCT DET
+	QUANT PRED PUNCT
+	other position 
+	xxx Mommy 
+	your truck is bringing juice 
+	njuice 
+	engine into the juice 
+	okay coughs 
+	engine 
+	so is that the big juice fountain 
+	nfountain 
+	PUNCT
+	engine 
+	here bring the spoons 
+	let's have another spoon here 
+	now they can eat 
+	engine hums 
+	imagine that there's a big tractor 
+	ntractor 
+	with a big  big p picture of juice 
+	imagine if this was going by so f like that 
+	conjso preplike prodemthat 
+	POBJ PUNCT
+	laughs oh boy 
+	we're so crazy 
+	laughs so crazy 
+	haha you see that it's big when i I was doing e it 
+	conjwhen prosubI auxbePASTS partdo-PRESP cmcm properit 
+	SUBJ AUX CJCT LP OBJ PUNCT
+	what 
+	that 
+	this 
+	yeah when I stir that it's big 
+	adjbig 
+	PUNCT
+	well it is a big cup 
+	a big cup for a little baby 
+	see 
+	if she tries to hold it 
+	moans moans 
+	it's very big 
+	j 
+	so what's this baby eating 
+	-um grape juice 
+	grape juice 
+	I think you drink grape juice 
+	oh 
+	so what is he okay 
+	so what is she gonna eat 
+	veat 
+	she gonna eat xxx 
+	what's that gonna be 
+	corn 
+	corn 
+	I think she wants a banana so we're gonna give her a banana 
+	prosubweauxbePRES partgoPRESPinfto vgive proobjher
+	detarta nbanana 
+	AUX CJCT INF COMP OBJ DET OBJ
+	PUNCT
+	it's yellow 
+	yeah 
+	and what are you gonna have 
+	vhave 
+	I'm gonna have -uh fruit I'm gonna have blueberries 
+	prosubIauxbeS partgoPRESPinfto vhave
+	nadjbluenberry-PL 
+	AUX XJCT INF COMP OBJ PUNCT
+	I'm gonna have all of them 
+	proobjthem 
+	PUNCT
+	xxx 
+	you're gonna have all of them 
+	proobjthem 
+	PUNCT
+	yeah 
+	are you sure 
+	ts a lot of fruit there 
+	laughs 
+	good boy 
+	www 
+	now can I have some xxx 
+	no Tom 
+	www 
+	I think there's some beside you Tom 
+	prepbeside properyou npropTom 
+	PUNCT
+	there we go 
+	look he's eating a lot o food 
+	mhm 
+	where's the cover 
+	where's the cover 
+	okay let's put the cover on 

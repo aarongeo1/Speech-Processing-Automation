@@ -1,0 +1,447 @@
+	can you give the babies a cup of  a cup of water 
+	prepof nwater 
+	POBJ PUNCT
+	water 
+	you wanna give the babies some water 
+	nwater 
+	PUNCT
+	babies water 
+	okay let's get the babies out then 
+	advtemthen 
+	POBJ PUNCT
+	xxx the babies da 
+	you g you gonna sit the baby down 
+	detartthe nbaby advdown 
+	JCT PUNCT
+	one baby there   there you go 
+	bay na Mama 
+	th oh there's a baby and a mommy 
+	detarta nmommy 
+	PUNCT
+	wanna put the hat on 
+	hat 
+	can you put the hat on the baby 
+	detartthe nbaby 
+	PUNCT
+	nearly yeah 
+	xxx 
+	what it doesn't go on the baby's foot does it 
+	adjbabydn-POSS nfoot moddoS properit 
+	SUBJ AUX POBJ PUNCT
+	does the baby have a diaper on 
+	yeah 
+	yeah 
+	xxx caca	the baby needs to go caca	yeah 
+	oh where are you going 
+	no  no  no we hafta stay here  we hafta stay here okay
+	caca	who needs to go caca	whines 
+	you needta go caca	no 
+	the baby 
+	bay yeah 
+	okay well let's   let's make a little toilet for the baby to go
+	caca	ntoilet prepfor detartthe nbaby infto vgo Lcaca advon
+	adjokay 
+	OBJ NJCT DET POBJ INF XJCT OBJ
+	JCT POSTMOD PUNCT
+	there you got it 
+	the baby can sit there and go caca	PUNCT
+	ca 
+	yeah the baby can sit there and go  and go pee 
+	vgo vpee 
+	SRL COORD PUNCT
+	and then flush psh 
+	that's it 
+	the baby hasta wash hands now 
+	grunts 
+	okay that's our little pretend toilet 
+	ntoilet 
+	oh no 
+	what 
+	there you go 
+	that's our little pretend toilet for the baby to go peepee 
+	prepfor detartthe nbaby infto vgo vpeeDUP 
+	POBJ INF SRL XMOD PUNCT
+	peepee 
+	you go peepee 
+	all done 
+	the baby gonna wash hands 
+	hand 
+	laughs 
+	oh no 
+	what 
+	la 
+	like that 
+	ah la 
+	like that 
+	what's the baby doing 
+	le delo 
+	ne what -uh you're gonna give them some water then 
+	proobjthem qnsome nwater advtemthen 
+	OBJ ENUM PUNCT
+	are you gonna sit them down then 
+	advdown advtemthen 
+	PUNCT
+	sit the baby down 
+	you're gonna put the hat on or not 
+	nhat advon coordor negnot 
+	CONJ COORD PUNCT
+	hat 
+	or no hat 
+	hm bet 
+	yeah there's no shoes for the baby 
+	detartthe nbaby 
+	PUNCT
+	shoe 
+	no there's no shoes for the baby 
+	detartthe nbaby 
+	POBJ PUNCT
+	there you go let's put his hat on so he doesn't get cold 
+	nhat advon conjso prosubhe moddoSnegnot vget advcold 
+	JCT LINK SUBJ AUX NEG CJCT JCT
+	PUNCT
+	-uh sho 
+	you don't want the hat on 
+	oh it's a bit annoying isn't it 
+	copbeSnegnot properit 
+	SUBJ PUNCT
+	okay whoops 
+	-uh dis  this 
+	okay there's one there and one there 
+	detnumone nthere 
+	COORD PUNCT
+	okay you're gonna do the cups Albus 
+	detartthe ncup-PL npropAlbus 
+	APP PUNCT
+	you wanna get the cups out 
+	where's the l'eau	where's the l'eau	is that for the baby 
+	it's not eyedrops in her mouth 
+	detpossher nmouth 
+	there you go 
+	in the baby's mouth sips 
+	well done 
+	xxx for the mom 
+	and what about the mama 
+	what'd the big baby what does the baby get 
+	prointwhat moddoS detartthe nbaby vget 
+	DET SUBJ ROOT PUNCT
+	does it b g baby get a cup 
+	cup 
+	a cup 
+	and what about this 
+	teapot 
+	whoops 
+	and you're gonna give the baby some food as well 
+	detartthe nbaby qnsome nfood prepas advwell 
+	QUANT OBJ COORD ENUM PUNCT
+	whimpers cakie 
+	is there some cakie 
+	that would be good 
+	why don't you get the plates out and we'll do the cakie then 
+	advout coordand prosubwemodwill vdo detartthe ncake-DIM
+	advtemthen 
+	LINK SUBJ AUX CJCT DET OBJ JCT
+	PUNCT
+	plate 
+	a plate 
+	is there one plate 
+	and what r about the other baby 
+	is the other baby get plate 
+	oh there you go 
+	xxx cake 
+	a cake mm numnum 
+	you gonna give the baby a spoon 
+	detarta nspoon 
+	PUNCT
+	there a spoon 
+	is there a spoon 
+	hm mhm where's the cake 
+	-um there 
+	oh there okay 
+	is it oran -uh no we got different cakes 
+	adjdifferent ncake-PL 
+	PUNCT
+	look we got orange cake or blue cake 
+	ncake 
+	PUNCT
+	xxx 
+	there you go 
+	now that's looking more like a party 
+	preplike detarta nparty 
+	PUNCT
+	da da 
+	yeah 
+	so this baby's got a cup 
+	look see if she xxx sips 
+	no not like that 
+	xxx 
+	what's that 
+	is that for Mama 
+	thankyou 
+	chinchin	you need your cup so we can do chinchin	vdo cochinchin 
+	OBJ PUNCT
+	where's your cup 
+	ah 
+	there we go 
+	does Mommy get a cup and Albus gets a cup we'll go chinchin	vget-S detarta ncup prosubwemodwill vgo cochinchin 
+	DET OBJ SUBJ AUX COMP OBJ PUNCT
+	one two three chinchin	xxx there 
+	and did you feed the baby yet 
+	conjyet 
+	did you feed the baby Albus 
+	look here we go mm num  mm num mm Albus 
+	no  no  no 
+	no  no  no 
+	you do it then 
+	Albus do it 
+	no 
+	what 
+	whimpers no 
+	you don't wanna do these anymore 
+	advanymore 
+	PUNCT
+	no lo lo 
+	no lolo 
+	what else can we do then 
+	what else can we play with in here 
+	nhere 
+	POBJ PUNCT
+	nah 
+	dun some cake 
+	cup for the baby 
+	what can the truck be doing 
+	how does the truck play in this 
+	detdemthis 
+	you wanna put the cups on the truck 
+	detartthe ntruck 
+	POBJ PUNCT
+	that's a good plan 
+	xxx la 
+	so then look I can say would you like a cup of tea mister Albus
+	engine 
+	modwillCOND properyou vlike detarta ncup prepof ntea
+	nmister npropAlbus 
+	SUBJ COMP DET OBJ NJCT MOD POBJ
+	APP PUNCT
+	xxx Mama  Mama xxx la 
+	vram buk pucho 
+	xxx 
+	Mama 
+	where you going 
+	eh  eh  eh we're sposta be playing with these ones 
+	partplay-PRESP prepwith detdemthese proindefone-PL 
+	DET POBJ PUNCT
+	Albus  Albus  Albus  Albus  Albus  Albus let's just
+	play with let's just keep playing with these ones 
+	vletproobjus advjust vkeep partplay-PRESP prepwith
+	detdemthese proindefone-PL 
+	OBJ JCT COMP COMP JCT DET POBJ
+	PUNCT
+	look  look at the truck 
+	ah mo  ah mo  ah mo 
+	Albus  Albus 
+	no 
+	what you need Elmo 
+	el 
+	Elmo's   Elmo's here 
+	bring Elmo to the teaparty then 
+	is he gonna come have some tea 
+	ntea 
+	PUNCT
+	is Elmo gonna come and have some tea 
+	qnsome ntea 
+	QUANT OBJ PUNCT
+	is everyone gonna drink some c tea now 
+	cmcm ntea advtemnow 
+	JCT PUNCT
+	hm 
+	xxx 
+	should we feed Elmo 
+	look 
+	numnum 
+	no  no look 
+	hm 
+	look 
+	what 
+	look 
+	what is this 
+	beep	beep	xxx 
+	who you gonna call 
+	who you gonna call 
+	Ghostbusters 
+	wanna call Papa 
+	ringring	ringring	you better answer the phone quick 
+	ringring	no Papa 
+	no Papa 
+	hello 
+	oh yeah Albus's here would you like to speak to Albus 
+	properyou vlike infto vspeak prepto npropAlbus 
+	INF COMP JCT POBJ PUNCT
+	gasps oh really 
+	oh I don't know it's for you 
+	prepfor properyou 
+	JCT POBJ PUNCT
+	xxx 
+	no 
+	no 
+	you being grumplepump	you be a grumplepump	no 
+	you wanna phone Jenny 
+	no 
+	say hello Jen I'm playing with dollies and we're having a
+	teaparty without you 
+	prepwith ndoll-DIM-PL cmcm coordand prosubweauxbePRES
+	parthave-PRESP detarta nteaparty cmcm prepwithout properyou
+	LP LINK SUBJ AUX CJCT DET OBJ
+	LP JCT POBJ PUNCT
+	no xxx 
+	no Jen wanna phone Gillian 
+	hello Gilliandoo we're having a teaparty 
+	detarta nteaparty 
+	Gillian laughs 
+	xxx 
+	Zaza Gillian 
+	what else can we play with 
+	oh I don't think that's gonna work on the carpet 
+	partgoPRESPinfto vwork prepon detartthe ncarpet 
+	INF COMP JCT DET POBJ PUNCT
+	think that's gonna work Albus 
+	npropAlbus 
+	oh uhoh 
+	oh Mama 
+	uhoh oh ah you xxx 
+	Albus you xxx 
+	should we try again 
+	encore	encore	encore	one two 
+	uhoh 
+	uhoh 
+	xxx 
+	encore	la	oh goodjob another one 
+	uhoh 
+	uhoh cake 
+	cake 
+	no  no on there 
+	we're making a cake tower 
+	xxx too 
+	okay see if you can do that one 
+	proindefone 
+	PUNCT
+	uhoh laughs 
+	cake down 
+	should we try again 
+	yeah 
+	okay one two three 
+	can you do number four 
+	oh 
+	xxx encore	encore	one two three 
+	Albus 
+	you do number four 
+	doucement	oh laughs 
+	uhoh  uhoh 
+	uhoh again 
+	one two 
+	doucement	laughs 
+	uhoh  uhoh 
+	uhoh one two three 
+	gasps uhoh 
+	laughs uhoh 
+	here you go 
+	let's try put these together mister 
+	nmister 
+	three 
+	one press three yeah but you better go up   up the way 
+	properyou adjgoodCP vgo cmcm prepup detartthe nway 
+	SUBJ SUBJ CJCT LP JCT DET POBJ PUNCT
+	three 
+	four 
+	oh no on dar 
+	five 
+	you gonna keep going 
+	oh up 
+	up 
+	goodjob 
+	oh no 
+	that's good 
+	xxx la	xxx la	you and your french huh 
+	there's more 
+	is there more 
+	no xxx 
+	there's another orange one somewhere 
+	nsomewhere 
+	are you sitting on it 
+	xxx 
+	are you sitting on the orange one 
+	proindefone 
+	there it is 
+	you wanna count them 
+	look one two three four five six seven 
+	detnumfive detnumsix detnumseven 
+	ENUM PUNCT
+	there's one more orange one 
+	proindefone 
+	are you sitting on it 
+	grunts where's the orange one 
+	no 
+	no 
+	xxx 
+	oh there they are  there they are 
+	there 
+	there 
+	there's orange 
+	there's xxx 
+	tadah 
+	xxx 
+	you happy now 
+	encore	encore	okay off you go 
+	ready 
+	www 
+	tadah xxx 
+	okay Albus we're gonna do clean up 
+	moddo vclean advup 
+	JCT PUNCT
+	you gonna help Mama do clean up 
+	advup 
+	PUNCT
+	xxx 
+	clean up  clean up everybody everywhere clean up  clean
+	up everybody do their share 
+	proindefeverybody vdo detposstheir nshare 
+	DET OBJ PUNCT
+	goodjob Albus 
+	keep going cleanie	like you do in daycare 
+	that's it 
+	all the clean up away 
+	xxx 
+	good boy 
+	clean up  clean up everybody everywhere clean up  clean
+	up everybody do their share 
+	proindefeverybody vdo detposstheir nshare 
+	DET OBJ PUNCT
+	xxx car 
+	no the car huh laughs 
+	yeah the car hasta get cleaned up too 
+	partclean-PASTP advup advtoo 
+	JCT PUNCT
+	go on good boy 
+	la	and that one yeah 
+	yup lala	vputZERO properit cmcm prepin nthere 
+	LP JCT POBJ PUNCT
+	and the car please 
+	no 
+	yes please 
+	engine 
+	laughs you gonna put the car away 
+	advaway 
+	go on 
+	put the lid on 
+	you're gon grab the lid and we'll put the lid on 
+	prosubwemodwill vputZERO detartthe nlid advon 
+	CJCT DET OBJ JCT PUNCT
+	you gonna grab the lid for the box 
+	prepfor detartthe nbox 
+	DET POBJ PUNCT
+	that's it okay 
+	here turnie	 turnie	gotta get in the middle xxx push ah 
+	prosubwe modgotinfto vget prepin detartthe nmiddle npush
+	coah 
+	AUX INF COMP JCT DET MOD POBJ
+	COM PUNCT
+	ma 

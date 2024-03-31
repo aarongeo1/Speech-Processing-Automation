@@ -1,0 +1,269 @@
+	can you see the -uh what is it 
+	properit 
+	PUNCT
+	xxx toes 
+	tickle xxx 
+	tick tick 
+	ah she's gonna tickle Billy too 
+	npropBilly posttoo 
+	PUNCT
+	tick tick tick tick tick tick tick tick tick tick tick
+	tick 
+	come back  come back 
+	grunts 
+	yes come here 
+	what about the can you brush her hair 
+	vbrush detpossher nhair 
+	OBJ PUNCT
+	can you brush her hair 
+	brush her hair 
+	good brush her hair 
+	or you wanna brush the front 
+	how about brush Billy's hair 
+	can you brush your hair 
+	there you go 
+	see look xxx brush her hair 
+	laughs 
+	what do you see 
+	de laughs 
+	haha cool 
+	is he gonna sleep kr shoo  kr shoo 
+	laughs 
+	laughs kr shoo she only has one eye that closes 
+	vclose-S 
+	kr shoo she go to sleep 
+	no  no  no  no hitting 
+	kr shoo okay there you go 
+	brush her hair 
+	but easy  easy  easy 
+	what's that 
+	what's this 
+	Billy what's this 
+	look wh what's this 
+	what's this 
+	nah 
+	that's her nose 
+	that's her nose 
+	where's Billy's nose 
+	where's  where's your nose 
+	where's your mouth 
+	where's her mouth 
+	where's the doll's mouth 
+	the little girl's mouth 
+	where's her mouth 
+	that's right 
+	does she have ears 
+	the other ear 
+	where are your ears 
+	where's Billy's ears 
+	oop you have two ears 
+	you have both of them look at that 
+	prodemthat 
+	PUNCT
+	what about her hair 
+	does she have hair 
+	where's your hair 
+	where's your hair 
+	eh nuh 
+	no 
+	well what about some of the other toys 
+	qnother ntoy-PL 
+	PUNCT
+	come here 
+	what do we see 
+	what do you see 
+	come here 
+	what's in bucket 
+	xxx you know what this one is 
+	copbeS 
+	oh what's that 
+	horsie 
+	it's a phone 
+	is that for you 
+	hello 
+	hello 
+	yes can you tell a story on the phone 
+	detartthe nphone 
+	DET POBJ PUNCT
+	huh 
+	yeah 
+	tell a story 
+	say hello 
+	who's on the phone 
+	is it Mommy 
+	is Mommy on the phone 
+	oh can you do your little phone 
+	nphone 
+	PUNCT
+	phone conversations 
+	like this 
+	like this wee wee wee wee wee wee wee 
+	xxx 
+	nuh 
+	what's that 
+	grunts 
+	is that a bottle 
+	does the baby get the bottle 
+	no  no not for you 
+	for the baby 
+	there you go sips 
+	gasps what's that 
+	da 
+	it's for is that for   for drinking 
+	prepfor partdrink-PRESP 
+	POBJ PUNCT
+	oh it's a plate 
+	are you putting milk on the plate 
+	nplate 
+	can I have some 
+	can I have some 
+	sips Billy's turn sips 
+	ready sips 
+	can we have some more can we have some milk 
+	vhave qnsome nmilk 
+	CJCT QUANT OBJ PUNCT
+	oh it's a oo lots of milk 
+	PUNCT
+	want some 
+	Billy have some 
+	sips can Daddy have some now 
+	sips coughs oo xxx some more 
+	oh goodjob 
+	do you want it 
+	is it for Daddy or for Billy 
+	npropBilly 
+	PUNCT
+	for Billy 
+	goodjob coughs 
+	oh what's this one for Daddy 
+	npropDaddy 
+	do I get some more 
+	little bit more squeeze 
+	grunts goodjob ready sips 
+	how about   how about can we put some milk in here 
+	nmilk prepin nhere 
+	JCT POBJ PUNCT
+	m m 
+	who's that for is that for Daddy or for Billy 
+	prodemthat prepfor npropDaddy coordor prepfor npropBilly 
+	POBJ CONJ COORD POBJ PUNCT
+	or for the baby 
+	how about for the th lil baby 
+	sips there baby's turn 
+	baby 
+	yeah the baby 
+	goodjob you share 
+	you sharing your milk with the baby 
+	detartthe nbaby 
+	so there's two babies 
+	here look 
+	share your milk with the two babies 
+	nbaby-PL 
+	 sips 
+	goodjob 
+	xxx 
+	yeah two babies 
+	is this baby want some 
+	 sips 
+	yeah laughs 
+	what about for Billy 
+	does Billy get some 
+	baba	what 
+	yeah two spoons 
+	you don't need two 
+	oh some for Billy sips 
+	goodjob 
+	you gonna share 
+	sips 
+	there you go 
+	you gonna share 
+	where you squeezing the milk 
+	could put it in the spoon 
+	sips 
+	goodjob 
+	oop xxx 
+	here xxx 
+	fill it up 
+	is this one for who's this for 
+	prointwhocopbeS prodemthis prepfor 
+	JCT PUNCT
+	is this for me or you 
+	hello is this for Daddy or Billy 
+	npropBilly 
+	PUNCT
+	oh you must be hungry 
+	you have lots of milk 
+	grunts 
+	xxx 
+	oop hey this one who's this one for 
+	detdemthis proindefone prepfor 
+	NJCT PUNCT
+	this one for Billy 
+	gasps no  no oh  oh it's for Daddy 
+	sips oh I got it 
+	your turn 
+	goodjob eats 
+	now how about some for babies 
+	can you put some in for babies 
+	there you go goodjob 
+	good sharing 
+	now lil bit more how about for the little baby 
+	prepfor detartthe adjlittle nbaby 
+	MOD POBJ PUNCT
+	m m 
+	can you give some for the little baby 
+	adjlittle nbaby 
+	PUNCT
+	goodjob 
+	oh did you get a little here gotta clean the lil baby oh oh oh
+	advhere modgotinfto vclean detartthe nbaby 
+	AUX INF XJCT DET OBJ PUNCT
+	xxx hold the spoon 
+	here 
+	sharing it 
+	hm ah 
+	yeah 
+	oop you got it the baby's eye 
+	neye 
+	oh no can you clean the baby's eye 
+	adjbabydn-POSS neye 
+	OBJ PUNCT
+	can you clean the baby's eye 
+	no xxx the cups xxx 
+	do like this 
+	go oh  oh say sorry 
+	gasps where's the baby's hair 
+	gasps what'd you do 
+	xxx is baby's head gonna get cold 
+	advcold 
+	PUNCT
+	xxx 
+	pull ta 
+	pull come on 
+	goodjob 
+	gasps wah baby got cold head 
+	put the hat on the baby 
+	gonna hat for th Billy's head 
+	hm 
+	can you fit the hat on your head 
+	detpossyour adjhead 
+	PUNCT
+	oop your head's too big laughs 
+	it's too big how about this little guy's head 
+	detdemthis adjlittle adjguydn-POSS nhead 
+	MOD MOD POBJ PUNCT
+	gasps peekaboo 
+	babytalk 
+	are you playing peekaboo with the baby 
+	detartthe nbaby 
+	xxx let me help you a little bit 
+	minutes and asked father to clean up when he was ready 
+	okay let's fix the hat 
+	fix his hat 
+	there we go goodjob 
+	goodjob 
+	alright now we hafta put the toys back 
+	detartthe ntoy-PL advback 
+	JCT PUNCT
+	okay it's time to clean up 
+	goodjob  goodjob 

@@ -1,0 +1,515 @@
+	Laura 
+	oh no 
+	oh no the cup broke we broke the cup 
+	detartthe ncup 
+	OBJ PUNCT
+	gasps what can we do 
+	what can we do the cup's broken 
+	partbreakPASTP 
+	PUNCT
+	-um put some tea on it 
+	oh okay thankyou 
+	what's that 
+	is that milk sugar or tea 
+	tea 
+	tea 
+	and what's in this 
+	xxx 
+	oh milk you're right that's the milk can I have some milk in my tea
+	prodemthatcopbeS detartthe nmilk modcan prosubI vhave
+	qnsome nmilk prepin detpossmy ntea 
+	SUBJ AUX SUBJ CPRED QUANT OBJ NJCT
+	DET POBJ PUNCT
+	ah 
+	yes 
+	I fixing it first 
+	oh you're gonna fix it first because that one's broken 
+	advfirst conjbecause detdemthat proindefoneauxbeS
+	partbreakPASTP 
+	LINK DET SUBJ AUX CJCT PUNCT
+	well could I have one in the one that's not broken please 
+	detartthe detnumone prodemthatcopbeS negnot
+	partbreakPASTP coplease 
+	SUBJ COMP NEG XJCT OBJ PUNCT
+	some tea 
+	where's the teapot 
+	there 
+	can I have some tea first and then some milk 
+	advtemthen qnsome nmilk 
+	QUANT COORD PUNCT
+	some tea 
+	oh the milk goes in the teapot 
+	no 
+	oh 
+	a tea 
+	oh here's my cup 
+	thankyou 
+	and some milk 
+	and do you have any sugar 
+	yeah see 
+	oh in there 
+	gasps I need a spoon to stir my tea 
+	PUNCT
+	is there a spoon 
+	yeah 
+	where 
+	under the baby 
+	oh under the baby 
+	how do we stir the tea 
+	like that 
+	oh thankyou 
+	would you like some tea too 
+	yeah 
+	would you like me to pour you some 
+	properyou qnsome 
+	PUNCT
+	yeah but this one is broken 
+	partbreakPASTP 
+	that's okay we'll fix it after don't pull it anymore 
+	properit prepafter cmcm moddonegnot vpull properit
+	advanymore 
+	LP AUX NEG COMP OBJ JCT PUNCT
+	don't pull it please 
+	no xxx I put some that on it 
+	oh is that glue now 
+	that's glue 
+	okay do you want me to take the broken one and you'll take the good
+	one 
+	detartthe partbreakPASTP detnumone coordand
+	properyoumodwill vtake detartthe adjgood proindefone 
+	MOD OBJ LINK SUBJ AUX CJCT DET
+	MOD OBJ PUNCT
+	yeah you take the good one 
+	here you have this one and I'll take this one 
+	prosubImodwill vtake detdemthis proindefone 
+	CJCT DET OBJ PUNCT
+	oh and here's a little cookie 
+	ncookie 
+	ank you 
+	cookie and I'll have a little cookie too with my tea 
+	ncookie posttoo prepwith detpossmy ntea 
+	POSTMOD JCT DET POBJ PUNCT
+	drinks mm 
+	what kind of cookie do you have 
+	chocolate 
+	chocolate 
+	mm what kind do I have 
+	vanilla 
+	vanilla 
+	eats can I have another one please 
+	sure there vanilla 
+	oh thankyou can I have a chocolate one too 
+	detnumone advtoo 
+	JCT PUNCT
+	sure 
+	thankyou did you eat your cookie yet eats 
+	conjyet 
+	yeah 
+	mm and your tea is it hot cold or just nice drinks 
+	ncold coordor advjust adjnice 
+	CONJ JCT COORD PUNCT
+	hot 
+	oh so what should we do 
+	if it's too hot what can we do 
+	prosubwe vdo 
+	CJCT PUNCT
+	stir it 
+	stir it a little and then would you like me to blow on it 
+	modwillCOND properyou vlike proobjme prepto nblow prepon
+	properit 
+	CMOD OBJ JCT POBJ JCT POBJ PUNCT
+	maybe I put some milk in it 
+	oh that's a good idea too more milk in it will make it cool 
+	qnmore nmilk prepin properit modwill vmake properit vcool
+	SUBJ NJCT POBJ AUX CPRED SUBJ COMP
+	PUNCT
+	could I have a little bit more milk 
+	nmilk 
+	PUNCT
+	sure 
+	thankyou 
+	drinks did you drink yours yet 
+	yeah 
+	yeah delicious 
+	mm  mm 
+	mm  mm 
+	Mama I'm gonna fix yours in a minute 
+	propossyours prepin detarta nminute 
+	DET POBJ PUNCT
+	you're gonna fix mine in a minute 
+	detarta nminute 
+	POBJ PUNCT
+	please don't stretch it sweetheart 
+	no 
+	I don't want it to break anymore 
+	advanymore 
+	PUNCT
+	Mama this is glue 
+	you're kinda preoccupied with the fact that it's broken eh 
+	detartthe nfact prorelthat properitauxbeS
+	partbreakPASTP coeh 
+	SUBJ AUX CMOD COM PUNCT
+	Mama I will glue it 
+	you're gonna glue it okay 
+	cookay 
+	oh  oh  oh don't go 
+	it is still broken I put some more glue 
+	vputZERO qnsome qnmore nglue 
+	OBJ PUNCT
+	I have an idea you put the glue and then we'll put it over here so
+	the glue can dry and we can play with something else 
+	detartthe nglue coordand advtemthen prosubwemodwill
+	vputZERO properit prepover nhere conjso detartthe nglue
+	modcan vdry coordand prosubwe modcan vplay prepwith
+	proindefsomething postelse 
+	LINK JCT SUBJ AUX CJCT OBJ JCT
+	POBJ LINK DET SUBJ AUX CJCT LINK
+	SUBJ AUX CJCT JCT POBJ PQ PUNCT
+	would you like that 
+	hm 
+	so put the glue on the cup 
+	there we go and we're gonna put it right over here 
+	partgoPRESPinfto vputZERO properit advright prepover
+	nhere 
+	COMP OBJ JCT JCT POBJ PUNCT
+	let's play with something else 
+	look 
+	what else would you like to play with 
+	vplay prepwith 
+	PUNCT
+	do you wanna play with the blocks or the babies 
+	nblock-PL coordor detartthe nbaby-PL 
+	CONJ DET COORD PUNCT
+	xxx little baby 
+	you wanna play with the little baby what's her name 
+	nbaby cmcm prointwhatcopbeS detpossher nname 
+	LP SUBJ CJCT DET PRED PUNCT
+	Molasses 
+	Molasses 
+	can I have this baby then 
+	and what's her name gonna be 
+	partgoPRESPinfto copbe 
+	PUNCT
+	bo bu 
+	bring that over here onto the  onto the blanket 
+	remember we hafta stay on the blanket 
+	nblanket 
+	PUNCT
+	Mama I put this baby to sleep 
+	nsleep 
+	gasps ah I'm gonna rock my baby 
+	nbaby 
+	PUNCT
+	wah	ah 
+	what can we get her 
+	milk 
+	milk 
+	baby milk 
+	thankyou 
+	and gulp  gulp  gulp now she's had her milk what do we needta
+	do 
+	detpossher nmilk prointwhat moddo prosubwe vneedinfto
+	vdo 
+	OBJ AUX SUBJ COMP INF COMP PUNCT
+	burp her 
+	burp her 
+	how do I do that 
+	just top  top bottom middle  middle  middle 
+	you gonna sing it with me 
+	proobjme 
+	top  top bottom  bottom middle  middle  middle again 
+	top  top bottom  bottom middle  middle  middle 
+	top  top bottom  bottom middle  middle  middle 
+	top  top bottom  bottom middle  middle  middle 
+	burp 
+	oh she had her burp 
+	is she happy now 
+	yeah 
+	yeah so what's she gonna do if she's happy maybe she can play 
+	partgoPRESPinfto vdo conjif prosubshecopbeS adjhappy
+	advmaybe prosubshe modcan vplay 
+	LINK SUBJ CJCT PRED JCT SUBJ AUX
+	ENUM PUNCT
+	we'll pretend that she's your little brother 
+	detpossyour adjlittle nbrother 
+	PRED PUNCT
+	should we pretend that's Aiden 
+	no 
+	no 
+	this is my baby brother 
+	that's your baby brother 
+	and he's sleeping right 
+	yeah 
+	so is this you 
+	yeah 
+	that can be Laura if you like 
+	preplike 
+	what can Laura play with 
+	-um she needs to comb her hair 
+	that's a great idea 
+	very good 
+	what does she have in her hair 
+	nhair 
+	ribbons 
+	how about we try to tie them 
+	would you like me to do that 
+	prodemthat 
+	yeah 
+	yeah 
+	tie  tie your ribbons 
+	how do we do it 
+	like this 
+	yeah 
+	uhoh they're little I don't know if Mommy can do this 
+	moddonegnot vknow compif npropMommy modcan vdo detdemthis
+	LINK SUBJ AUX COMP OBJ PUNCT
+	there you go 
+	the other side too or just one side 
+	nside 
+	COORD PUNCT
+	yeah two more sides 
+	two more sides 
+	then I comb it 
+	yeah 
+	what are we gonna name this dolly if that one's name is Molasses
+	what's this one's name gonna be 
+	detdemthis ndoll-DIM compif compthat proindefonecopbeS
+	nname copbeS npropMolasses prointwhatcopbeS prodemthis
+	proindefoneauxbeS nname partgoPRESPinfto copbe 
+	SUBJ LINK SUBJ CMOD PRED CMOD PRED
+	LINK CMOD PRED PRED NJCT PRED
+	XMOD INF COMP PUNCT
+	no this is baby Aiden 
+	oh that's baby Aiden I forgot I'm sorry 
+	vforgetPAST prosubIcopbeS adjsorry 
+	COMP PRED PUNCT
+	and what about this one 
+	this is called me 
+	oh this is   this is Laura 
+	mhm 
+	does Laura like to sing songs 
+	maybe we could sing to her 
+	yeah 
+	what would you like to sing 
+	-um ah ha 
+	what 
+	that 
+	oh that's Laura's favorite Doodoo but we're sposta be being playing
+	with these toys for now 
+	npropDoodoo conjbut prosubweauxbePRES
+	partsupposePASTPinfto copbe nbeing partplay-PRESP prepwith
+	detdemthese ntoy-PL prepfor advtemnow 
+	AUX CJCT INF COMP PRED XMOD JCT
+	DET POBJ JCT POBJ PUNCT
+	Doodoo is having a nap 
+	oh a nap 
+	yeah Doodoo's having a nap 
+	put the blanket on Doodoo and we'll play with her after 
+	prosubwemodwill vplay prepwith proobjher advtemafter 
+	CJCT JCT POBJ JCT PUNCT
+	no 
+	no 
+	I will pu I will put it on baby Aiden 
+	nbaby npropAiden 
+	POBJ PUNCT
+	oh on baby Aiden because you love your brother right 
+	detpossyour nbrother coright 
+	OBJ COM PUNCT
+	and here Laura can have a nap with baby Aiden 
+	prepwith nbaby npropAiden 
+	MOD POBJ PUNCT
+	alright 
+	is that nice 
+	what can we sing to them if they're going to sleep 
+	prosubtheyauxbePRES partgo-PRESP prepto nsleep 
+	AUX CJCT JCT POBJ PUNCT
+	what's a bedtime song 
+	RockAByeBaby 
+	RockAByeBaby 
+	rock a bye baby in the 
+	tree top 
+	when the 
+	wind blows the cradle will rock 
+	when the bell breaks the cradle will fall and down will come baby
+	cradle and 
+	modwill vfall coordand advdown modwill vcome nbaby ncradle
+	coordand 
+	CONJ JCT AUX COORD MOD OBJ CONJ
+	PUNCT
+	when the bell breaks the cradle will fall and down will come baby
+	cradle and all 
+	modwill vfall coordand advdown modwill vcome nbaby ncradle
+	coordand advall 
+	CONJ JCT AUX COORD MOD OBJ CONJ
+	COORD PUNCT
+	that was very nice I think they're sleeping now 
+	prosubtheyauxbePRES partsleep-PRESP advtemnow 
+	COMP JCT PUNCT
+	while they're sleeping why don't we make them a little tower 
+	moddonegnot prosubwe vmake proobjthem detarta adjlittle
+	ntower 
+	COMP OBJ DET MOD OBJ PUNCT
+	yeah 
+	is that a good idea 
+	the baby's sleep let's do a tower 
+	detarta ntower 
+	PUNCT
+	let's do a tower 
+	which blocks are we gonna use 
+	partgoPRESPinfto vuse 
+	I will turn on their I will turn on their lamps 
+	modwill vturn prepon detposstheir nlamp-PL 
+	CPOBJ JCT DET POBJ PUNCT
+	oh you're turning on their lamps 
+	detposstheir nlamp-PL 
+	okay put them to bed 
+	goodnight babies 
+	now come over here 
+	ssh 
+	yeah we hafta play quietly now because babies are sleeping right 
+	advtemnow conjbecause nbaby-PL auxbePRES partsleep-PRESP
+	coright 
+	SUBJ AUX CJCT COM PUNCT
+	xxx 
+	okay they're in another room we're gonna put this over them they're
+	in another room now okay 
+	prosubweauxbePRES partgoPRESPinfto partputPASTP
+	detdemthis advover proobjthem prosubtheycopbePRES prepin
+	qnanother nroom advtemnow cookay 
+	CMOD INF XJCT DET JCT SUBJ SUBJ
+	COMP JCT QUANT POBJ NJCT COM
+	PUNCT
+	so we can talk normal again they're in their beds 
+	prosubtheycopbePRES prepin detposstheir nbed-PL 
+	JCT DET POBJ PUNCT
+	let's build something with these blocks 
+	detdemthese nblock-PL 
+	what can we make 
+	a tractor 
+	oh that tractor's going to   going to pu going to have the
+	blocks in it 
+	cmcm partgo-PRESP infto vhave detartthe nblock-PL prepin
+	properit 
+	INF COMP DET OBJ JCT POBJ PUNCT
+	yeah 
+	okay how many blocks do you see 
+	one two 
+	two in the tractor that's excellent 
+	adjexcellent 
+	PUNCT
+	how many are here 
+	I don't think they fit 
+	maybe if we stand them up 
+	maybe we can put more if we stand them up 
+	vstand proobjthem advup 
+	OBJ JCT PUNCT
+	good 
+	can we fit another one 
+	excellent how many are in the truck now 
+	detartthe ntruck advtemnow 
+	PUNCT
+	four 
+	four very good 
+	oh that truck is full 
+	oh no  no  no if it hits a bump oh they all fell down 
+	prosubthey postall vfallPAST advdown 
+	SUBJ PQ ROOT JCT PUNCT
+	oh xxx 
+	yeah  yeah let's go get another load let's see how many we can
+	fit this time 
+	vletproobjus vsee prointhow qnmany prosubwe modcan
+	vfitZERO detdemthis ntime 
+	OBJ COMP LINK QUANT SUBJ AUX COMP
+	DET OBJ PUNCT
+	one 
+	two 
+	three 
+	here lets put them like that so we can fit them all 
+	conjso prosubwe modcan vfitZERO proobjthem proindefall 
+	AUX CJCT OBJ OBJ PUNCT
+	three and what about the other ones 
+	proindefone-PL 
+	PUNCT
+	four 
+	can we fit the last one 
+	five 
+	five very good 
+	now where's the tractor gonna go 
+	partgoPRESPinfto vgo 
+	PUNCT
+	to a farm 
+	oh to the farm that's a great idea 
+	adjgreat nidea 
+	PRED PUNCT
+	where's the farm 
+	over there 
+	over here remember we hafta stay on the blanket 
+	prepon detartthe nblanket 
+	DET POBJ PUNCT
+	what is the tractor going to do with the blocks 
+	vdo prepwith detartthe nblock-PL 
+	DET POBJ PUNCT
+	dump it all down 
+	how is   how is the tractor going to do that 
+	infto vdo prodemthat 
+	OBJ PUNCT
+	you show me please 
+	very good 
+	now the farmer needs us to make a gate 
+	vmake detarta ngate 
+	OBJ PUNCT
+	can we make a gate using these blocks 
+	detdemthese nblock-PL 
+	PUNCT
+	yeah 
+	how are we gonna do that 
+	prodemthat 
+	you show me 
+	one 
+	yeah 
+	two 
+	yeah 
+	three 
+	good 
+	four 
+	oh good what else 
+	five 
+	five 
+	uhoh that one's gonna fall let's put it at the bottom 
+	vfall vletproobjus vputZERO properit prepat detartthe
+	nbottom 
+	OBJ COMP OBJ JCT DET POBJ PUNCT
+	six 
+	six 
+	seven 
+	seven 
+	if we stand them up we'll fit them all 
+	vfitZERO proobjthem proindefall 
+	OBJ OBJ PUNCT
+	seven what was after seven 
+	eight 
+	eight 
+	and what's that last one 
+	proindefone 
+	nine 
+	nine 
+	very good 
+	baby's still asleep sh 
+	oh the babies are still sleeping you're right we hafta be quiet 
+	properyoucopbePRES adjright prosubwe modhaveinfto copbe
+	adjquiet 
+	PRED SUBJ AUX INF CMOD PRED PUNCT
+	just like when your brother's sleeping we can't play too loud 
+	partsleep-PRESP prosubwe modcannegnot vplay advtoo adjloud
+	AUX NEG ROOT JCT JCT PUNCT
+	nine 
+	nine 
+	what shapes do we see 
+	what shapes do you see here 
+	circle  circle  circle square  square  square rectangle
+	 rectangle  rectangle 
+	excellent what color are they do you know your colors 
+	properyou vknow detpossyour ncolor-PL 
+	DET OBJ PUNCT
+	mm yellow  yellow  yellow orange  orange  orange 
+	orange blue  blue  blue 

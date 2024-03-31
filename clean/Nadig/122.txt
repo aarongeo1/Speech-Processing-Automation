@@ -1,0 +1,362 @@
+	look 
+	oh look she has a baby 
+	look 
+	she has a baby sister 
+	look 
+	the horses change places 
+	oh yeah it's a hologram 
+	the hologram 
+	where they ah I think that's what it's called where in one n
+	like  like this in one plane it looks like one thing and then if
+	you change the angle the picture changes too 
+	prodemthatcopbeS prointwhat properitauxbeS
+	partcall-PASTP cmcm prorelwhere advin detnumone cmcm
+	preplike prodemthis advin detnumone nplane properit
+	vlook-S preplike detnumone nthing coordand advtemthen
+	conjif properyou vchange detartthe nangle detartthe
+	npicture vchange-S advtoo 
+	LINK SUBJ AUX CPRED LP LINK JCT
+	INCROOT LP JCT DET JCT QUANT
+	POBJ SUBJ CMOD JCT QUANT POBJ LINK
+	JCT LINK SUBJ CJCT DET OBJ DET
+	SUBJ CJCT JCT PUNCT
+	we have some pictures like that 
+	isn't that cool 
+	that's like 
+	xxx holograms 
+	that's like on your  on your cup that your milk cup 
+	compthat detpossyour nmilk ncup 
+	MOD PRED PUNCT
+	and xxx book 
+	and his ocean book yeah let's ah 
+	coah 
+	PUNCT
+	play with the blocks 
+	what can we make out of the blocks 
+	nblock-PL 
+	PUNCT
+	something that's very  very small 
+	something that's very  very small 
+	no 
+	what do you wanna make 
+	wanna make a bridge 
+	here and this little girl's gonna play with the baby 
+	partgoPRESPinfto vplay prepwith detartthe nbaby 
+	COMP JCT DET POBJ PUNCT
+	and they're gonna have a she's gonna make a teaparty 
+	detarta cmcm prosubsheauxbeS partgoPRESPinfto vmake
+	detarta nteaparty 
+	SUBJ AUX CJCT INF COMP DET OBJ
+	PUNCT
+	xxx my blocks 
+	oh that's nice 
+	and xxx my blocks 
+	yeah she sees but she's taking a video 
+	parttake-PRESP detarta nvideo 
+	OBJ PUNCT
+	what i what is it 
+	xxx 
+	that's nice 
+	would you like to have some tea 
+	we're gonna have tea together 
+	advtogether 
+	there's no tea 
+	here let's  here let's pour some 
+	there's no tea 
+	I'm gonna pour some tea 
+	there's no tea in the teapot 
+	nnteanpot 
+	PUNCT
+	oh we hafta it's pretend 
+	adjpretend 
+	PUNCT
+	drinks 
+	here let's pour some   let's pour some more 
+	and I'm gonna take some too 
+	proindefsome advtoo 
+	PUNCT
+	drinks 
+	mm that's yummy tea 
+	mm that's really  really tasty 
+	mm we need some cake with that tea 
+	PUNCT
+	can I have some cake 
+	can you make me a cake 
+	sh turn off the lights 
+	why 
+	because 
+	why are we turning off the lights 
+	detartthe nlight-PL 
+	because -um 
+	what 
+	I don't know why 
+	you don't know why laughs 
+	Stephen you're funny 
+	hm now what'd you make 
+	xxx happy birthday to you 
+	is that a birthdaycake 
+	happy birthday to you happy birthday happy birthday  happy
+	birthday to you sings 
+	nnbirthnday prepto properyou 
+	POBJ PUNCT
+	oh 
+	laughs 
+	maybe it's the baby's birthday 
+	nnbirthnday 
+	baby birthday Zaza  Zaza 
+	like your w 
+	Zaza 
+	okay that's not Zoey 
+	Zaza kisses 
+	yeah you like to 
+	kisses 
+	yeah you like to xxx 
+	ew Zozo 
+	oh  oh xxx 
+	you're holding Zoey 
+	she's really small 
+	does she   does she have some milk 
+	oh bo ts 
+	mm 
+	I think she likes it she's not xxx 
+	prosubshecopbeS negnot 
+	PUNCT
+	she's not spitting it out 
+	do you wanna sing her a song 
+	nsong 
+	PUNCT
+	na ah 
+	don't put it in her eye 
+	laughs just kidding 
+	I know it but it's not 
+	oh her hat comes off 
+	he looks like  like giddybom	oh now he looks like giddybom	xxx 
+	laughs 
+	look 
+	yeah 
+	no you see her arms and legs move too 
+	vmove advtoo 
+	JCT PUNCT
+	xxx she can do karate 
+	she can walk 
+	maybe she can do yoga 
+	or maybe this dollie can   can you show me the yoga moves with
+	this dollie 
+	properyou vshow proobjme detartthe nyoga vmove-S prepwith
+	detdemthis ndoll-DIM 
+	OBJ DET SUBJ COMP JCT DET POBJ
+	PUNCT
+	which yoga moves were you doing 
+	partdo-PRESP 
+	she's thinking 
+	she's thinking hm 
+	he's putting her thumb in her mouth 
+	detpossher nmouth 
+	PUNCT
+	like giddyom	yes 
+	oh 
+	can you show 
+	he picking her nose 
+	oh Stephen 
+	can you show me the yoga moves on her that you were doing 
+	prepon proobjher compthat properyou auxbePAST partdo-PRESP
+	POBJ LINK SUBJ AUX XJCT PUNCT
+	no 
+	what are you gonna make 
+	maybe you should we should bring the blocks somewhere 
+	vbring detartthe nblock-PL advsomewhere 
+	OBJ JCT PUNCT
+	oh that's a good idea 
+	okay 
+	let's see if it's gonna topple over 
+	partgoPRESPinfto vtopple advover 
+	COMP JCT PUNCT
+	let's see how far we can move the truck before it   it ah 
+	vmove detartthe ntruck conjbefore cmcm properit coah 
+	DET OBJ LINK LP SUBJ CJCT PUNCT
+	I don't think that one's gonna fit 
+	partgoPRESPinfto vfitZERO 
+	INF COMP PUNCT
+	ah 
+	laughs oh try again 
+	try another one 
+	why they not dumping over 
+	hm that's as far as it goes doesn't go further than that 
+	vgo-S cmcm moddoSnegnot vgo advfurther prepthan
+	prodemthat 
+	LP AUX NEG COMP JCT JCT POBJ
+	PUNCT
+	let's clean this place up 
+	I think we still have a few more minutes laughs 
+	qnmore nminute-PL 
+	OBJ PUNCT
+	tea for two 
+	tea for two 
+	do you want some sugar in your tea 
+	ntea 
+	PUNCT
+	no thanks sugar's not good for me 
+	proobjme 
+	PUNCT
+	it's not good for you 
+	okay oh  oh  oh  oh  oh sing me something 
+	which song 
+	sings xxx in your  your teaparty eat qui drink quietly 
+	did you just make up that song 
+	ts ts 
+	oh don't put that in your mouth 
+	nmouth 
+	PUNCT
+	here can I have some please 
+	look  look I found a hole 
+	yeah that's where we 
+	can you see 
+	yeah can I have some tea please 
+	yeah ts 
+	thankyou drinks 
+	mm 
+	mm I'm gonna   I'm gonna take some cake on my plate 
+	ncake prepon detpossmy nplate 
+	OBJ JCT DET POBJ PUNCT
+	me too 
+	that's a really big piece of cake what kind of cake is that 
+	prepof vcake prointwhat nkind prepof ncake copbeS
+	prodemthat 
+	LINK SUBJ NJCT POBJ COMP PRED PUNCT
+	blu blueberry cake 
+	blueberry cake 
+	mine is -um carrot cake 
+	I like carrot cake a lot 
+	and  and  and that is a lemon cake 
+	oh the lemon cake do you like lemon cake 
+	nlemon ncake 
+	MOD INCROOT PUNCT
+	eats 
+	lemon cake is really good too 
+	mm cake is really good with tea 
+	now  now I gonna eat the lemon cake eats 
+	nlemon ncake 
+	PUNCT
+	can I have some of your carrot cake please 
+	ncarrot ncake vplease 
+	COMP PUNCT
+	sure you've room after eating all that cake 
+	qnall prodemthat vcake 
+	SUBJ POBJ PUNCT
+	xxx cake please 
+	you want more carrot cake 
+	you're gonna eat all you're gonna have a tummy ache 
+	properyouauxbePRES partgoPRESPinfto vhave detarta
+	ntum-DIM nache 
+	AUX XJCT INF COMP DET MOD OBJ
+	PUNCT
+	no I'm not 
+	you're not 
+	oh yeah eats laughs 
+	you ate all my cake 
+	laughs don't worry you can make another one 
+	proindefone 
+	PUNCT
+	I can make another one 
+	here you can have more blueberry cake 
+	ncake 
+	alright thankyou 
+	xxx 
+	and I get  and I get 
+	is there   is there frosting on the cake 
+	PUNCT
+	 carrot cake and you can have my you can have my cake 
+	properyou modcan vhave detpossmy ncake 
+	AUX COMP DET OBJ PUNCT
+	that other piece is for both of us 
+	proobjus 
+	PUNCT
+	is there frosting on the cake 
+	do you like frosting 
+	this piece is for you this piece is for me this piece is for both
+	of us okay 
+	npiece copbeS prepfor proobjme detdemthis npiece copbeS
+	prepfor qnboth prepof proobjus cookay 
+	JCT POBJ DET SUBJ PRED JCT QUANT
+	NJCT POBJ POBJ PUNCT
+	okay so we're gonna share this one 
+	detdemthis proindefone 
+	OBJ PUNCT
+	yeah eats there you go 
+	eats 
+	eats 
+	eats 
+	eats 
+	eats 
+	now we're gonna eat together eats 
+	advtogether 
+	eats well thankyou for sharing with me 
+	I was the winner 
+	why is there does there hafta be a winner 
+	modhaveinfto copbe detarta nwindv-AGT 
+	ROOT DET PRED PUNCT
+	okay I know who's gonna be the winner 
+	partgoPRESPinfto copbe detartthe nwindv-AGT 
+	COMP DET PRED PUNCT
+	there doesn't hafta be a winner 
+	nwindv-AGT 
+	PUNCT
+	ready 
+	a winner of what 
+	eating 
+	no  no  no  no  no there's no 
+	eats 
+	no  no 
+	whoever eats eats 
+	no  no there's not a contest to see who eats more 
+	vsee prointwho veat-S advmore 
+	SUBJ COMP JCT PUNCT
+	no I'm not playing that game 
+	ngame 
+	laughs 
+	I'm not playing that game 
+	I'm gonna I'm going to comb the dollie's hair 
+	partgo-PRESP infto vcomb detartthe adjdolldn-DIM-POSS nhair
+	INF COMP DET MOD OBJ PUNCT
+	can I help 
+	yes 
+	I wanna 
+	you know what these are called 
+	partcall-PASTP 
+	what 
+	pigtails 
+	why 
+	that's what they're called 
+	partcall-PASTP 
+	I wanna brush them 
+	oh be careful 
+	do do do da 
+	wah	oh look the bottle can fit in her mouth 
+	detpossher nmouth 
+	POBJ PUNCT
+	xxx 
+	because there's a hole in her mouth 
+	detpossher nmouth 
+	PUNCT
+	yeah 
+	so we could put the milk there 
+	she's also a baby 
+	xxx air at me 
+	don't  don't  don't do that 
+	xxx 
+	you feel the air 
+	can you put the hat back on the baby please 
+	detartthe nbaby vplease 
+	SUBJ CJCT PUNCT
+	yes 
+	put the hat back on the baby 
+	oh that baby 
+	I don't think i oh you can try to make it fit 
+	vtry infto vmake properit vfitZERO 
+	ENUM INF COMP SUBJ COMP PUNCT
+	there 
+	baby  baby 
+	www 
+	bye hologram 
+	laughs is there anything else 
+	no 

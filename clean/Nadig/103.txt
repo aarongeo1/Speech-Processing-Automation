@@ -1,0 +1,366 @@
+	but the the horsie on the phone 
+	there's a horsie on the phone eh 
+	nphone coeh 
+	PUNCT
+	they xxx animals 
+	oh yeah look when you turn you move it 
+	properyou vmove properit 
+	ROOT OBJ PUNCT
+	yeah 
+	it's a there's a brown horse and then there's a black horse 
+	detarta adjbrown nhorse coordand advtemthen
+	proexisttherecopbeS detarta nblack nhorse 
+	PRED LINK JCT SUBJ CMOD DET MOD
+	PRED PUNCT
+	hey 
+	yeah 
+	but here baby 
+	there's a baby yeah 
+	ah 
+	there's a comb for the baby 
+	nbaby 
+	and a bottle 
+	two babies hm 
+	you feeling the baby 
+	yeah 
+	yeah she gonna go for a nap soon 
+	nnap advsoon 
+	JCT PUNCT
+	xxx having her milk 
+	whoopsie laughs 
+	maybe we should put on the floor because on the floor i the
+	blanket's not as sturdy as the floor 
+	nfloor conjbecause prepon detartthe nfloor cmcm detartthe
+	nblanketcopbeS negnot prepas adjsturdy prepas detartthe
+	nfloor 
+	JCT DET POBJ LP DET SUBJ CJCT
+	NEG COORD PRED JCT DET POBJ PUNCT
+	wow 
+	oh I don't think xxx 
+	but I 
+	oh that's a good idea 
+	xxx 
+	I think you hafta put one on the orange one and then it'll fit 
+	proindefone prepon detartthe norange detnumone coordand
+	advtemthen properitmodwill vfitZERO 
+	DET POBJ OBJ CONJ JCT SUBJ AUX
+	COORD PUNCT
+	you put two on the blue and one on the orange then it's gonna fit 
+	coordand detnumone prepon detartthe norange advtemthen
+	properitauxbeS partgoPRESPinfto vfitZERO 
+	JCT DET POBJ JCT SUBJ AUX CMOD
+	INF COMP PUNCT
+	I want a side one there and one there 
+	detnumone nthere 
+	COORD PUNCT
+	yeah 
+	that's it goodjob 
+	goodjob 
+	wow what a you made a tall building eh 
+	detarta adjtall nbuilding coeh 
+	OBJ COM PUNCT
+	yeah 
+	yeah 
+	I did make that 
+	I know 
+	should we have a teaparty 
+	yeah 
+	yeah lets have a tea par 
+	whoopsie we already spilled the tea uhoh 
+	couhoh 
+	xxx more 
+	oh thank you 
+	can I have some 
+	okay 
+	I'm gonna put some sugar you want some sugar 
+	properyou vwant qnsome nsugar 
+	COMP QUANT OBJ PUNCT
+	yeah 
+	sh sh 
+	I want some that oh no 
+	I'm gonna drink that one then 
+	proindefone advtemthen 
+	PUNCT
+	no I want xxx 
+	okay spill it out and get a new one 
+	adjnew proindefone 
+	OBJ PUNCT
+	sips 
+	mm that's good tea 
+	shall we have some dessert with our tea 
+	detpossour ntea 
+	PUNCT
+	maybe some cookies 
+	yeah shall we have some plates 
+	yeah 
+	here's the plates 
+	one for me one for you 
+	da 
+	oh some cookies 
+	mm eats 
+	those are what kind of cookie are those 
+	ncookie copbePRES prodemthose 
+	PRED PUNCT
+	I know 
+	chocolatechip 
+	well mine were chocolatechip did you have chocolatechip too 
+	vhave nchocolatechip advtoo 
+	JCT PUNCT
+	yeah 
+	sips mm good tea 
+	uhoh I think the baby's waking up 
+	partwake-PRESP advup 
+	PUNCT
+	sips 
+	baby's waking up 
+	ha 
+	sh wanna see if she can sit down with us during the teaparty 
+	advdown prepwith proobjus cmcm prepduring detartthe
+	nteaparty 
+	JCT JCT POBJ LP JCT DET POBJ
+	PUNCT
+	yeah she is 
+	okay 
+	there you go 
+	oh she's a little wobbly this baby 
+	detdemthis nbaby 
+	PUNCT
+	there okay 
+	okay there okay 
+	did you see what this is 
+	xxx 
+	sips mm thankyou 
+	sips 
+	thankyou for inviting me 
+	sips 
+	sips 
+	sips 
+	good sharing 
+	okay and now xxx talk on the phone and see who's there 
+	nphone coordand vsee prorelwhocopbeS nthere 
+	POBJ CONJ COORD LINK COMP PRED PUNCT
+	okay you talk on the phone and see who's there 
+	vsee prorelwhocopbeS nthere 
+	LINK COMP PRED PUNCT
+	the horsie 
+	the horsie 
+	what's the horsie calling about 
+	advabout 
+	ah here you go 
+	it's for me 
+	hello 
+	hi horsie 
+	oh yes 
+	oh yeah 
+	yeah that was Michale who answered the phone 
+	vanswer-PAST detartthe nphone 
+	PUNCT
+	yeah 
+	oh you wanna know when Michael's gonna go for a horseback ride 
+	npropMichaelauxbeS partgoPRESPinfto vgo prepfor
+	detarta nnhorsenback nride 
+	COMP INF COMP JCT DET MOD POBJ
+	PUNCT
+	I don't know I'll hafta ask him if he if he's ready for that 
+	vask proobjhim conjif prosubhe cmcm conjif
+	prosubhecopbeS vready prepfor prodemthat 
+	COMP OBJ LINK SUBJ LP LINK SUBJ
+	CJCT PRED JCT POBJ PUNCT
+	maybe when he sees you because you're so big he might be afraid
+	of you 
+	properyoucopbePRES advso adjbig prosubhe modmight copbe
+	adjpredafraid prepof properyou 
+	JCT PRED SUBJ AUX ROOT PRED NJCT
+	POBJ PUNCT
+	okay I'll let you know 
+	okay bye 
+	the horsie wants to know when you're gonna go for a horseback ride
+	properyouauxbePRES partgoPRESPinfto vgo prepfor detarta
+	nnhorsenback nride 
+	COMP INF COMP JCT DET MOD POBJ
+	PUNCT
+	horses are big when you see them in person 
+	proobjthem prepin nperson 
+	POBJ PUNCT
+	they're really big 
+	uhoh what if you put the yellow ones down first 
+	nyellow cmcm none-PL advdown advfirst 
+	OBJ JCT NJCT PUNCT
+	and build on top of them 
+	oh it's gonna go tall now 
+	advtemnow 
+	PUNCT
+	oh ha yeah see 
+	oh one more 
+	oh I wanna put this one on top 
+	proindefone prepon ntop 
+	JCT POBJ PUNCT
+	woah let's make the tallest tower ever 
+	advever 
+	PUNCT
+	just put them all on top of each other 
+	qneach qnother 
+	POBJ PUNCT
+	oh it's getting wobbly 
+	laughs 
+	laughs oh it's wobbling some more slowly 
+	advslowdadj-LY 
+	PUNCT
+	de 
+	gently yeah put it down gently 
+	advgentledadj-LY 
+	oh we did it 
+	now what are we gonna do 
+	partgoPRESPinfto vdo 
+	PUNCT
+	knock down 
+	knock it down 
+	ah knock it down ha ha 
+	ha ha 
+	hey 
+	she's thirsty what about the other baby 
+	detartthe qnother nbaby 
+	POBJ PUNCT
+	yeah 
+	 her little sister 
+	na 
+	no she's still sleeping 
+	xxx wake up 
+	the baby woke up 
+	maybe you should call Nana 
+	okay 
+	and tell Nana happy mother's day 
+	we'll see you after 
+	but the horse xxx 
+	the horse is still there 
+	it's just a picture of the horsie 
+	detartthe nhorse-DIM 
+	PUNCT
+	that's the horsie's phone maybe 
+	advmaybe 
+	can you get it ou 
+	the horsie 
+	what happened 
+	you shake it and what happens 
+	he's still there laughs 
+	mm 
+	put the phone in your pocket 
+	does it fit in your pocket or your pocket too small 
+	coordor detpossyour npocket advtoo adjsmall 
+	COORD JCT POSTMOD PUNCT
+	oh your pocket's too small 
+	xxx horse 
+	yeah that's what I said when you move it turns to a different one 
+	conjwhen properyou vmove properit vturn-S prepto detarta
+	adjdifferent proindefone 
+	CJCT SUBJ COMP JCT DET MOD POBJ
+	PUNCT
+	one's a brown one's a black one 
+	detarta nblack proindefone 
+	ROOT PUNCT
+	hi hey 
+	now what do you wanna do 
+	whoopsie laughs 
+	woah careful 
+	ah careful 
+	gentle  gentle you hafta be gentle 
+	oh laughs you just did it 
+	I'm gonna knock it down 
+	advdown 
+	ah screams 
+	ah 
+	ah oh laughs 
+	I wanna xxx knock it down 
+	I wanna knock it down 
+	you wanted to knock it down 
+	laughs 
+	laughs 
+	it's looking a little lopsided that tower 
+	adjlopsided detdemthat ntower 
+	PUNCT
+	yeah 
+	it's gonna fall laughs 
+	it's gonna fall what's under there 
+	prointwhatcopbeS prepunder nthere 
+	JCT POBJ PUNCT
+	try again 
+	oh boy it's gonna fall 
+	it's gonna fall oh laughs 
+	get your be very careful 
+	gentle 
+	ah goodjob 
+	ah yeah one went over on the other side of the chair 
+	qnother nside prepof detartthe nchair 
+	POBJ NJCT DET POBJ PUNCT
+	I knock it down 
+	you knocked it down 
+	you beat me to it 
+	yeah 
+	beat me to it 
+	xxx and then I tried to knock it down and cass 
+	properit advdown coordand 
+	CONJ PUNCT
+	crash 
+	crash yeah 
+	but all our tools are out 
+	yeah should we ah what should we do with them 
+	prosubwe vdo prepwith proobjthem 
+	ENUM JCT POBJ PUNCT
+	play them 
+	play with them 
+	what do you wanna play now 
+	xxx a dumptruck 
+	there's a dumptruck yeah gonna play with the dum 
+	partgoPRESPinfto vplay prepwith detartthe 
+	JCT POBJ PUNCT
+	put   put some stuff in the dumptruck 
+	nndumpntruck 
+	dump it out 
+	ne ha 
+	oh laughs 
+	ne dump 
+	xxx dump xxx 
+	ah 
+	time to clean up 
+	the timer went off time to clean up okay 
+	advup adjokay 
+	JCT PUNCT
+	I don't wanna 
+	laughs 
+	cries wanna 
+	it's okay we'll play with your other toys honey 
+	detpossyour qnother ntoy-PL nhoney 
+	QUANT MOD POBJ PUNCT
+	we're almost done 
+	no these toys 
+	well we have all these things too sweetheart 
+	nadjsweetnheart 
+	PUNCT
+	but I wanna play them 
+	yeah but Jesse's gonna ask us some questions 
+	proobjus qnsome nquestion-PL 
+	QUANT OBJ PUNCT
+	oh 
+	and then we'll play with your other stuff okay 
+	detpossyour qnother nstuff adjokay 
+	POBJ POSTMOD PUNCT
+	xxx these 
+	these 
+	well let's clean them up first answer the questions and we'll see
+	if we can play with them again okay 
+	nanswer detartthe nquestion-PL coordand prosubwemodwill
+	vsee conjif prosubwe modcan vplay prepwith proobjthem
+	advtemagain adjokay 
+	DET OBJ LINK SUBJ AUX CJCT LINK
+	SUBJ AUX COMP JCT SUBJ JCT POBJ
+	PUNCT
+	but I wanna play 
+	maybe he has other stuff 
+	see 
+	but I wanna I want 
+	yeah well we're gonna hafta put these ones away first come on 
+	modhaveinfto vputZERO detdemthese none-PL advaway advfirst
+	vcome advon 
+	COMP DET OBJ JCT JCT COMP JCT PUNCT
+	all the blocks 
+	goodjob 

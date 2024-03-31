@@ -1,0 +1,304 @@
+	xxx 
+	truck is gonna pick up the blocks 
+	nblock-PL 
+	PUNCT
+	is the trucks gonna pick up the blocks 
+	detartthe nblock-PL 
+	POBJ PUNCT
+	xxx 
+	xxx no hands 
+	xxx hands 
+	xxx blocks 
+	its okay 
+	yeah like that 
+	wow you building the castle on the blo on the  on the truck
+	detartthe cmcm prepon detartthe ntruck 
+	JCT DET POBJ PUNCT
+	yeah 
+	careful 
+	okay where's the truck taking the castle 
+	detartthe ncastle 
+	PUNCT
+	to the fairy land 
+	to the fairy land laughs 
+	to the fairy land okay laughs 
+	oh laughs calm down Malfoy 
+	can I make a tower there 
+	yeah can you come here sit next to Mommy baby 
+	npropMommy nbaby 
+	MOD POBJ PUNCT
+	can we build it here 
+	the tower 
+	xxx 
+	want Mommy to help you 
+	no  no hands please 
+	building a tower 
+	what kind of tower 
+	building 
+	a building Malfoy 
+	calm down 
+	like this 
+	oo  
+	okay you like my tower 
+	no 
+	yeah 
+	okay go ahead what are we gonna do now 
+	partgoPRESPinfto vdo advtemnow 
+	COMP JCT PUNCT
+	crash 
+	uhoh laughs we're gonna crash 
+	I'm drive 
+	don't go too far 
+	I want you to stay here 
+	stay here with Mommy 
+	ch ch ah psh 
+	oh laughs oh  oh okay come here calm down 
+	PUNCT
+	calm down 
+	a tower 
+	another tower 
+	another tower 
+	let's see how tall I can make the tower 
+	vmake detartthe ntower 
+	DET OBJ PUNCT
+	hm put that one here 
+	uhoh 
+	Malfoy calm down 
+	calm down 
+	you want Mommy to build the tower 
+	okay wanna give me the yellow -uh block 
+	adjyellow nblock 
+	OBJ PUNCT
+	okay 
+	thankyou 
+	hm now gimme a blue one 
+	thankyou 
+	hm another blue one 
+	laughs gimme an orange one 
+	and another blue one 
+	do you wanna try putting whoops laughs 
+	cowhoops 
+	PUNCT
+	it fell down Malfoy 
+	I don't want it to fall down 
+	PUNCT
+	I know but you know when it gets too big like that it falls down
+	it's not very sturdy 
+	vget-S advtoo adjbig preplike prodemthat properit vfall-S
+	prepdown properitcopbeS negnot advvery adjsturdy 
+	CJCT JCT JCT JCT POBJ SUBJ COMP JCT
+	POBJ CJCT NEG JCT PRED PUNCT
+	Mommy  Mommy let's make a gate 
+	a gate 
+	for the  for the tractor 
+	that's a gate 
+	okay there's the gate 
+	take this block 
+	oh there's another one grunts okay 
+	adjokay 
+	should we use teacups too 
+	laughs what do you think 
+	teacups are not blocks 
+	no but we can pretend right 
+	PUNCT
+	no hands 
+	it's going in the tunnel Mommy 
+	npropMommy 
+	okay in the tunnel 
+	psh ah ah 
+	what's with the crashing 
+	everything's crashing 
+	sit 
+	sit 
+	Mommy's going to make a  a  a real gate see it's a gate 
+	adjreal ngate vsee properitcopbeS detarta ngate 
+	COMP SUBJ COMP DET PRED PUNCT
+	and it opens like this see  see xxx 
+	can we close the gate 
+	okay this is the gate 
+	and inside the gate there's a teacup house 
+	cmcm detarta nnteancup nhouse 
+	MOD PRED PUNCT
+	what do you think 
+	do you like it 
+	a teacup house 
+	xxx 
+	you hafta ask for us to open the gate okay 
+	detartthe ngate cmcm adjokay 
+	DET OBJ LP ENUM PUNCT
+	Mommy's not going to open the gate if you don't ask nice 
+	detartthe ngate conjif properyou moddonegnot vask adjnice
+	LINK SUBJ AUX NEG CJCT PRED PUNCT
+	ah 
+	no you can't  you can't go through the gate you hafta ask
+	Mommy nicely to open it 
+	ngate properyou modhaveinfto vask npropMommy
+	advnicedadj-LY infto vopen properit 
+	SUBJ AUX INF XJCT OBJ JCT INF
+	COMP OBJ PUNCT
+	can I go past the gate 
+	huh 
+	can I go ast the plate past the gate 
+	ngate 
+	PUNCT
+	please 
+	please 
+	laughs yes wai 
+	ah ah psh 
+	okay  okay no jumping come here 
+	come here 
+	sit  sit  sit  sit 
+	xxx 
+	okay let's no no more crashing 
+	crashing is very aggressive 
+	I wanna crash some more 
+	no crashing 
+	why do you like crashing so much 
+	advmuch 
+	Malfoy do you know what else is in this box 
+	auxbeS prepin detdemthis nbox 
+	DET POBJ PUNCT
+	there's more toys 
+	you wanna play with something else 
+	postelse 
+	wan play with blocks 
+	okay 
+	okay xxx 
+	play with blocks 
+	what do you wanna do with blocks 
+	nblock-PL 
+	PUNCT
+	no crashing something else 
+	crash 
+	laughs why do you like crashing 
+	make a teacup house 
+	okay teacup house 
+	I put the cylinder in the teacup 
+	nnteancup 
+	wait it's too close whoops 
+	laughs calm down 
+	laughs calm down 
+	can you put the cylinder in the teacup 
+	detartthe nnteancup 
+	PUNCT
+	okay 
+	okay the there's another one 
+	in the other teacup 
+	uhoh okay 
+	let's see 
+	okay put that here 
+	and that there 
+	and this in here 
+	and then lemme see if Mommy can this get this to stay 
+	npropMommy ncan detdemthis vget detdemthis cmcm infto
+	vstay 
+	POBJ DET CMOD DET LP INF COMP
+	PUNCT
+	there we go 
+	ah 
+	okay go 
+	eei 
+	very nice 
+	stay here Malfoy 
+	I want you to stay here on the blue mat 
+	detartthe nblue nmat 
+	MOD POBJ PUNCT
+	can you stay on the blue mat 
+	Malfoy your shoelaces are -uh untied 
+	unparttie-PASTP 
+	can you tie them 
+	okay 
+	do you know how 
+	do you know how to tie them 
+	yeah 
+	show me laughs turn around 
+	turn around 
+	turn 
+	turn 
+	turn 
+	other foot  other foot 
+	okay see like that 
+	and then we make the bunny ear  the bunny ear 
+	turn this one over the ear 
+	two bunny ears 
+	okay   okay Malfoy 
+	so what now 
+	let's make 
+	can you -uh let's use the -uh let's use the plates 
+	vletproobjus vuse detartthe nplate-PL 
+	ENUM SUBJ COMP DET OBJ PUNCT
+	like I don't know flying saucers 
+	nsaucer-PL 
+	PUNCT
+	okay flying saucers 
+	flying saucers landing 
+	they're gonna crash onto the truck 
+	detartthe ntruck 
+	PUNCT
+	okay more crashing 
+	xxx 
+	okay you build something 
+	xxx whoops 
+	xxx fall down 
+	xxx I'm sorry 
+	okay xxx 
+	I'm trying something else 
+	something else 
+	teacup 
+	let's make it tall 
+	oh you wanna tall one 
+	okay yes sir 
+	hands Malfoy hands 
+	that's not tall is it 
+	hm Malfoy calm down 
+	xxx 
+	that's not gonna work 
+	okay there we go 
+	can I put this up here 
+	yeah 
+	yeah 
+	okay okay 
+	-uh say the noise Mommy 
+	what noise 
+	-uh 
+	laughs -uh laughs -uh 
+	say the crashing xxx 
+	go 
+	well when you crash I'll do the crashing noise 
+	detartthe partcrash-PRESP nnoise 
+	MOD OBJ PUNCT
+	okay hands down 
+	okay Malfoy we hafta put the toys away now okay 
+	detartthe ntoy-PL advaway advtemnow cmcm adjokay 
+	JCT JCT LP JCT PUNCT
+	what are we gonna do now 
+	advtemnow 
+	well we gonna hafta put the toys away 
+	detartthe ntoy-PL advaway 
+	OBJ JCT PUNCT
+	okay help Mommy put the toys away 
+	advaway 
+	why we hafta put the toys away 
+	ntoy-PL advaway 
+	PUNCT
+	well because we're done 
+	xxx go home 
+	ah soon yeah 
+	you got lots of blocks at home 
+	play at home crash 
+	go crash and  crash and crash 
+	okay 
+	gonna help Mommy put the toys away 
+	ntoy-PL advaway 
+	PUNCT
+	like this 
+	in the bo in the box please 
+	are we gonna go home Mommy 
+	npropMommy 
+	yes we're gonna go home 
+	put the toys away with Mommy 
+	ramasser	thankyou Malfoy 
+	can you put the blue one 
+	can you close it 
+	can you close the box 
+	wow 

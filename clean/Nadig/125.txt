@@ -1,0 +1,448 @@
+	www 
+	come 
+	Mama 
+	come sit here 
+	thank you  thank you sweetheart 
+	come sit here munchkin 
+	Mama 
+	what's that 
+	who are you calling 
+	gol ga 
+	truck 
+	g 
+	let's put the block on the truck 
+	ntruck 
+	PUNCT
+	sighs 
+	where should the truck go 
+	de 
+	that's good 
+	hm this mo 
+	oh milk 
+	give the baby some milk 
+	this 
+	yeah 
+	milk 
+	milk 
+	ma e mil 
+	put the milk in 
+	Mama 
+	that's right 
+	aw that's nice 
+	e you wanna give the baby 
+	aw y she's thirsty sips 
+	can I have some more 
+	yeah 
+	thankyou sips 
+	xxx mm thankyou 
+	does it fit in her mouth 
+	look 
+	there's a little hole there 
+	wait 
+	or maybe it's for this one 
+	proindefone 
+	no it's for this one 
+	look the baby's drinking the milk aw 
+	nmilk coaw 
+	PUNCT
+	bur bur 
+	spoon 
+	ba 
+	are you giving her the milk with the spoon 
+	nmilk prepwith detartthe nspoon 
+	POBJ PUNCT
+	yeah 
+	oh that's nice 
+	a 
+	it's hot 
+	whimpers 
+	okay 
+	let it cool down 
+	u 
+	is it cold now 
+	do da 
+	okay so she could drink it 
+	ba 
+	what's in  what's in there 
+	ju 
+	food 
+	da 
+	okay give her some food she's hungry 
+	adjhungry 
+	PUNCT
+	grunts 
+	are you gonna give it to this baby too 
+	prepto detdemthis nbaby advtoo 
+	POBJ JCT PUNCT
+	oh she's hungry 
+	grunts 
+	aw eats mm thankyou 
+	a 
+	it's hot 
+	a 
+	oh her hat 
+	yeah she's wearing a hat 
+	it's so pretty 
+	a 
+	no she's n doesn't have a hat 
+	detarta nhat 
+	OBJ PUNCT
+	bibi 
+	this baby has a hat 
+	a 
+	you don't have a hat 
+	oh thankyou eats 
+	mm it's delicious 
+	grunts 
+	is she eating cereal 
+	da 
+	yeah 
+	e spoon 
+	spoon 
+	grunts 
+	me my 
+	yours 
+	I know 
+	you wanna put it in your pocket 
+	detpossyour npocket 
+	PUNCT
+	no 
+	no 
+	just leave it there 
+	okay 
+	grunts 
+	mm 
+	mm yummy 
+	a 
+	a 
+	it's hot 
+	m 
+	okay 
+	go 
+	cold 
+	ja 
+	okay 
+	mulk  milk 
+	milk sips 
+	laughs 
+	laughs it's funny right 
+	de 
+	it's a bottle sips mm 
+	me too 
+	coco	coco	www 
+	of st video at 
+	uhoh 
+	uhoh what happened 
+	bi 
+	baby fell down 
+	yeah 
+	aw pick him up 
+	ah okay 
+	there 
+	is this the mommy 
+	a 
+	is this the mommy and this is the baby 
+	copbeS detartthe nbaby 
+	PRED PUNCT
+	yeah 
+	yeah 
+	why don't you sit down properly George 
+	advproperdadj-LY npropGeorge 
+	PUNCT
+	sit down 
+	sighs 
+	is that more comfortable 
+	here 
+	da 
+	so hungry 
+	m 
+	they're so hungry the little babies eats 
+	nbaby-PL 
+	eye 
+	eyes 
+	xxx 
+	should Mommy buy you a baby 
+	no 
+	no you don't want a doll f oh look we'll take off her hat 
+	cmcm cooh nlook prosubwemodwill vtake prepoff detpossher
+	nhat 
+	COM JCT SUBJ AUX ENUM JCT DET
+	POBJ PUNCT
+	laughs 
+	no 
+	no 
+	laughs 
+	laughs 
+	a 
+	is it funny 
+	da 
+	de 
+	should we put the hat on the mommy 
+	detartthe nmommy 
+	PUNCT
+	da 
+	oh her head's too big 
+	put it on the baby 
+	big 
+	too big 
+	does it fit on the baby 
+	let's see 
+	can I help you 
+	no 
+	okay you can do it yourself 
+	baby's so hungry 
+	Baba 
+	you want y to give it Baba's cereal 
+	ncereal 
+	yeah 
+	www 
+	grandfather's cereal 
+	a ee 
+	here's Baba's cereal tsh 
+	could we put some milk 
+	da 
+	where's the milk 
+	okay 
+	there that's Baba's cereal 
+	mm 
+	not in your mouth 
+	it's just for pretend not in your mouth 
+	detpossyour nmouth 
+	POBJ PUNCT
+	for the baby okay 
+	eats mm yummy 
+	eats mm 
+	Baba 
+	Baba's cereal 
+	a 
+	oh yeah delicious 
+	thankyou 
+	Baba 
+	thankyou 
+	Baba 
+	it's Baba's cereal 
+	yeah mm eats 
+	th baby's so hungry 
+	ba 
+	yeah 
+	ha 
+	hat 
+	da 
+	her head 
+	a 
+	you like her hair 
+	do you wanna brush her hair 
+	da 
+	can Mommy brush her hair 
+	da 
+	aw it's nice 
+	gasps aw it's beautiful 
+	de ma en 
+	baby doesn't have very much hair 
+	de 
+	yes 
+	that's nice 
+	bu bu 
+	mommy's hungry too 
+	eats mm 
+	yeah 
+	eye 
+	yeah her eyes 
+	laughs 
+	laughs 
+	ah this one has a ah there she is 
+	advthere prosubshe copbeS 
+	SUBJ CJCT PUNCT
+	her eye's open now 
+	look she was sleeping 
+	see if this xxx if this eye closes 
+	vclose-S 
+	PUNCT
+	no 
+	no it doesn't 
+	okay 
+	ani Mama ni 
+	it's night 
+	yeah 
+	okay goodnight 
+	tell them to go to sleep sh 
+	night 
+	you wanna play with the blocks 
+	a 
+	xxx 
+	da da 
+	oh th it's morning 
+	no 
+	no sh they're sleeping 
+	sh 
+	gasps is she awake 
+	goodmorning 
+	she's sleeping 
+	no 
+	oh goodmorning 
+	laughs moans 
+	goodmorning 
+	where's the truck 
+	I hear the mail truck 
+	where's the truck 
+	I hear a truck ein 
+	co col 
+	there's a car 
+	whimpers 
+	vroom	ei ei ei 
+	that's reversing 
+	ei ei ei 
+	the wheels 
+	can we can baby come on in your car in your truck 
+	detpossyour ncar cmcm prepin detpossyour ntruck 
+	DET POBJ LP JCT DET POBJ PUNCT
+	do 
+	thankyou 
+	bay 
+	ts too big 
+	no 
+	maybe if you take out the blocks 
+	take out the blocks 
+	s baby fit 
+	no 
+	no 
+	still too big 
+	oh no 
+	ma 
+	ah 
+	very good George 
+	excellent 
+	very good 
+	bravo 
+	gasps oh 
+	yells m 
+	it's okay you could do it again 
+	properit advtemagain 
+	PUNCT
+	no 
+	do it again 
+	ah 
+	ts okay 
+	no 
+	no what 
+	do 
+	don't 
+	me 
+	you 
+	ah 
+	ah  ah whimpers 
+	it's okay 
+	doy 
+	look their blocks 
+	you could build it again 
+	build it again 
+	try again 
+	make two 
+	you know if you make two   you make two 
+	no only two 
+	one two 
+	what's your favorite number 
+	-uh grunts 
+	o 
+	ah 
+	na whimpers 
+	he nine 
+	nine that's your favorite number 
+	nnumber 
+	very good oh 
+	ah 
+	it's okay 
+	claps 
+	you making music 
+	no 
+	laughs 
+	laughs 
+	te 
+	yeah 
+	de 
+	yeah 
+	can I do that too 
+	claps 
+	claps 
+	laughs 
+	laughs 
+	xxx funny 
+	no 
+	claps claps claps claps claps 
+	laughs 
+	laughs 
+	baby now 
+	baby 
+	where's the baby 
+	the baby 
+	oh there it is 
+	hi 
+	ni 
+	oh goodnight okay goodnight 
+	night ni 
+	goodnight 
+	gni 
+	goodnight 
+	gni 
+	goodnight sleep well 
+	oh goodmorning 
+	goodmorning 
+	whimpers 
+	maybe they want some tea 
+	da 
+	xxx give them some tea 
+	da 
+	one for the mommy and one for the baby 
+	prepfor detartthe nbaby 
+	POBJ PUNCT
+	e 
+	look 
+	oh here's some tea George 
+	maybe you could pour the tea 
+	maybe I should buy you a teaset at home would you like that 
+	nnteanset prepat nhome modwillCOND properyou colike
+	prodemthat 
+	POBJ AUX SUBJ COM OBJ PUNCT
+	e mo mo 
+	okay 
+	mulk mulk 
+	milk 
+	xxx 
+	yeah there's milk 
+	put it in the glass 
+	a 
+	put the milk in the glass 
+	thankyou 
+	oh 
+	thankyou 
+	why don't you pour the milk   pour the milk into the cup and
+	give it to the baby and the mommy 
+	nmilk prepinto detartthe ncup coordand vgive properit
+	prepto detartthe nbaby coordand detartthe nmommy 
+	JCT DET POBJ CONJ COORD OBJ JCT
+	DET POBJ CONJ DET COORD PUNCT
+	moans 
+	eats mm thank you 
+	eats 
+	what's that 
+	what do you have in your hand 
+	m a poon 
+	spoon 
+	you're stirring it 
+	no 
+	okay 
+	whimpers 
+	what's that 
+	dugle 
+	turtle 
+	www 
+	da 
+	show Rachel your turtle 
+	yeah it's nice 
+	soft 
+	no 
+	no 
+	eats mm  eats mm thankyou 
+	delicious 
+	eats mm 
+	eats me too 

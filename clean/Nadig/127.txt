@@ -1,0 +1,238 @@
+	where do you wanna put that 
+	prodemthat 
+	e 
+	wanna make a tower 
+	w where are you gonna put that one 
+	partputPASTP compthat proindefone 
+	PUNCT
+	ah 
+	goodjob 
+	here you put this one ch wherever you want 
+	conjwherever properyou vwant 
+	PUNCT
+	cool 
+	but these are the big 
+	xxx 
+	but these are the baby's  baby's plates 
+	nplate-PL 
+	yes they are 
+	and spoons 
+	but that's a fork 
+	that's a fork 
+	yeah 
+	that's a spoon honey 
+	that's a fork 
+	grunts 
+	for a girl 
+	for a girl 
+	what are we drinking 
+	m tea 
+	tea can I have some tea 
+	yeah 
+	won't we have cups 
+	oh 
+	this is the best for my girl 
+	ngirl 
+	deserbash	okay 
+	psh 
+	gasps thankyou 
+	are you gonna drink with me 
+	proobjme 
+	in minute but not right now 
+	but not right yet 
+	sh sips 
+	mm yummy 
+	xxx go get go  go wash it at the sink okay 
+	adjokay 
+	POSTMOD PUNCT
+	you're gonna wash it at the sink 
+	prepat detartthe nsink 
+	POBJ PUNCT
+	yeah 
+	okay we'll do that later 
+	what's this 
+	oh 
+	that's mine 
+	that's yours 
+	you were calling Daddy earlier 
+	mine 
+	yeah 
+	what's on there 
+	horse 
+	s a horse 
+	I useta call it 
+	mhm 
+	-uh 
+	I wanna show 
+	here why don't you stay here buddy 
+	nbuddy 
+	PUNCT
+	we're gonna play with the toys 
+	detartthe ntoy-PL 
+	PUNCT
+	but   but my toys are under that 
+	prodemthat 
+	PUNCT
+	yeah we're gonna play with these ones 
+	prepwith detdemthese proindefone-PL 
+	POBJ PUNCT
+	Heidi brought all these toys for us to play with 
+	proobjus infto vplay prepwith 
+	XJCT JCT PUNCT
+	s that look like fun 
+	and she brought her t her tephone 
+	that's right she brought her telephone 
+	detpossher ntelephone 
+	it's a different telephone isn't it 
+	copbeSnegnot properit 
+	PUNCT
+	yeah 
+	yeah 
+	red and black 
+	red and black 
+	sneezes excuse me 
+	do you think the baby's thirsty 
+	adjthirstdn-Y 
+	you think baby's thirsty honey 
+	what's that 
+	it's like a little hat 
+	there 
+	right 
+	got a little hat 
+	you gonna put the baby in the blanket 
+	prepin detartthe nblanket 
+	POBJ PUNCT
+	where 
+	well in this one 
+	no 
+	no 
+	they were upstairs 
+	oop 
+	laughs 
+	I wanna go get my blankie 
+	my blank et upstairs 
+	well you know what 
+	why don't we just play with these toys 
+	detdemthese ntoy-PL 
+	POBJ PUNCT
+	and you have a little snuggly for your doll if you wanna put him
+	in 
+	adjsnuggledv-Y prepfor detpossyour ndoll conjif properyou
+	vwantinfto vputZERO proobjhim advin 
+	DET POBJ LINK SUBJ CMOD INF COMP
+	OBJ JCT PUNCT
+	my girl 
+	your girls 
+	girl 
+	they'll sleep here 
+	they sleep right there 
+	yeah 
+	in the sun where they're nice and warm 
+	adjnice coordand vwarm 
+	CONJ COORD PUNCT
+	yeah 
+	there 
+	there you go 
+	good sleepie	that's a boy and that's a girl 
+	prodemthatcopbeS detarta ngirl 
+	PRED PUNCT
+	oh yeah 
+	they brother and sister 
+	that's a boy and that's a girl 
+	prodemthatcopbeS detarta ngirl 
+	PRED PUNCT
+	okay 
+	Mommy 
+	yup 
+	I want show something 
+	what do you wanna show 
+	-um 
+	-um 
+	-uh Mommy 
+	ya 
+	I going get my blankie	Kaylee why don't you stay here honey 
+	nhoney 
+	PUNCT
+	but I'm going get xxx 
+	Kaylee 
+	xxx these 
+	ya you do 
+	these are my babies 
+	uhhuh 
+	I gon put it on her 
+	a big one 
+	mhm big orange one 
+	I had that one before 
+	uhhuh 
+	oh 
+	oo 
+	there 
+	are they all nice and warm now 
+	advtemnow 
+	PUNCT
+	yeah 
+	what do you think of this one 
+	proindefone 
+	I have blocks too 
+	yes you do have blocks 
+	whoa 
+	Mommy's tower's gonna fall down 
+	vfall advdown 
+	PUNCT
+	wanna put one on 
+	wow 
+	goodjob 
+	do you think a plate will fit on it 
+	prepon properit 
+	POBJ PUNCT
+	yeah 
+	wo 
+	gasps whoa 
+	whoa 
+	squeals 
+	ah 
+	ah claps ohwell 
+	you wanna build another one 
+	-uh yeah 
+	here do you wanna start 
+	-uh I wanna build and this  and this and 
+	PUNCT
+	yeah 
+	 maybe 
+	and that one 
+	and then that 
+	gasps oh 
+	uhoh 
+	it's a little hard on  on the blanket isn't it 
+	detartthe nblanket copbeSnegnot properit 
+	CMOD NEG SUBJ PUNCT
+	yeah 
+	xxx 
+	like that 
+	xxx this 
+	yeah 
+	xxx 
+	what are those 
+	they're like popsicles 
+	they're like popsicles 
+	I needta put this on the chair 
+	nchair 
+	PUNCT
+	okay 
+	m m 
+	mhm 
+	oops 
+	oops 
+	o ops 
+	where's the other one for the 
+	that's all there is 
+	you can use other things if you wanna 
+	properyou vwantinfto 
+	CJCT OBJ PUNCT
+	you can use the telephone too 
+	ah 
+	uhoh 
+	oh 
+	u they hafta be like this 
+	okay 
+	gasps time to clean up 

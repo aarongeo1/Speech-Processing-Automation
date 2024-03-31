@@ -1,0 +1,314 @@
+	wow okay 
+	www 
+	block 
+	okay alright fix it  fix it 
+	xxx tea xxx 
+	alright so Mommy's gonna stay here okay 
+	advhere adjokay 
+	PUNCT
+	what is that 
+	a blocks 
+	a blocks  a blocks 
+	wow we're putting a what color is that 
+	detintwhat ncolor copbeS prodemthat 
+	COMP PRED PUNCT
+	wa falling 
+	it's falling well it's not a 
+	properitcopbeS negnot detarta 
+	DET PUNCT
+	laughs 
+	I know 
+	why don't we do like this honey 
+	nhoney 
+	PUNCT
+	alright then 
+	do   do 
+	-uh oh it's still falling 
+	sho sho 
+	I know we're gonna make a block 
+	detarta nblock 
+	OBJ PUNCT
+	honey 
+	xxx 
+	yes  yes 
+	yells laughs 
+	ah laughs 
+	having a teaparty 
+	alright then come and look at the teaparty 
+	nteaparty 
+	PUNCT
+	can we turn around over here 
+	right here in the middle 
+	right here 
+	tea party  tea party 
+	yeah  yeah 
+	oh yeah okay 
+	the blocks we're gonna be here 
+	copbe advhere 
+	PUNCT
+	you don you don't know okay 
+	alright you serve Mama okay 
+	why do we j let the baby come and join us 
+	vcome coordand vjoin proobjus 
+	CONJ COORD OBJ PUNCT
+	no I the bottle 
+	oh the baby's for the bottle 
+	okay alright okay here baby you can sit down over here 
+	vsit advdown prepover nhere 
+	JCT JCT POBJ PUNCT
+	the bottle xxx drink it 
+	yes drink it 
+	okay good girl 
+	here we go 
+	oh wait 
+	oh wait 
+	I hafta wait 
+	xxx big one 
+	okay 
+	xxx 
+	okay honey 
+	you're going back to the buildingblocks again 
+	nbuildingblock-PL advtemagain 
+	PUNCT
+	woah oh no 
+	the pot is spilled 
+	pick it up 
+	honey pick it up 
+	the   the pot 
+	there you go 
+	put it right  put it right 
+	the water's gone 
+	I know it's spilled 
+	no you don't needta put it upside-down like that 
+	properit advupsidedown preplike prodemthat 
+	JCT JCT POBJ PUNCT
+	like this 
+	look at me  look at me 
+	like this wow 
+	can we 
+	no 
+	we are build blocks 
+	alright do your buildingblock and I'll wait for you with a
+	teaparty okay 
+	prosubImodwill vwait prepfor properyou prepwith detarta
+	nteaparty adjokay 
+	JCT POBJ JCT DET POBJ POSTMOD PUNCT
+	da da da da da da 
+	da da da 
+	woah 
+	woah the baby's waiting for you to feed the baby 
+	properyou infto vfeed detartthe nbaby 
+	XJCT DET OBJ PUNCT
+	I have a timer 
+	www 
+	okay slowly okay 
+	xxx heavy 
+	it's heavy slowly  slowly 
+	don yu I won  I won 
+	okay would you like me to help you 
+	properyou 
+	PUNCT
+	xxx do it 
+	you do it 
+	okay 
+	it falling 
+	know what be careful it doesn't fall 
+	moddoSnegnot vfall 
+	PUNCT
+	yells laughs 
+	uhoh laughs 
+	alright come on feed the babies  feed the babies 
+	www 
+	i easy 
+	easy take it easy 
+	eas easy 
+	be careful don't do that 
+	w 
+	www 
+	wa yes 
+	yay 
+	okay slowly oh no 
+	yells screams 
+	oh okay 
+	the baby's hungry now 
+	I'm hungry can I hafta come and play with you can we put the
+	building the blocks over here 
+	vcome coordand nplay prepwith properyou modcan prosubwe
+	vputZERO detartthe nbuilding cmcm detartthe nblock-PL
+	prepover nhere 
+	CONJ COORD JCT SUBJ AUX SUBJ CPOBJ
+	DET OBJ LP DET APP NJCT POBJ
+	PUNCT
+	and we will play later 
+	okay can you feed your baby first 
+	bye buildingblocks see you later 
+	no wait 
+	what are you gonna 
+	okay you do it and then feed the baby 
+	detartthe nbaby 
+	OBJ PUNCT
+	no you don't needta do that 
+	PUNCT
+	xxx 
+	goodjob 
+	yummy  yummy 
+	I'm hungry num num num num 
+	the baby said yum yum yum yum 
+	here we go 
+	oh give me my milk please 
+	I need my milk 
+	no 
+	how come I'm hungry 
+	no 
+	the baby's hungry 
+	xxx back 
+	you gonna put him back already 
+	advalready 
+	no 
+	whoops 
+	you hafta okay 
+	okay I need some water please a tea 
+	PUNCT
+	can you   can you give me a tea please 
+	vplease 
+	PUNCT
+	no 
+	I'm thirsty 
+	no 
+	it's finished 
+	no 
+	alright okay 
+	no xxx no 
+	okay clean up  clean up 
+	xxx blocks 
+	okay you needta stop okay 
+	and the wooden blocks 
+	I got it 
+	alright 
+	got it 
+	okay Mama's gonna help you okay 
+	properyou cookay 
+	PUNCT
+	here we go 
+	oh we hafta flatten the xxx 
+	okay slowly 
+	xxx 
+	okay honey 
+	ah wee xxx 
+	oh we will build all together blue  blue 
+	yellow 
+	wow we're making a castle 
+	and there you go 
+	wa slowly 
+	wait  wait  wait  wait  wait  wait  wait 
+	slowly okay look and ah yells 
+	we're gonna try again once more okay princess 
+	conjonce advmore cookay nprincess 
+	COM CJCT PUNCT
+	there you go 
+	there you go yellow  yellow 
+	the orange block  block 
+	ah the blue 
+	you did it goodjob 
+	xxx 
+	so clean up now 
+	clean up  clean up we're gonna play ano woah 
+	cmcm cowoah 
+	COM PUNCT
+	blue 
+	orange 
+	okay for me 
+	for others 
+	for me 
+	whoops oo yay 
+	ya ya ya 
+	yay they're all standing goodjob Hemione 
+	cogoodjob npropHemione 
+	okay build all yellow 
+	goodjob 
+	and then blue 
+	ah no I'm holding blue 
+	no 
+	stack on  stack on 
+	be careful 
+	I'll be careful honey but how could I do it 
+	prointhow modcould prosubI moddo properit 
+	SUBJ AUX COORD PUNCT
+	xxx 
+	oh uhoh 
+	xxx 
+	yes okay clean up  clean up goodbye blocks see you again 
+	properyou advtemagain 
+	JCT PUNCT
+	I'm cleaning up 
+	clean up ah you wanna play with that too 
+	prepwith prodemthat advtoo 
+	JCT POBJ JCT PUNCT
+	okay 
+	oh  oh yeah what kind of blocks in there 
+	nthere 
+	PUNCT
+	goodjob 
+	the truck 
+	give me one minute okay Hemione 
+	www 
+	here we go 
+	g 
+	xxx 
+	yes it's like okay then we're gonna fix it right okay 
+	prosubweauxbePRES partgoPRESPinfto vfix properit
+	advright adjokay 
+	PRED INF COMP OBJ JCT JCT PUNCT
+	this is something eh 
+	xxx 
+	which one do you want honey 
+	teaparty 
+	another teaparty 
+	oh okay 
+	tea xxx name 
+	okay 
+	a wo 
+	okay Mama's gonna do the blocks okay 
+	nblock-PL adjokay 
+	POSTMOD PUNCT
+	www 
+	no 
+	uhoh 
+	xxx 
+	no you don't   you don't needta make a mess with that 
+	detarta nmess prepwith prodemthat 
+	DET OBJ JCT POBJ PUNCT
+	okay Hemione clean up 
+	stand up 
+	okay sit down please sit down 
+	stand up 
+	okay alright 
+	xxx 
+	alright 
+	I can come here 
+	and now this one 
+	it's on there 
+	only that one princess 
+	like this 
+	yes you can d yes 
+	xxx 
+	you can do this 
+	ah I can xxx like this 
+	okay 
+	xxx 
+	alright 
+	a bottle 
+	a bottle 
+	where's the baby 
+	www 
+	xxx 
+	okay  okay 
+	oh no xxx baby 
+	oh no that's not for the baby 
+	nbaby 
+	PUNCT
+	maybe this one Hemione 
+	let me see 
+	ah look at the little baby 
+	no 
+	yes 

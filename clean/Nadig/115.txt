@@ -1,0 +1,228 @@
+	nice 
+	oh 
+	nice 
+	oh laughs fell over 
+	that's a nice sound 
+	laughs kisses wanna play oh 
+	where'd they go 
+	laughs 
+	wanna build another tower 
+	yeah 
+	okay xxx 
+	truck  truck 
+	wanna bring the 
+	wow the truck is bringing them somewhere 
+	proobjthem advsomewhere 
+	PUNCT
+	where are they going 
+	go to soo 
+	where 
+	to make soo 
+	to Macso	where's Macso	Macso	oh can you get there by car 
+	PUNCT
+	no you get there by truck 
+	truck 
+	xxx 
+	you brought our truck our   our -uh blocks 
+	detpossour nblock-PL 
+	PUNCT
+	thankyou 
+	so now are they gonna build 
+	vbuild 
+	PUNCT
+	yeah 
+	what are they gonna build 
+	oh out 
+	now yellow s 
+	truck 
+	vroom	move this out of the way 
+	truck  truck  truck 
+	wow 
+	truck  truck 
+	now these 
+	who's gonna build it 
+	these guys 
+	these the builders 
+	yeah 
+	xxx the truck xxx 
+	so what are they gonna build 
+	vbuild 
+	I'm gonna build tower 
+	ah 
+	with Mommy 
+	so what do we needta do first 
+	PUNCT
+	to build the tower 
+	nice tower 
+	that was that's pretty high 
+	advpretty adjhigh 
+	could we bake something else go on top 
+	prepon ntop 
+	PUNCT
+	to make it even taller 
+	no 
+	this wouldn't work 
+	no xxx 
+	laughs now what do you wanna do 
+	you wanna have a tea party 
+	mhm 
+	mhm 
+	do you wanna spoon 
+	who are these two 
+	Claire and Zoe 
+	you wanna feed them 
+	maybe a little 
+	so we hafta feed them 
+	she's one and she's a still a baby 
+	detarta cmcm advstill detarta nbaby 
+	JCT DET PRED PUNCT
+	oh laughs 
+	laughs 
+	that's okay 
+	you broke a stower 
+	wanna build it again 
+	xxx 
+	you love the baby 
+	no we love the baby 
+	Mommy has a hat on 
+	laughs 
+	laughs 
+	it fits 
+	it looks like a little dwarf hat 
+	www 
+	after okay 
+	what else do you wanna play 
+	you can take off this too 
+	yeah 
+	take this off 
+	laughs naked 
+	laughs is she gonna have a bath 
+	yeah 
+	where's the bath 
+	right here 
+	laughs 
+	laughs 
+	must have hurt her head 
+	laughs I'm fine 
+	laughs see I told you 
+	told ya 
+	got a hole in her bum 
+	well she hasta pee 
+	laughs 
+	laughs 
+	xxx this 
+	her bum 
+	wait what's this 
+	because she's chubby 
+	laughs 
+	laughs 
+	well she's two 
+	you still have chubby baby s fat when you're lil two 
+	conjwhen properyoucopbePRES detnumtwo 
+	LINK SUBJ CJCT PRED PUNCT
+	whee 
+	let's put them all together 
+	all the clothes 
+	all together 
+	here you go 
+	there's the baby's clothes 
+	and the baby's bottle 
+	and what's this 
+	hat 
+	oh yeah arrange it 
+	all done 
+	okay grunts 
+	put her clothes on 
+	thankyou 
+	and I'll put this clothes on 
+	advon 
+	okay 
+	you don't need your hat 
+	sighs 
+	can you put that on 
+	yeah you wanna put the shirt on 
+	advon 
+	PUNCT
+	yeah 
+	it's easier 
+	what are they gonna do now that they're dressed 
+	advtemnow compthat prosubtheyauxbePRES partdress-PASTP 
+	SUBJ AUX COMP PUNCT
+	they're gonna go to bed 
+	oh it's nap time 
+	collocation 
+	how does Claire like to go to sleep 
+	vsleep 
+	PUNCT
+	by a lullaby 
+	mm sing her a lullaby 
+	thi this is Zoe and this is Claire 
+	npropClaire 
+	PUNCT
+	mhm 
+	so you sing her a lullaby and she'll go to sleep 
+	cmcm coordand prosubshemodwill vgo infto vsleep 
+	LINK SUBJ AUX CJCT INF COMP PUNCT
+	what about you sing her lullaby 
+	but I'll take her and you take her 
+	properyou vtake proobjher 
+	OBJ PUNCT
+	okay I'll rock her 
+	she needs a bottle 
+	laughs 
+	do you wanna feed her bottle 
+	xxx put the dishes away 
+	I'm gonna hafta xxx wash them 
+	proobjthem 
+	PUNCT
+	hm 
+	laughs 
+	laughs the phone's for you 
+	you're busy  busy 
+	okay 
+	I'll take the baby 
+	it's for you now 
+	laughs can you feed the baby 
+	laughs 
+	hello 
+	oh she's feeding herself 
+	oh there you go 
+	yes Claire's being fed a bottle then she's going to bed 
+	detarta nbottle advtemthen prosubsheauxbeS partgo-PRESP
+	prepto nbed 
+	JCT SUBJ AUX CMOD JCT POBJ PUNCT
+	laughs 
+	laughs see you later 
+	it's for you laughs 
+	laughs how do you know 
+	you didn't even say hello 
+	laughs hello 
+	it's for you 
+	laughs hello 
+	oh wrong number 
+	laughs 
+	laughs 
+	it's wake time and we have my bath 
+	detpossmy nbath 
+	OBJ PUNCT
+	again 
+	laughs 
+	laughs 
+	yeah xxx 
+	xxx get her undressed 
+	okay 
+	laughs 
+	here you go 
+	laughs 
+	laughs 
+	xxx 
+	are they able to float 
+	yeah look laughs 
+	laughs careful honey 
+	laughs have some tea 
+	have some tea while they're in the bath 
+	detartthe nbath 
+	POBJ PUNCT
+	www 
+	there's two more 
+	xxx 
