@@ -1,0 +1,47 @@
+---------JUSTIFICATIONS-------------
+
+
+** Cleaning Step **
+Removing Headers and Extraneous Information: Cleaning the data by removing headers and
+extraneous information is crucial for the transformation task because these parts of the
+text do not contain phonetic information relevant to the pronunciation transformation. 
+Keeping them would introduce noise into the transformation process.
+
+Handling '*' Lines: handling lines starting with '*' up to ':' is necessary because 
+these lines typically contain annotations, speaker names, or other non-phonetic 
+information. Such lines/parts of lines are irrelevant to the transformation task, and 
+their removal helps simplify the data.
+
+Removing Content Between "NAK" Markers: Content between "NAK" markers, including "NAK" 
+itself, is removed because it does not provide phonetic information. It is specific to
+the original data format and is not relevant to the transformation.
+
+Removing Lines with Only '0' in Conversation: Lines with only '0' in conversation are 
+removed because they do not contain phonetic content and are unlikely to contribute to
+the transformation task. This step helps in cleaning out irrelevant data.
+
+Removing Special Characters: Removing special characters that are not part of the
+ArpaBET phoneme set ensures that the text is prepared for accurate phonetic
+transformation. It prevents interference from characters that do not have 
+a phonetic counterpart in the CMU Pronunciation Dictionary.
+
+Removing Numbers: Removing numbers from the text is justified because the 
+transformation task focuses on mapping words to their phonetic representations. 
+Numbers are not part of the ArpaBET phoneme set and are typically not relevant 
+for pronunciation transformation.
+
+Contractions: Contractions such as can't were not modified to their full forms (ex: cannot)
+because such an action would alter the underlying pronunciation of the word and therefore would
+not be suitable for the downstream task.
+
+** Transformation Step **
+Not in dictionary - While searching in the dictionary, if the word is not found in the 
+    dict then it will not have a phonetic sound associated with it, therefore the word will 
+    be removed from the transformed data
+
+Multiple pronunciation - For words that map to multiple pronunciations, the first
+    phonetic translation of the word is used since it is the most popular pronunciation.
+    This implementation is also computationally tractable.
+
+Lexical stress markers -  lexical stress markers (such as AA1) were left in the final 
+    output because they are important for understanding the pronunciation of the word

@@ -1,0 +1,43 @@
+** Bias & Limitations **
+
+One significant limitation of the transformation process is the reliance on a 
+pre-defined dictionary of words and their corresponding ArpaBET phonetic representations.
+If a word from the input text is not found in the dictionary, it will be omitted from 
+the transformed data. This limitation can lead to a loss of information, particularly 
+for domain-specific jargon, proper nouns, or newly coined words that may not be present 
+in the dictionary. In such cases, the output may not accurately reflect the original 
+text's phonetic content. The benefit of this approach is that it ensures only words with
+known phonetic representations are included in the output. Users can have confidence 
+that the phonetic transcriptions provided are based on established pronunciation 
+information, reducing the risk of inaccuracies or misrepresentations.
+
+Another potential source of bias is the handling of words with multiple pronunciations.
+In the transformation process, when a word is found in the dictionary with multiple 
+pronunciations, the choice is made to use only the first phonetic translation of the 
+word. This decision is beneficial for several reasons. First, Using the first 
+pronunciation for words with multiple entries in the dictionary promotes consistency
+in the transformed data. This consistency simplifies the output, making it more 
+predictable and easier to work with, especially in computational applications. Secondly,
+By selecting a single pronunciation, the transformation process reduces ambiguity. 
+When dealing with multiple pronunciations, especially ones related to different inflection
+points, it can be challenging to decide which pronunciation to use. Choosing the first 
+one simplifies this decision-making process. Lastly,  In many cases, the first listed 
+pronunciation in a dictionary is the most common or widely accepted pronunciation of a 
+word. This choice aligns with the principle of providing a standard representation that 
+is more likely to match the way most people pronounce the word. It ensures that the 
+transformed text remains intelligible to a broad audience.
+
+The biases related to handling not-in-dictionary words and multiple pronunciations can 
+drastically impact the transformation process when applied to different contexts such as
+news programs. In the context of child-adult dyads, conversations can often include novel
+vocabulary and creative words not present in standard dictionaries. Handling words not in 
+the dictionary and omitting them can lead to a loss of child-specific language phonetics.
+On the other hand, news programs typically involve more formal language where vocabulary
+tends to align with established dictionaries. Therefore the likelihood of encountering
+non-dictionary words are relatively low. With the Multiple pronunciation bias, when 
+children learn a new language, it may introduce multiple variations in pronunciation for 
+a single word. The bias of using the first pronunciation can simply the transformed data
+but may not capture these variations accurately. Whereas news programs typically adhere to
+standardized pronunciation. The key takeaway is that the choice of biases should be
+tailored to the specific context in which the transformation is applied. Contextual 
+understanding is essential for achieving meaningful and accurate results.
