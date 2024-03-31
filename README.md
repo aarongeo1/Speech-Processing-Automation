@@ -1,12 +1,3 @@
-# cmput461_a1_childes
-
-Team 
-  - Martin Mullappallil Johney mullappa
-  - Aaron Binoy - abinoy
-
-External Resources
- Consulted the use of ChatGPT, StackOverflow and YouTube for regex expressions.
-
 Execution
  To execute the program, run the python script titled CodeRunner.py which is located in the src directory. 
  CodeRunner.py will run clean.py first then transform.py which are also located in the same directory.
